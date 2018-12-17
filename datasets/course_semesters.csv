@@ -1,0 +1,4079 @@
+,CourseCode,PedagogicalName,NRegistrations
+0,,,27283
+1,,Admission EPFL,4577
+2,,Bachelor semestre 1,20863
+3,,Bachelor semestre 2,45205
+4,,Bachelor semestre 3,14177
+5,,Bachelor semestre 4,31576
+6,,Bachelor semestre 5,18280
+7,,Bachelor semestre 5b,663
+8,,Bachelor semestre 6,23651
+9,,Bachelor semestre 6b,2115
+10,,Master semestre 1,14626
+11,,Master semestre 2,26549
+12,,Master semestre 3,15878
+13,,Master semestre 4,1221
+14,,Mineur semestre 1,284
+15,,Mineur semestre 2,272
+16,,Projet Master automne,1744
+17,,Projet Master printemps,932
+18,,Semestre -1,15913
+19,,Semestre -2,14
+20,,Semestre 0,111
+21,,Semestre 1,60390
+22,,Semestre 2,167
+23,,Semestre 3,54805
+24,,Semestre 4,208
+25,,Semestre 5,92167
+26,,Semestre 6,540
+27,,Semestre 7,3340
+28,,Semestre 8,9
+29,,Semestre 9,38
+30,,Semestre 10,387
+31,,Semestre automne,16917
+32,,Semestre printemps,18286
+33,AR-101,Bachelor semestre 2,1690
+34,AR-102,Bachelor semestre 2,1690
+35,AR-111,Bachelor semestre 2,1692
+36,AR-112,Bachelor semestre 2,1692
+37,AR-121,Bachelor semestre 2,1921
+38,AR-122,Bachelor semestre 2,1921
+39,AR-123,Bachelor semestre 1,2327
+40,AR-124,Bachelor semestre 2,1918
+41,AR-131,Bachelor semestre 2,1918
+42,AR-132,Bachelor semestre 2,1918
+43,AR-133,Bachelor semestre 1,1443
+44,AR-134,Bachelor semestre 2,1336
+45,AR-151,Bachelor semestre 2,1468
+46,AR-152,Bachelor semestre 2,1468
+47,AR-201(a),Bachelor semestre 4,160
+48,AR-201(b),Bachelor semestre 4,148
+49,AR-201(c),Bachelor semestre 4,185
+50,AR-201(d),Bachelor semestre 4,46
+51,AR-201(e),Bachelor semestre 4,45
+52,AR-201(f),Bachelor semestre 4,45
+53,AR-201(g),Bachelor semestre 4,158
+54,AR-201(h),Bachelor semestre 4,64
+55,AR-201(i),Bachelor semestre 4,46
+56,AR-201(j),Bachelor semestre 4,30
+57,AR-201(k),Bachelor semestre 4,63
+58,AR-201(l),Bachelor semestre 4,28
+59,AR-202(a),Bachelor semestre 4,160
+60,AR-202(b),Bachelor semestre 4,148
+61,AR-202(c),Bachelor semestre 4,185
+62,AR-202(d),Bachelor semestre 4,46
+63,AR-202(e),Bachelor semestre 4,45
+64,AR-202(f),Bachelor semestre 4,45
+65,AR-202(g),Bachelor semestre 4,158
+66,AR-202(h),Bachelor semestre 4,64
+67,AR-202(i),Bachelor semestre 4,46
+68,AR-202(j),Bachelor semestre 4,30
+69,AR-202(k),Bachelor semestre 4,63
+70,AR-202(l),Bachelor semestre 4,28
+71,AR-211,Bachelor semestre 3,341
+72,AR-211,Bachelor semestre 4,667
+73,AR-212,Bachelor semestre 4,829
+74,AR-213,Bachelor semestre 4,711
+75,AR-214,Bachelor semestre 4,840
+76,AR-216,Bachelor semestre 4,73
+77,AR-218,Bachelor semestre 4,120
+78,AR-219,Bachelor semestre 3,340
+79,AR-219,Bachelor semestre 4,156
+80,AR-220,Bachelor semestre 4,319
+81,AR-221,Bachelor semestre 3,1200
+82,AR-221,Semestre automne,1
+83,AR-222,Bachelor semestre 4,1017
+84,AR-222,Semestre printemps,1
+85,AR-223,Bachelor semestre 3,1193
+86,AR-223,Semestre automne,2
+87,AR-224,Bachelor semestre 4,1004
+88,AR-231,Bachelor semestre 4,1009
+89,AR-232,Bachelor semestre 4,1009
+90,AR-233,Bachelor semestre 3,571
+91,AR-233,Bachelor semestre 4,128
+92,AR-234,Bachelor semestre 4,691
+93,AR-235,Bachelor semestre 4,242
+94,AR-236,Bachelor semestre 4,122
+95,AR-238,Bachelor semestre 4,95
+96,AR-239,Bachelor semestre 3,183
+97,AR-239,Bachelor semestre 4,777
+98,AR-240,Bachelor semestre 4,777
+99,AR-251,Bachelor semestre 4,245
+100,AR-252,Bachelor semestre 4,245
+101,AR-254,Bachelor semestre 4,97
+102,AR-260,Bachelor semestre 4,141
+103,AR-261,Bachelor semestre 3,792
+104,AR-262,Bachelor semestre 4,324
+105,AR-264,Bachelor semestre 4,52
+106,AR-266,Bachelor semestre 4,62
+107,AR-268,Bachelor semestre 4,94
+108,AR-270,Bachelor semestre 4,54
+109,AR-272,Bachelor semestre 4,27
+110,AR-281,Bachelor semestre 3,134
+111,AR-281,Bachelor semestre 5b,97
+112,AR-282,Bachelor semestre 4,21
+113,AR-284,Bachelor semestre 4,300
+114,AR-286,Bachelor semestre 4,60
+115,AR-288,Bachelor semestre 4,28
+116,AR-301(a),Bachelor semestre 5,92
+117,AR-301(a),Bachelor semestre 5b,84
+118,AR-301(a),Semestre automne,32
+119,AR-301(b),Bachelor semestre 5,113
+120,AR-301(b),Bachelor semestre 5b,109
+121,AR-301(b),Semestre automne,22
+122,AR-301(c),Bachelor semestre 5,59
+123,AR-301(c),Bachelor semestre 5b,43
+124,AR-301(c),Semestre automne,26
+125,AR-301(d),Bachelor semestre 5,120
+126,AR-301(d),Bachelor semestre 5b,58
+127,AR-301(d),Semestre automne,5
+128,AR-301(e),Bachelor semestre 5,13
+129,AR-301(e),Bachelor semestre 5b,11
+130,AR-301(e),Semestre automne,6
+131,AR-301(f),Bachelor semestre 5,14
+132,AR-301(f),Bachelor semestre 5b,15
+133,AR-301(g),Bachelor semestre 5b,15
+134,AR-301(h),Bachelor semestre 5b,14
+135,AR-301(h),Semestre automne,1
+136,AR-301(i),Bachelor semestre 5b,13
+137,AR-301(i),Semestre automne,2
+138,AR-301(j),Bachelor semestre 5b,15
+139,AR-301(k),Bachelor semestre 5,21
+140,AR-301(k),Semestre automne,4
+141,AR-302(a),Bachelor semestre 6,82
+142,AR-302(a),Bachelor semestre 6b,48
+143,AR-302(a),Semestre printemps,15
+144,AR-302(b),Bachelor semestre 6,110
+145,AR-302(b),Bachelor semestre 6b,62
+146,AR-302(b),Semestre printemps,17
+147,AR-302(c),Bachelor semestre 6,58
+148,AR-302(c),Bachelor semestre 6b,26
+149,AR-302(c),Semestre printemps,20
+150,AR-302(d),Bachelor semestre 6,114
+151,AR-302(d),Bachelor semestre 6b,29
+152,AR-302(d),Semestre printemps,4
+153,AR-302(e),Bachelor semestre 6,15
+154,AR-302(e),Bachelor semestre 6b,15
+155,AR-302(f),Bachelor semestre 6,12
+156,AR-302(f),Bachelor semestre 6b,13
+157,AR-302(f),Semestre printemps,5
+158,AR-302(g),Bachelor semestre 6b,15
+159,AR-302(h),Bachelor semestre 6b,13
+160,AR-302(h),Semestre printemps,2
+161,AR-302(i),Bachelor semestre 6b,15
+162,AR-302(j),Bachelor semestre 6b,13
+163,AR-302(j),Semestre printemps,2
+164,AR-302(k),Bachelor semestre 6,24
+165,AR-302(k),Bachelor semestre 6b,22
+166,AR-302(k),Semestre printemps,2
+167,AR-311,Bachelor semestre 5,226
+168,AR-312,Bachelor semestre 5,218
+169,AR-312,Bachelor semestre 5b,104
+170,AR-312,Semestre automne,4
+171,AR-318,Bachelor semestre 6,30
+172,AR-321,Bachelor semestre 5,467
+173,AR-321,Bachelor semestre 5b,400
+174,AR-321,Semestre automne,7
+175,AR-322,Bachelor semestre 6,464
+176,AR-322,Bachelor semestre 6b,285
+177,AR-322,Semestre printemps,2
+178,AR-323,Bachelor semestre 5,102
+179,AR-323,Bachelor semestre 5b,106
+180,AR-323,Bachelor semestre 6,351
+181,AR-323,Bachelor semestre 6b,276
+182,AR-323,Semestre automne,4
+183,AR-324,Bachelor semestre 6,450
+184,AR-324,Bachelor semestre 6b,276
+185,AR-324,Semestre printemps,1
+186,AR-326,Bachelor semestre 6,51
+187,AR-328,Bachelor semestre 6,42
+188,AR-331,Bachelor semestre 5,103
+189,AR-331,Bachelor semestre 5b,110
+190,AR-331,Bachelor semestre 6,311
+191,AR-331,Bachelor semestre 6b,174
+192,AR-332,Bachelor semestre 6,407
+193,AR-332,Bachelor semestre 6b,279
+194,AR-333,Bachelor semestre 5,224
+195,AR-333,Bachelor semestre 5b,298
+196,AR-334,Bachelor semestre 6,215
+197,AR-334,Bachelor semestre 6b,296
+198,AR-335,Bachelor semestre 5,226
+199,AR-335,Bachelor semestre 6b,288
+200,AR-336,Bachelor semestre 6,211
+201,AR-336,Bachelor semestre 6b,288
+202,AR-337,Bachelor semestre 5,225
+203,AR-337,Bachelor semestre 5b,107
+204,AR-337,Semestre automne,6
+205,AR-338,Bachelor semestre 6,67
+206,AR-342,Bachelor semestre 6,39
+207,AR-344,Bachelor semestre 6,22
+208,AR-350,Bachelor semestre 6,108
+209,AR-351,Bachelor semestre 3,81
+210,AR-351,Bachelor semestre 5,384
+211,AR-352,Bachelor semestre 6,21
+212,AR-356,Bachelor semestre 6,93
+213,AR-358,Bachelor semestre 6,18
+214,AR-360,Bachelor semestre 6,35
+215,AR-362,Bachelor semestre 6,211
+216,AR-364,Bachelor semestre 6,67
+217,AR-365,Bachelor semestre 6,212
+218,AR-366,Bachelor semestre 6,212
+219,AR-368,Bachelor semestre 6,23
+220,AR-381,Bachelor semestre 5b,82
+221,AR-381,Bachelor semestre 6b,105
+222,AR-382,Bachelor semestre 6b,184
+223,AR-383,Bachelor semestre 5,229
+224,AR-388,Bachelor semestre 6b,88
+225,AR-401(a),Master semestre 1,47
+226,AR-401(a),Master semestre 3,35
+227,AR-401(a),Semestre automne,26
+228,AR-401(b),Master semestre 1,72
+229,AR-401(b),Master semestre 3,46
+230,AR-401(b),Semestre automne,46
+231,AR-401(c),Master semestre 1,63
+232,AR-401(c),Master semestre 3,24
+233,AR-401(c),Semestre automne,30
+234,AR-401(d),Master semestre 1,11
+235,AR-401(d),Master semestre 3,35
+236,AR-401(d),Semestre automne,25
+237,AR-401(e),Master semestre 1,61
+238,AR-401(e),Master semestre 3,29
+239,AR-401(e),Semestre automne,28
+240,AR-401(f),Master semestre 1,42
+241,AR-401(f),Master semestre 3,13
+242,AR-401(f),Semestre automne,26
+243,AR-401(g),Master semestre 1,42
+244,AR-401(g),Master semestre 3,6
+245,AR-401(g),Semestre automne,8
+246,AR-401(h),Master semestre 1,11
+247,AR-401(h),Master semestre 3,9
+248,AR-401(h),Semestre automne,9
+249,AR-401(i),Master semestre 1,52
+250,AR-401(i),Master semestre 3,14
+251,AR-401(i),Semestre automne,56
+252,AR-401(j),Master semestre 1,36
+253,AR-401(j),Semestre automne,14
+254,AR-401(k),Master semestre 1,8
+255,AR-401(k),Semestre automne,5
+256,AR-401(l),Master semestre 1,11
+257,AR-401(l),Semestre automne,3
+258,AR-401(m),Master semestre 3,20
+259,AR-401(m),Semestre automne,1
+260,AR-401(n),Master semestre 1,20
+261,AR-401(n),Master semestre 3,15
+262,AR-401(n),Semestre automne,21
+263,AR-401(o),Master semestre 3,30
+264,AR-401(o),Semestre automne,5
+265,AR-401(p),Master semestre 3,13
+266,AR-401(p),Semestre automne,3
+267,AR-401(q),Master semestre 3,5
+268,AR-401(r),Master semestre 1,26
+269,AR-401(r),Semestre automne,7
+270,AR-401(s),Master semestre 1,35
+271,AR-401(t),Master semestre 1,9
+272,AR-401(t),Semestre automne,3
+273,AR-401(u),Master semestre 1,8
+274,AR-401(u),Semestre automne,1
+275,AR-402(a),Master semestre 2,83
+276,AR-402(a),Semestre printemps,23
+277,AR-402(b),Master semestre 2,117
+278,AR-402(b),Semestre printemps,27
+279,AR-402(c),Master semestre 2,70
+280,AR-402(c),Semestre printemps,22
+281,AR-402(d),Master semestre 2,67
+282,AR-402(d),Semestre printemps,16
+283,AR-402(e),Master semestre 2,100
+284,AR-402(e),Semestre printemps,20
+285,AR-402(f),Master semestre 2,33
+286,AR-402(f),Semestre printemps,26
+287,AR-402(g),Master semestre 2,28
+288,AR-402(g),Semestre printemps,9
+289,AR-402(h),Master semestre 2,30
+290,AR-402(h),Semestre printemps,10
+291,AR-402(i),Master semestre 2,68
+292,AR-402(i),Semestre printemps,21
+293,AR-402(j),Master semestre 2,28
+294,AR-402(j),Semestre printemps,16
+295,AR-402(l),Master semestre 2,13
+296,AR-402(l),Semestre printemps,2
+297,AR-402(m),Master semestre 2,19
+298,AR-402(m),Semestre printemps,8
+299,AR-402(n),Master semestre 2,54
+300,AR-402(n),Semestre printemps,16
+301,AR-402(o),Master semestre 2,17
+302,AR-402(o),Semestre printemps,4
+303,AR-402(p),Master semestre 2,7
+304,AR-402(p),Semestre printemps,3
+305,AR-402(q),Master semestre 2,7
+306,AR-402(q),Semestre printemps,1
+307,AR-403,Master semestre 3,38
+308,AR-405,Master semestre 3,33
+309,AR-406,Master semestre 2,11
+310,AR-407,Master semestre 1,137
+311,AR-407,Master semestre 3,58
+312,AR-408,Master semestre 2,36
+313,AR-409,Master semestre 3,10
+314,AR-410,Master semestre 2,212
+315,AR-411,Master semestre 1,501
+316,AR-411,Master semestre 3,199
+317,AR-412,Master semestre 2,635
+318,AR-413,Master semestre 1,57
+319,AR-413,Master semestre 3,34
+320,AR-413,Semestre automne,10
+321,AR-414,Master semestre 2,148
+322,AR-414,Semestre printemps,23
+323,AR-415,Master semestre 1,83
+324,AR-415,Master semestre 2,12
+325,AR-415,Master semestre 3,12
+326,AR-415,Semestre automne,27
+327,AR-415,Semestre printemps,9
+328,AR-416,Master semestre 2,113
+329,AR-416,Semestre printemps,31
+330,AR-417,Master semestre 1,28
+331,AR-417,Master semestre 3,5
+332,AR-417,Semestre automne,20
+333,AR-418,Master semestre 2,21
+334,AR-418,Semestre printemps,31
+335,AR-419,Master semestre 1,128
+336,AR-419,Master semestre 3,52
+337,AR-420,Master semestre 2,22
+338,AR-420,Semestre printemps,17
+339,AR-421,Master semestre 1,472
+340,AR-421,Master semestre 3,281
+341,AR-422,Master semestre 2,304
+342,AR-423,Master semestre 1,193
+343,AR-423,Master semestre 2,24
+344,AR-423,Master semestre 3,244
+345,AR-424,Master semestre 2,343
+346,AR-425,Master semestre 1,93
+347,AR-425,Master semestre 3,34
+348,AR-426,Master semestre 2,89
+349,AR-426,Semestre printemps,25
+350,AR-427,Master semestre 1,118
+351,AR-427,Master semestre 3,82
+352,AR-429,Master semestre 1,68
+353,AR-429,Master semestre 3,45
+354,AR-430,Master semestre 2,207
+355,AR-431,Master semestre 1,198
+356,AR-431,Master semestre 3,164
+357,AR-432,Master semestre 1,50
+358,AR-432,Master semestre 3,29
+359,AR-432,Semestre automne,7
+360,AR-433,Master semestre 2,20
+361,AR-433,Semestre printemps,11
+362,AR-434,Master semestre 1,103
+363,AR-434,Master semestre 3,55
+364,AR-434,Semestre automne,13
+365,AR-435,Master semestre 1,6
+366,AR-435,Semestre automne,7
+367,AR-437,Master semestre 1,239
+368,AR-437,Master semestre 3,60
+369,AR-438,Master semestre 1,55
+370,AR-438,Master semestre 3,34
+371,AR-438,Semestre automne,86
+372,AR-439,Master semestre 1,89
+373,AR-439,Master semestre 3,48
+374,AR-439,Semestre automne,51
+375,AR-440,Master semestre 1,23
+376,AR-440,Master semestre 2,26
+377,AR-440,Semestre automne,13
+378,AR-440,Semestre printemps,37
+379,AR-441,Master semestre 1,60
+380,AR-441,Master semestre 2,5
+381,AR-441,Master semestre 3,38
+382,AR-441,Semestre automne,31
+383,AR-441,Semestre printemps,4
+384,AR-442,Master semestre 1,60
+385,AR-442,Master semestre 3,14
+386,AR-442,Semestre automne,11
+387,AR-443,Master semestre 1,41
+388,AR-444,Master semestre 1,150
+389,AR-446,Master semestre 2,4
+390,AR-446,Semestre printemps,2
+391,AR-447,Master semestre 1,50
+392,AR-447,Master semestre 3,26
+393,AR-447,Semestre automne,15
+394,AR-448,Master semestre 2,46
+395,AR-448,Semestre printemps,28
+396,AR-450,Master semestre 1,25
+397,AR-451,Master semestre 1,348
+398,AR-451,Master semestre 2,100
+399,AR-451,Master semestre 3,93
+400,AR-451,Semestre automne,44
+401,AR-451,Semestre printemps,5
+402,AR-452,Master semestre 2,348
+403,AR-452,Semestre printemps,30
+404,AR-453,Master semestre 1,48
+405,AR-453,Master semestre 3,100
+406,AR-453,Semestre automne,3
+407,AR-454,Master semestre 2,260
+408,AR-455,Master semestre 1,155
+409,AR-455,Master semestre 3,99
+410,AR-455,Semestre automne,63
+411,AR-456,Master semestre 2,352
+412,AR-456,Semestre printemps,38
+413,AR-457,Master semestre 1,373
+414,AR-457,Master semestre 3,148
+415,AR-458,Master semestre 2,282
+416,AR-458,Semestre printemps,74
+417,AR-459,Master semestre 1,174
+418,AR-459,Master semestre 3,106
+419,AR-459,Semestre automne,51
+420,AR-460,Master semestre 2,117
+421,AR-460,Semestre printemps,13
+422,AR-461,Master semestre 1,148
+423,AR-461,Master semestre 3,47
+424,AR-461,Semestre automne,24
+425,AR-462,Master semestre 2,59
+426,AR-463,Master semestre 3,65
+427,AR-463,Semestre automne,7
+428,AR-464,Master semestre 2,37
+429,AR-464,Semestre printemps,10
+430,AR-465,Master semestre 1,273
+431,AR-465,Master semestre 3,143
+432,AR-465,Semestre automne,70
+433,AR-466,Master semestre 1,4
+434,AR-466,Master semestre 2,26
+435,AR-466,Master semestre 3,8
+436,AR-466,Semestre automne,6
+437,AR-466,Semestre printemps,33
+438,AR-467,Master semestre 3,20
+439,AR-467,Semestre automne,12
+440,AR-468,Master semestre 3,86
+441,AR-469,Master semestre 3,32
+442,AR-469,Semestre automne,9
+443,AR-470,Master semestre 1,172
+444,AR-471,Master semestre 1,76
+445,AR-471,Master semestre 3,47
+446,AR-471,Semestre automne,36
+447,AR-471(a),Master semestre 3,11
+448,AR-471(a),Semestre automne,4
+449,AR-472,Master semestre 2,54
+450,AR-472(b),Master semestre 2,3
+451,AR-472(b),Semestre printemps,4
+452,AR-473,Master semestre 1,24
+453,AR-473,Semestre automne,3
+454,AR-475,Master semestre 1,4
+455,AR-475,Semestre automne,9
+456,AR-476,Master semestre 1,10
+457,AR-476,Semestre automne,10
+458,AR-477,Master semestre 1,27
+459,AR-477,Master semestre 3,25
+460,AR-477,Semestre automne,23
+461,AR-481,Master semestre 1,359
+462,AR-481,Master semestre 3,242
+463,AR-486,Master semestre 2,10
+464,AR-486,Semestre printemps,6
+465,AR-487,Master semestre 3,35
+466,AR-487,Semestre automne,3
+467,AR-488,Master semestre 2,78
+468,AR-489,Master semestre 1,165
+469,AR-489,Master semestre 3,68
+470,AR-489,Semestre automne,28
+471,AR-491,Master semestre 2,107
+472,AR-492,Master semestre 2,267
+473,AR-492,Semestre printemps,51
+474,AR-494,Master semestre 2,20
+475,AR-494,Semestre printemps,6
+476,AR-501(c),Master semestre 1,1
+477,AR-501(c),Master semestre 3,2
+478,AR-501(e),Master semestre 1,1
+479,AR-501(f),Master semestre 1,1
+480,AR-501(f),Master semestre 3,1
+481,AR-501(g),Master semestre 3,2
+482,AR-501(h),Master semestre 1,1
+483,AR-501(h),Master semestre 3,3
+484,AR-501(i),Master semestre 1,2
+485,AR-501(j),Master semestre 1,2
+486,AR-501(k),Master semestre 1,2
+487,AR-501(l),Master semestre 1,1
+488,AR-511,Master semestre 1,46
+489,AR-513,Master semestre 1,22
+490,AR-520,Master semestre 1,24
+491,AR-520,Master semestre 2,4
+492,AR-521,Master semestre 1,275
+493,AR-521,Master semestre 3,151
+494,AR-522,Master semestre 2,111
+495,AR-524,Master semestre 2,81
+496,AR-526,Master semestre 2,38
+497,AR-528,Master semestre 2,24
+498,AR-535,Master semestre 2,224
+499,AR-597,Master semestre 1,243
+500,AR-598,Master semestre 1,558
+501,AR-598,Master semestre 3,289
+502,AR-598,Semestre printemps,2
+503,AR-599,Projet Master automne,19
+504,AR-599,Projet Master printemps,697
+505,BIO-100,Bachelor semestre 2,552
+506,BIO-101,Bachelor semestre 2,298
+507,BIO-102,Bachelor semestre 2,298
+508,BIO-103,Bachelor semestre 1,635
+509,BIO-103,Bachelor semestre 2,446
+510,BIO-104,Bachelor semestre 2,821
+511,BIO-105,Master semestre 1,124
+512,BIO-105,Master semestre 3,109
+513,BIO-105,Semestre automne,116
+514,BIO-106,Bachelor semestre 2,359
+515,BIO-106,Semestre printemps,281
+516,BIO-107,Bachelor semestre 6,146
+517,BIO-107,Semestre printemps,4
+518,BIO-108,Bachelor semestre 6,60
+519,BIO-109(a),Bachelor semestre 1,169
+520,BIO-109(b),Bachelor semestre 1,858
+521,BIO-109(c),Bachelor semestre 1,849
+522,BIO-109(d),Bachelor semestre 1,511
+523,BIO-109(e),Bachelor semestre 1,391
+524,BIO-111,Bachelor semestre 2,1126
+525,BIO-111,Bachelor semestre 6,4
+526,BIO-200,Bachelor semestre 4,46
+527,BIO-201,Bachelor semestre 3,154
+528,BIO-201,Bachelor semestre 5,294
+529,BIO-201,Master semestre 3,3
+530,BIO-201,Semestre automne,383
+531,BIO-202,Bachelor semestre 4,148
+532,BIO-203,Bachelor semestre 4,526
+533,BIO-204,Bachelor semestre 4,526
+534,BIO-205,Bachelor semestre 3,553
+535,BIO-206,Bachelor semestre 4,341
+536,BIO-207,Bachelor semestre 4,120
+537,BIO-212,Bachelor semestre 3,644
+538,BIO-213,Bachelor semestre 4,612
+539,BIO-221,Bachelor semestre 4,149
+540,BIO-221,Bachelor semestre 6,295
+541,BIO-222,Bachelor semestre 4,76
+542,BIO-241,Bachelor semestre 4,258
+543,BIO-242,Bachelor semestre 3,255
+544,BIO-243,Bachelor semestre 3,299
+545,BIO-244,Bachelor semestre 4,219
+546,BIO-260,Bachelor semestre 4,77
+547,BIO-303,Bachelor semestre 5,131
+548,BIO-313,Master semestre 3,19
+549,BIO-315,Master semestre 2,45
+550,BIO-315,Master semestre 4,22
+551,BIO-315,Semestre printemps,2
+552,BIO-318,Master semestre 1,13
+553,BIO-318,Master semestre 2,22
+554,BIO-318,Master semestre 3,2
+555,BIO-319,Master semestre 2,13
+556,BIO-323,Bachelor semestre 5,62
+557,BIO-341,Bachelor semestre 5,519
+558,BIO-341,Semestre automne,1
+559,BIO-361,Bachelor semestre 6,124
+560,BIO-366,Bachelor semestre 6,109
+561,BIO-371,Bachelor semestre 5,137
+562,BIO-372,Bachelor semestre 5,554
+563,BIO-372,Bachelor semestre 6,62
+564,BIO-373,Bachelor semestre 5,527
+565,BIO-373,Bachelor semestre 6,73
+566,BIO-375,Bachelor semestre 6,129
+567,BIO-375,Master semestre 2,4
+568,BIO-375,Semestre printemps,17
+569,BIO-376,Bachelor semestre 5,558
+570,BIO-376,Semestre automne,42
+571,BIO-377,Bachelor semestre 6,409
+572,BIO-377,Master semestre 2,4
+573,BIO-377,Semestre printemps,16
+574,BIO-378,Bachelor semestre 6,149
+575,BIO-379,Bachelor semestre 6,384
+576,BIO-380,Bachelor semestre 5,64
+577,BIO-380,Semestre automne,4
+578,BIO-380(a),Bachelor semestre 5,71
+579,BIO-380(b),Semestre automne,7
+580,BIO-381,Bachelor semestre 6,29
+581,BIO-382,Bachelor semestre 6,304
+582,BIO-392,Bachelor semestre 6,99
+583,BIO-409,Master semestre 2,55
+584,BIO-412,Master semestre 2,15
+585,BIO-430,Master semestre 2,79
+586,BIO-430,Master semestre 4,68
+587,BIO-440,Master semestre 3,11
+588,BIO-441,Master semestre 4,25
+589,BIO-443,Master semestre 2,14
+590,BIO-443,Master semestre 4,12
+591,BIO-447,Master semestre 1,397
+592,BIO-447,Master semestre 3,179
+593,BIO-448,Master semestre 2,18
+594,BIO-449,Master semestre 1,70
+595,BIO-449,Master semestre 3,13
+596,BIO-450,Master semestre 1,31
+597,BIO-455,Master semestre 1,315
+598,BIO-455,Master semestre 3,75
+599,BIO-461,Master semestre 3,46
+600,BIO-462,Master semestre 3,61
+601,BIO-463,Master semestre 1,172
+602,BIO-463,Master semestre 3,37
+603,BIO-465,Master semestre 2,313
+604,BIO-465,Master semestre 4,47
+605,BIO-465,Semestre printemps,89
+606,BIO-466,Master semestre 2,6
+607,BIO-466,Master semestre 4,3
+608,BIO-467,Master semestre 1,19
+609,BIO-467,Master semestre 3,8
+610,BIO-468,Master semestre 1,7
+611,BIO-468,Master semestre 3,4
+612,BIO-469,Master semestre 1,48
+613,BIO-469,Master semestre 3,20
+614,BIO-470,Master semestre 3,35
+615,BIO-471,Master semestre 1,108
+616,BIO-471,Master semestre 3,58
+617,BIO-472,Master semestre 2,69
+618,BIO-472,Master semestre 4,32
+619,BIO-473,Master semestre 2,1
+620,BIO-473,Master semestre 4,5
+621,BIO-474,Master semestre 2,2
+622,BIO-475,Master semestre 3,10
+623,BIO-476,Master semestre 2,15
+624,BIO-477,Master semestre 2,56
+625,BIO-477,Master semestre 4,60
+626,BIO-478,Bachelor semestre 6,7
+627,BIO-478,Master semestre 2,137
+628,BIO-478,Master semestre 4,47
+629,BIO-479,Master semestre 1,107
+630,BIO-479,Master semestre 3,27
+631,BIO-480,Master semestre 1,147
+632,BIO-480,Master semestre 3,57
+633,BIO-480,Semestre automne,10
+634,BIO-481,Master semestre 3,21
+635,BIO-482,Master semestre 1,151
+636,BIO-482,Master semestre 2,19
+637,BIO-482,Master semestre 3,37
+638,BIO-482,Semestre automne,70
+639,BIO-483,Master semestre 2,73
+640,BIO-483,Master semestre 4,56
+641,BIO-483,Semestre printemps,14
+642,BIO-484,Master semestre 2,8
+643,BIO-485,Master semestre 1,7
+644,BIO-485,Master semestre 2,10
+645,BIO-485,Master semestre 4,2
+646,BIO-486,Master semestre 1,2
+647,BIO-486,Master semestre 2,9
+648,BIO-486,Master semestre 4,12
+649,BIO-487,Master semestre 1,29
+650,BIO-488,Master semestre 1,21
+651,BIO-488,Master semestre 2,8
+652,BIO-488,Master semestre 4,4
+653,BIO-489,Master semestre 1,12
+654,BIO-491,Master semestre 2,21
+655,BIO-491,Master semestre 4,27
+656,BIO-493,Master semestre 1,22
+657,BIO-493,Master semestre 2,14
+658,BIO-493,Master semestre 4,15
+659,BIO-494,Master semestre 1,25
+660,BIO-494,Master semestre 2,10
+661,BIO-494,Master semestre 3,4
+662,BIO-494,Master semestre 4,9
+663,BIO-496,Master semestre 4,12
+664,BIO-496,Semestre automne,4
+665,BIO-501,Master semestre 1,89
+666,BIO-501,Master semestre 3,17
+667,BIO-501,Semestre printemps,13
+668,BIO-502,Master semestre 1,166
+669,BIO-502,Master semestre 3,35
+670,BIO-502,Semestre automne,3
+671,BIO-502,Semestre printemps,26
+672,BIO-503,Master semestre 1,122
+673,BIO-503,Master semestre 3,22
+674,BIO-503,Semestre printemps,16
+675,BIO-504,Master semestre 1,28
+676,BIO-504,Master semestre 3,12
+677,BIO-505,Master semestre 1,28
+678,BIO-505,Master semestre 3,12
+679,BIO-506,Master semestre 4,5
+680,BIO-507,Master semestre 4,4
+681,BIO-596,Master semestre 1,51
+682,BIO-598,Projet Master automne,3
+683,BIO-598,Projet Master printemps,28
+684,BIO-598(a),Projet Master automne,20
+685,BIO-598(b),Projet Master printemps,121
+686,BIO-599,Projet Master automne,37
+687,BIO-599,Projet Master printemps,243
+688,BIOENG-312,Bachelor semestre 5,521
+689,BIOENG-312,Bachelor semestre 6,70
+690,BIOENG-319,Bachelor semestre 6,67
+691,BIOENG-331,Bachelor semestre 5,128
+692,BIOENG-332,Bachelor semestre 6,60
+693,BIOENG-333,Bachelor semestre 5,76
+694,BIOENG-339,Bachelor semestre 6,27
+695,BIOENG-375(a),Bachelor semestre 5,30
+696,BIOENG-375(b),Bachelor semestre 6,34
+697,BIOENG-376,Bachelor semestre 5,25
+698,BIOENG-377,Bachelor semestre 6,28
+699,BIOENG-379,Bachelor semestre 6,29
+700,BIOENG-390,Bachelor semestre 6,383
+701,BIOENG-390,Semestre automne,2
+702,BIOENG-401,Master semestre 2,16
+703,BIOENG-401,Semestre printemps,5
+704,BIOENG-404,Master semestre 2,38
+705,BIOENG-404,Master semestre 4,77
+706,BIOENG-406,Master semestre 2,1
+707,BIOENG-411,Master semestre 2,4
+708,BIOENG-411,Master semestre 4,12
+709,BIOENG-411,Semestre automne,1
+710,BIOENG-412,Master semestre 4,18
+711,BIOENG-414,Master semestre 4,3
+712,BIOENG-415,Master semestre 4,17
+713,BIOENG-416,Master semestre 4,5
+714,BIOENG-430,Master semestre 1,116
+715,BIOENG-430,Master semestre 3,57
+716,BIOENG-430,Semestre automne,16
+717,BIOENG-431,Master semestre 3,78
+718,BIOENG-432,Master semestre 2,24
+719,BIOENG-433,Master semestre 2,77
+720,BIOENG-433,Master semestre 4,14
+721,BIOENG-433,Semestre printemps,2
+722,BIOENG-434,Master semestre 2,48
+723,BIOENG-436,Master semestre 2,45
+724,BIOENG-437,Master semestre 1,174
+725,BIOENG-437,Master semestre 3,53
+726,BIOENG-437,Semestre automne,59
+727,BIOENG-438,Master semestre 2,42
+728,BIOENG-440,Bachelor semestre 6,194
+729,BIOENG-440,Master semestre 2,22
+730,BIOENG-440,Master semestre 3,60
+731,BIOENG-440,Master semestre 4,2
+732,BIOENG-441,Master semestre 1,76
+733,BIOENG-441,Master semestre 2,53
+734,BIOENG-442,Master semestre 2,246
+735,BIOENG-442,Master semestre 4,122
+736,BIOENG-442,Semestre printemps,82
+737,BIOENG-443,Master semestre 2,62
+738,BIOENG-444,Master semestre 2,71
+739,BIOENG-444,Master semestre 4,33
+740,BIOENG-445,Master semestre 1,63
+741,BIOENG-445,Master semestre 3,21
+742,BIOENG-446,Master semestre 2,34
+743,BIOENG-447,Master semestre 1,35
+744,BIOENG-447,Master semestre 2,17
+745,BIOENG-447,Master semestre 4,12
+746,BIOENG-448,Master semestre 2,84
+747,BIOENG-448,Master semestre 4,121
+748,BIOENG-448,Semestre printemps,17
+749,BIOENG-449,Master semestre 2,70
+750,BIOENG-449,Master semestre 4,93
+751,BIOENG-450,Master semestre 4,21
+752,BIOENG-450,Semestre printemps,4
+753,BIOENG-451,Master semestre 1,28
+754,BIOENG-476,Master semestre 2,1
+755,BIOENG-476,Master semestre 4,3
+756,BIOENG-485,Master semestre 1,22
+757,BIOENG-485,Master semestre 2,16
+758,BIOENG-486,Master semestre 1,101
+759,BIOENG-486,Master semestre 3,11
+760,BIOENG-486,Semestre automne,43
+761,BIOENG-489,Master semestre 4,27
+762,BIOENG-489,Semestre automne,5
+763,BIOENG-490,Semestre automne,11
+764,BIOENG-490,Semestre printemps,6
+765,BIOENG-490(a),Semestre printemps,1
+766,BIOENG-490(b),Semestre automne,3
+767,BIOENG-500,Master semestre 1,22
+768,BIOENG-500,Master semestre 3,26
+769,BIOENG-501,Master semestre 3,26
+770,BIOENG-501(a),Master semestre 3,9
+771,BIOENG-501(b),Master semestre 3,12
+772,BIOENG-502,Master semestre 3,26
+773,BIOENG-502(a),Master semestre 3,9
+774,BIOENG-502(b),Master semestre 3,12
+775,BIOENG-503,Master semestre 3,47
+776,BIOENG-511,Master semestre 1,105
+777,BIOENG-511,Master semestre 3,14
+778,BIOENG-512,Master semestre 1,65
+779,BIOENG-512,Master semestre 3,10
+780,BIOENG-513,Master semestre 1,93
+781,BIOENG-513,Master semestre 3,10
+782,BIOENG-514,Master semestre 1,79
+783,BIOENG-514,Master semestre 3,10
+784,BIOENG-515,Master semestre 1,53
+785,BIOENG-515,Master semestre 3,13
+786,BIOENG-516,Master semestre 1,90
+787,BIOENG-516,Master semestre 3,5
+788,BIOENG-517,Master semestre 1,63
+789,BIOENG-517,Master semestre 3,2
+790,BIOENG-561,Master semestre 1,98
+791,BIOENG-561,Master semestre 3,31
+792,BIOENG-561,Semestre automne,18
+793,BIOENG-562,Master semestre 2,30
+794,BIOENG-562,Semestre printemps,6
+795,BIOENG-596,Master semestre 1,182
+796,BIOENG-596,Master semestre 2,14
+797,BIOENG-596,Master semestre 3,47
+798,BIOENG-596,Master semestre 4,71
+799,BIOENG-596,Projet Master automne,1
+800,CH-101,Bachelor semestre 1,880
+801,CH-101,Semestre automne,694
+802,CH-102,Bachelor semestre 1,693
+803,CH-102,Bachelor semestre 2,184
+804,CH-102,Semestre automne,622
+805,CH-102,Semestre printemps,120
+806,CH-103,Bachelor semestre 2,483
+807,CH-103,Semestre printemps,390
+808,CH-104,Bachelor semestre 2,221
+809,CH-104,Semestre printemps,173
+810,CH-108,Bachelor semestre 1,77
+811,CH-108(a),Bachelor semestre 1,626
+812,CH-109(a),Bachelor semestre 2,568
+813,CH-109(b),Semestre printemps,12
+814,CH-111,Bachelor semestre 2,176
+815,CH-111,Bachelor semestre 6,9
+816,CH-111,Semestre printemps,264
+817,CH-111(a),Bachelor semestre 2,182
+818,CH-111(a),Bachelor semestre 6,2
+819,CH-111(a),Semestre printemps,110
+820,CH-111(b),Bachelor semestre 2,149
+821,CH-160,Bachelor semestre 1,620
+822,CH-160,Bachelor semestre 3,427
+823,CH-160,Semestre automne,420
+824,CH-160(a),Bachelor semestre 1,537
+825,CH-160(b),Bachelor semestre 1,432
+826,CH-160(b),Semestre automne,90
+827,CH-160(c),Bachelor semestre 1,365
+828,CH-160(c),Bachelor semestre 3,147
+829,CH-160(d),Bachelor semestre 1,525
+830,CH-160(d),Semestre automne,150
+831,CH-161(a),Bachelor semestre 1,871
+832,CH-161(a),Bachelor semestre 2,486
+833,CH-161(a),Bachelor semestre 5,100
+834,CH-161(b),Bachelor semestre 1,748
+835,CH-161(b),Bachelor semestre 2,314
+836,CH-161(b),Bachelor semestre 3,2
+837,CH-161(c),Bachelor semestre 1,1078
+838,CH-161(c),Bachelor semestre 2,477
+839,CH-161(d),Bachelor semestre 1,790
+840,CH-161(d),Bachelor semestre 2,319
+841,CH-161(en),Bachelor semestre 2,159
+842,CH-162,Bachelor semestre 1,1560
+843,CH-162,Bachelor semestre 5,93
+844,CH-163,Bachelor semestre 2,430
+845,CH-167,Bachelor semestre 2,215
+846,CH-168,Bachelor semestre 2,578
+847,CH-169,Bachelor semestre 1,39
+848,CH-169,Bachelor semestre 2,28
+849,CH-170,Semestre automne,393
+850,CH-171,Semestre printemps,74
+851,CH-172,Semestre automne,394
+852,CH-173,Semestre printemps,33
+853,CH-174,Semestre printemps,9
+854,CH-177,Semestre automne,15
+855,CH-178,Semestre printemps,48
+856,CH-179,Semestre automne,11
+857,CH-201,Bachelor semestre 3,525
+858,CH-201,Semestre automne,347
+859,CH-210,Bachelor semestre 3,193
+860,CH-210,Bachelor semestre 5,12
+861,CH-210,Semestre automne,46
+862,CH-221,Bachelor semestre 3,528
+863,CH-222,Bachelor semestre 4,457
+864,CH-223,Bachelor semestre 4,454
+865,CH-229,Bachelor semestre 4,428
+866,CH-230,Bachelor semestre 3,243
+867,CH-231,Bachelor semestre 3,332
+868,CH-232,Bachelor semestre 4,326
+869,CH-233,Bachelor semestre 3,186
+870,CH-233,Semestre automne,5
+871,CH-234,Bachelor semestre 4,131
+872,CH-239,Bachelor semestre 4,428
+873,CH-241,Bachelor semestre 3,169
+874,CH-241,Bachelor semestre 4,332
+875,CH-242,Bachelor semestre 4,436
+876,CH-242,Semestre automne,6
+877,CH-243,Bachelor semestre 4,415
+878,CH-243,Bachelor semestre 5,33
+879,CH-244,Bachelor semestre 4,521
+880,CH-250,Bachelor semestre 3,100
+881,CH-250,Semestre automne,5
+882,CH-260,Bachelor semestre 3,154
+883,CH-260,Semestre automne,68
+884,CH-261,Bachelor semestre 3,53
+885,CH-262,Bachelor semestre 3,53
+886,CH-263,Bachelor semestre 3,303
+887,CH-264,Bachelor semestre 3,70
+888,CH-264,Bachelor semestre 4,180
+889,CH-265,Semestre printemps,29
+890,CH-301,Bachelor semestre 5,351
+891,CH-301,Semestre automne,236
+892,CH-301(a),Bachelor semestre 5,113
+893,CH-301(b),Semestre printemps,72
+894,CH-302,Bachelor semestre 6,157
+895,CH-309(a),Bachelor semestre 5,385
+896,CH-309(b),Semestre printemps,35
+897,CH-311,Bachelor semestre 5,71
+898,CH-311,Bachelor semestre 6,198
+899,CH-311,Semestre automne,2
+900,CH-312,Bachelor semestre 6,256
+901,CH-313,Bachelor semestre 5,218
+902,CH-313,Semestre automne,1
+903,CH-313(a),Bachelor semestre 5,85
+904,CH-313(b),Bachelor semestre 3,79
+905,CH-319,Bachelor semestre 6,239
+906,CH-321,Bachelor semestre 5,300
+907,CH-321,Semestre automne,4
+908,CH-329,Bachelor semestre 5,239
+909,CH-331,Bachelor semestre 6,263
+910,CH-332,Bachelor semestre 6,260
+911,CH-333,Bachelor semestre 5,49
+912,CH-333,Bachelor semestre 6,70
+913,CH-341,Bachelor semestre 5,474
+914,CH-342,Bachelor semestre 4,53
+915,CH-342,Bachelor semestre 5,364
+916,CH-342,Bachelor semestre 6,59
+917,CH-343,Bachelor semestre 5,429
+918,CH-349,Bachelor semestre 6,324
+919,CH-351,Bachelor semestre 6,97
+920,CH-351,Master semestre 2,16
+921,CH-352,Bachelor semestre 6,85
+922,CH-353,Bachelor semestre 5,64
+923,CH-353,Bachelor semestre 6,20
+924,CH-353,Master semestre 1,8
+925,CH-353,Master semestre 3,3
+926,CH-353,Semestre automne,6
+927,CH-354,Bachelor semestre 6,20
+928,CH-359,Bachelor semestre 6,80
+929,CH-360,Bachelor semestre 6,91
+930,CH-360,Master semestre 2,18
+931,CH-369,Semestre automne,26
+932,CH-401,Master semestre 1,60
+933,CH-401,Master semestre 2,13
+934,CH-401,Master semestre 3,50
+935,CH-402,Master semestre 2,138
+936,CH-402,Semestre printemps,20
+937,CH-403,Master semestre 2,142
+938,CH-403,Semestre printemps,47
+939,CH-404,Master semestre 2,48
+940,CH-405,Master semestre 1,42
+941,CH-405,Master semestre 3,23
+942,CH-405,Semestre automne,9
+943,CH-406,Master semestre 1,22
+944,CH-409,Bachelor semestre 5,26
+945,CH-409,Master semestre 3,8
+946,CH-409,Semestre automne,3
+947,CH-411,Master semestre 2,143
+948,CH-412,Master semestre 2,149
+949,CH-413,Master semestre 2,252
+950,CH-413,Master semestre 4,30
+951,CH-413,Semestre printemps,16
+952,CH-414,Master semestre 2,141
+953,CH-414,Master semestre 3,12
+954,CH-415,Master semestre 1,88
+955,CH-415,Master semestre 3,25
+956,CH-421,Master semestre 1,273
+957,CH-421,Master semestre 3,134
+958,CH-422,Master semestre 1,149
+959,CH-422,Master semestre 3,87
+960,CH-423,Master semestre 1,137
+961,CH-423,Master semestre 3,81
+962,CH-424,Master semestre 2,113
+963,CH-425,Master semestre 2,14
+964,CH-426,Master semestre 2,53
+965,CH-431,Master semestre 1,15
+966,CH-431,Master semestre 2,61
+967,CH-431,Master semestre 3,53
+968,CH-432,Master semestre 1,105
+969,CH-432,Master semestre 3,73
+970,CH-433,Master semestre 1,36
+971,CH-433,Master semestre 3,54
+972,CH-434,Master semestre 2,28
+973,CH-435,Master semestre 2,60
+974,CH-436,Master semestre 2,8
+975,CH-437,Master semestre 3,68
+976,CH-438,Master semestre 1,55
+977,CH-438,Master semestre 2,33
+978,CH-438,Master semestre 3,20
+979,CH-441,Master semestre 1,57
+980,CH-441,Master semestre 3,41
+981,CH-442,Bachelor semestre 6,29
+982,CH-442,Master semestre 1,74
+983,CH-442,Master semestre 3,45
+984,CH-443,Master semestre 1,37
+985,CH-443,Master semestre 2,43
+986,CH-444,Master semestre 1,65
+987,CH-444,Master semestre 3,17
+988,CH-445,Master semestre 2,4
+989,CH-446,Bachelor semestre 6,26
+990,CH-446,Master semestre 2,61
+991,CH-447,Master semestre 2,33
+992,CH-448,Master semestre 2,8
+993,CH-451,Master semestre 1,50
+994,CH-451,Master semestre 3,9
+995,CH-452,Master semestre 1,59
+996,CH-452,Master semestre 3,12
+997,CH-453,Master semestre 2,37
+998,CH-454,Master semestre 2,11
+999,CH-460,Bachelor semestre 5,24
+1000,CH-460,Master semestre 1,24
+1001,CH-460,Master semestre 3,8
+1002,CH-460,Semestre automne,41
+1003,CH-462,Master semestre 1,37
+1004,CH-462,Master semestre 3,46
+1005,CH-468(a),Semestre automne,8
+1006,CH-468(b),Semestre printemps,6
+1007,CH-490,Master semestre 1,95
+1008,CH-490,Master semestre 3,85
+1009,CH-491,Master semestre 2,186
+1010,CH-491,Semestre automne,10
+1011,CH-492,Master semestre 1,58
+1012,CH-599,Projet Master automne,158
+1013,CH-599,Projet Master printemps,41
+1014,ChE-201,Bachelor semestre 3,536
+1015,ChE-201,Master semestre 1,28
+1016,ChE-201,Master semestre 3,10
+1017,ChE-201,Semestre automne,6
+1018,ChE-202,Bachelor semestre 4,474
+1019,ChE-202,Master semestre 2,4
+1020,ChE-203,Bachelor semestre 4,54
+1021,ChE-203,Master semestre 2,1
+1022,ChE-209,Bachelor semestre 3,236
+1023,ChE-301,Bachelor semestre 5,285
+1024,ChE-301,Semestre automne,3
+1025,ChE-302,Bachelor semestre 6,202
+1026,ChE-302,Semestre printemps,1
+1027,ChE-303,Bachelor semestre 6,216
+1028,ChE-309,Bachelor semestre 6,193
+1029,ChE-311,Bachelor semestre 5,215
+1030,ChE-311,Bachelor semestre 6,197
+1031,ChE-311,Master semestre 2,27
+1032,ChE-311,Semestre automne,1
+1033,ChE-311,Semestre printemps,5
+1034,ChE-319,Bachelor semestre 6,263
+1035,ChE-319,Semestre printemps,3
+1036,ChE-401,Master semestre 1,153
+1037,ChE-401,Master semestre 3,123
+1038,ChE-401,Semestre automne,11
+1039,ChE-402,Master semestre 2,180
+1040,ChE-402,Master semestre 4,44
+1041,ChE-403,Master semestre 1,160
+1042,ChE-403,Master semestre 3,118
+1043,ChE-403,Semestre automne,10
+1044,ChE-404,Master semestre 2,125
+1045,ChE-404,Master semestre 4,22
+1046,ChE-404,Semestre printemps,4
+1047,ChE-405,Master semestre 3,22
+1048,ChE-406,Master semestre 1,71
+1049,ChE-406,Master semestre 3,74
+1050,ChE-407,Master semestre 2,111
+1051,ChE-407,Master semestre 4,18
+1052,ChE-407,Semestre printemps,7
+1053,ChE-408,Master semestre 1,20
+1054,ChE-408,Master semestre 2,72
+1055,ChE-408,Master semestre 4,19
+1056,ChE-409,Master semestre 1,153
+1057,ChE-409,Master semestre 3,110
+1058,ChE-410,Master semestre 2,7
+1059,ChE-411,Master semestre 1,242
+1060,ChE-411,Master semestre 2,129
+1061,ChE-411,Master semestre 3,53
+1062,ChE-411,Semestre automne,2
+1063,ChE-412,Master semestre 2,94
+1064,ChE-412,Master semestre 4,7
+1065,ChE-421,Master semestre 2,1
+1066,ChE-421,Master semestre 4,4
+1067,ChE-421,Semestre printemps,1
+1068,ChE-437,Master semestre 2,19
+1069,ChE-437,Master semestre 4,6
+1070,ChE-437,Semestre printemps,10
+1071,ChE-438,Semestre printemps,4
+1072,ChE-451,Master semestre 1,152
+1073,ChE-451,Master semestre 2,104
+1074,ChE-451,Master semestre 3,41
+1075,ChE-451,Semestre automne,20
+1076,ChE-451,Semestre printemps,1
+1077,ChE-452,Master semestre 2,185
+1078,ChE-452,Master semestre 4,35
+1079,ChE-452,Semestre printemps,5
+1080,ChE-459,Master semestre 2,175
+1081,ChE-459,Master semestre 4,32
+1082,ChE-459,Semestre printemps,2
+1083,ChE-460,Semestre automne,5
+1084,ChE-596,Master semestre 1,79
+1085,ChE-596,Master semestre 2,4
+1086,ChE-596,Master semestre 3,48
+1087,ChE-596,Master semestre 4,2
+1088,ChE-599,Projet Master automne,57
+1089,ChE-599,Projet Master printemps,113
+1090,CIVIL-100,Bachelor semestre 2,675
+1091,CIVIL-100,Bachelor semestre 4,1
+1092,CIVIL-101,Bachelor semestre 2,675
+1093,CIVIL-101,Bachelor semestre 4,1
+1094,CIVIL-103,Bachelor semestre 2,1144
+1095,CIVIL-120,Bachelor semestre 1,94
+1096,CIVIL-121,Bachelor semestre 2,91
+1097,CIVIL-122,Bachelor semestre 2,2594
+1098,CIVIL-122,Bachelor semestre 4,46
+1099,CIVIL-123,Bachelor semestre 2,2594
+1100,CIVIL-123,Bachelor semestre 4,46
+1101,CIVIL-124,Bachelor semestre 1,253
+1102,CIVIL-124,Bachelor semestre 2,769
+1103,CIVIL-125,Bachelor semestre 2,241
+1104,CIVIL-200(a),Bachelor semestre 3,58
+1105,CIVIL-200(b),Semestre printemps,1
+1106,CIVIL-201(a),Bachelor semestre 4,59
+1107,CIVIL-202,Bachelor semestre 4,54
+1108,CIVIL-203,Bachelor semestre 3,166
+1109,CIVIL-203,Bachelor semestre 4,472
+1110,CIVIL-203,Semestre printemps,5
+1111,CIVIL-210,Bachelor semestre 4,769
+1112,CIVIL-220,Bachelor semestre 3,57
+1113,CIVIL-221,Bachelor semestre 4,56
+1114,CIVIL-222,Bachelor semestre 3,159
+1115,CIVIL-223,Bachelor semestre 3,575
+1116,CIVIL-223,Semestre automne,9
+1117,CIVIL-224,Bachelor semestre 4,474
+1118,CIVIL-225,Bachelor semestre 3,456
+1119,CIVIL-225,Semestre automne,9
+1120,CIVIL-230,Bachelor semestre 3,73
+1121,CIVIL-231,Bachelor semestre 4,57
+1122,CIVIL-232,Bachelor semestre 3,71
+1123,CIVIL-233,Bachelor semestre 4,59
+1124,CIVIL-234,Bachelor semestre 4,163
+1125,CIVIL-234,Bachelor semestre 5,346
+1126,CIVIL-235,Bachelor semestre 4,644
+1127,CIVIL-236,Bachelor semestre 4,120
+1128,CIVIL-237,Bachelor semestre 3,542
+1129,CIVIL-237,Bachelor semestre 4,92
+1130,CIVIL-237,Semestre automne,1
+1131,CIVIL-250,Bachelor semestre 4,60
+1132,CIVIL-260,Bachelor semestre 4,602
+1133,CIVIL-262,Bachelor semestre 4,168
+1134,CIVIL-263,Bachelor semestre 4,72
+1135,CIVIL-264,Bachelor semestre 4,49
+1136,CIVIL-265,Bachelor semestre 4,16
+1137,CIVIL-300,Bachelor semestre 5,93
+1138,CIVIL-301,Bachelor semestre 6,76
+1139,CIVIL-302,Bachelor semestre 6,85
+1140,CIVIL-303,Bachelor semestre 5,11
+1141,CIVIL-304,Bachelor semestre 6,411
+1142,CIVIL-304,Semestre printemps,14
+1143,CIVIL-305,Bachelor semestre 5,95
+1144,CIVIL-306,Bachelor semestre 5,427
+1145,CIVIL-308,Bachelor semestre 5,96
+1146,CIVIL-310,Bachelor semestre 5,135
+1147,CIVIL-311,Bachelor semestre 6,89
+1148,CIVIL-312,Bachelor semestre 6,611
+1149,CIVIL-320,Bachelor semestre 6,83
+1150,CIVIL-320,Master semestre 2,1
+1151,CIVIL-321,Bachelor semestre 5,129
+1152,CIVIL-321,Bachelor semestre 6,331
+1153,CIVIL-322,Bachelor semestre 5,45
+1154,CIVIL-322,Bachelor semestre 6,76
+1155,CIVIL-322,Master semestre 1,1
+1156,CIVIL-322,Master semestre 2,2
+1157,CIVIL-330,Bachelor semestre 6,294
+1158,CIVIL-331,Bachelor semestre 5,324
+1159,CIVIL-337,Bachelor semestre 4,53
+1160,CIVIL-337,Bachelor semestre 6,43
+1161,CIVIL-338,Bachelor semestre 6,43
+1162,CIVIL-340,Bachelor semestre 5,575
+1163,CIVIL-350,Bachelor semestre 6,396
+1164,CIVIL-351,Bachelor semestre 5,490
+1165,CIVIL-351,Semestre automne,28
+1166,CIVIL-352,Bachelor semestre 5,92
+1167,CIVIL-352,Semestre automne,6
+1168,CIVIL-360,Bachelor semestre 6,17
+1169,CIVIL-361,Bachelor semestre 6,61
+1170,CIVIL-362,Bachelor semestre 6,69
+1171,CIVIL-363,Bachelor semestre 6,68
+1172,CIVIL-364,Bachelor semestre 6,39
+1173,CIVIL-365,Bachelor semestre 6,20
+1174,CIVIL-366,Bachelor semestre 6,21
+1175,CIVIL-367,Bachelor semestre 6,88
+1176,CIVIL-368,Bachelor semestre 6,16
+1177,CIVIL-390,Bachelor semestre 6,454
+1178,CIVIL-390,Semestre automne,1
+1179,CIVIL-401,Master semestre 1,35
+1180,CIVIL-401,Master semestre 3,60
+1181,CIVIL-401,Semestre automne,3
+1182,CIVIL-402,Master semestre 1,174
+1183,CIVIL-402,Master semestre 3,32
+1184,CIVIL-403,Master semestre 1,295
+1185,CIVIL-403,Master semestre 3,27
+1186,CIVIL-404,Master semestre 2,169
+1187,CIVIL-404,Master semestre 4,38
+1188,CIVIL-405,Master semestre 1,66
+1189,CIVIL-405,Master semestre 3,109
+1190,CIVIL-406,Master semestre 1,115
+1191,CIVIL-406,Master semestre 3,31
+1192,CIVIL-410,Master semestre 1,224
+1193,CIVIL-410,Master semestre 3,100
+1194,CIVIL-411,Master semestre 1,229
+1195,CIVIL-411,Master semestre 3,111
+1196,CIVIL-411,Semestre automne,42
+1197,CIVIL-412,Master semestre 1,205
+1198,CIVIL-412,Master semestre 2,127
+1199,CIVIL-412,Master semestre 4,37
+1200,CIVIL-412,Semestre automne,13
+1201,CIVIL-412,Semestre printemps,28
+1202,CIVIL-413,Master semestre 2,146
+1203,CIVIL-413,Master semestre 4,37
+1204,CIVIL-418,Master semestre 3,23
+1205,CIVIL-420,Master semestre 1,415
+1206,CIVIL-420,Master semestre 3,184
+1207,CIVIL-421,Master semestre 1,37
+1208,CIVIL-421,Master semestre 3,17
+1209,CIVIL-429,Master semestre 1,18
+1210,CIVIL-430,Master semestre 1,192
+1211,CIVIL-430,Master semestre 2,46
+1212,CIVIL-430,Master semestre 3,66
+1213,CIVIL-431,Master semestre 2,190
+1214,CIVIL-431,Master semestre 4,51
+1215,CIVIL-432,Bachelor semestre 5,27
+1216,CIVIL-432,Master semestre 1,47
+1217,CIVIL-432,Master semestre 3,98
+1218,CIVIL-433,Master semestre 2,129
+1219,CIVIL-433,Master semestre 4,55
+1220,CIVIL-434,Master semestre 1,42
+1221,CIVIL-434,Master semestre 2,132
+1222,CIVIL-434,Master semestre 3,37
+1223,CIVIL-434,Master semestre 4,54
+1224,CIVIL-436,Master semestre 1,384
+1225,CIVIL-436,Master semestre 3,190
+1226,CIVIL-437,Master semestre 2,314
+1227,CIVIL-438,Master semestre 1,315
+1228,CIVIL-438,Master semestre 3,144
+1229,CIVIL-439,Master semestre 3,50
+1230,CIVIL-440,Master semestre 1,38
+1231,CIVIL-440,Master semestre 3,119
+1232,CIVIL-440,Semestre automne,2
+1233,CIVIL-441,Master semestre 2,346
+1234,CIVIL-441,Master semestre 4,54
+1235,CIVIL-442,Master semestre 2,84
+1236,CIVIL-442,Master semestre 4,16
+1237,CIVIL-442,Semestre printemps,35
+1238,CIVIL-443,Master semestre 1,126
+1239,CIVIL-443,Master semestre 3,54
+1240,CIVIL-445,Master semestre 2,118
+1241,CIVIL-445,Master semestre 4,20
+1242,CIVIL-445,Semestre printemps,48
+1243,CIVIL-446,Master semestre 1,25
+1244,CIVIL-446,Master semestre 3,1
+1245,CIVIL-446,Semestre automne,1
+1246,CIVIL-447,Master semestre 1,56
+1247,CIVIL-451,Master semestre 1,253
+1248,CIVIL-451,Master semestre 3,91
+1249,CIVIL-452,Master semestre 1,105
+1250,CIVIL-452,Master semestre 3,10
+1251,CIVIL-453,Master semestre 2,176
+1252,CIVIL-453,Master semestre 4,59
+1253,CIVIL-453,Semestre printemps,12
+1254,CIVIL-454,Master semestre 2,79
+1255,CIVIL-454,Master semestre 4,13
+1256,CIVIL-454,Semestre printemps,18
+1257,CIVIL-455,Master semestre 1,112
+1258,CIVIL-455,Master semestre 2,62
+1259,CIVIL-455,Master semestre 3,29
+1260,CIVIL-456,Master semestre 2,132
+1261,CIVIL-456,Master semestre 4,23
+1262,CIVIL-457,Master semestre 1,193
+1263,CIVIL-457,Master semestre 2,50
+1264,CIVIL-457,Master semestre 4,15
+1265,CIVIL-458,Master semestre 1,60
+1266,CIVIL-472,Master semestre 1,190
+1267,CIVIL-472,Master semestre 3,152
+1268,CIVIL-473,Master semestre 3,26
+1269,CIVIL-474,Master semestre 1,146
+1270,CIVIL-475(a),Master semestre 2,68
+1271,CIVIL-475(a),Semestre printemps,5
+1272,CIVIL-476,Master semestre 1,76
+1273,CIVIL-476,Master semestre 2,302
+1274,CIVIL-476,Semestre printemps,5
+1275,CIVIL-490,Master semestre 1,169
+1276,CIVIL-490,Master semestre 2,151
+1277,CIVIL-490,Master semestre 3,80
+1278,CIVIL-490,Master semestre 4,33
+1279,CIVIL-491,Master semestre 1,178
+1280,CIVIL-491,Master semestre 2,133
+1281,CIVIL-491,Master semestre 3,48
+1282,CIVIL-491,Master semestre 4,30
+1283,CIVIL-492,Master semestre 1,180
+1284,CIVIL-492,Master semestre 2,147
+1285,CIVIL-492,Master semestre 3,73
+1286,CIVIL-492,Master semestre 4,38
+1287,CIVIL-493,Master semestre 1,57
+1288,CIVIL-493,Master semestre 2,28
+1289,CIVIL-493,Master semestre 3,16
+1290,CIVIL-493,Master semestre 4,3
+1291,CIVIL-493,Semestre automne,1
+1292,CIVIL-494,Master semestre 2,14
+1293,CIVIL-494,Master semestre 3,16
+1294,CIVIL-495,Master semestre 2,9
+1295,CIVIL-495,Master semestre 3,19
+1296,CIVIL-496,Semestre automne,5
+1297,CIVIL-498,Master semestre 1,12
+1298,CIVIL-498,Master semestre 3,17
+1299,CIVIL-499,Master semestre 2,1
+1300,CIVIL-499,Master semestre 3,26
+1301,CIVIL-500,Master semestre 1,211
+1302,CIVIL-500,Master semestre 3,83
+1303,CIVIL-515,Master semestre 2,32
+1304,CIVIL-515,Master semestre 4,12
+1305,CIVIL-520,Master semestre 2,18
+1306,CIVIL-521,Master semestre 2,16
+1307,CIVIL-522,Master semestre 2,273
+1308,CIVIL-522,Master semestre 4,63
+1309,CIVIL-523,Master semestre 1,78
+1310,CIVIL-523,Master semestre 3,12
+1311,CIVIL-525,Master semestre 1,255
+1312,CIVIL-525,Master semestre 3,58
+1313,CIVIL-526,Master semestre 1,240
+1314,CIVIL-526,Master semestre 3,106
+1315,CIVIL-527,Master semestre 1,33
+1316,CIVIL-527,Master semestre 3,17
+1317,CIVIL-528,Master semestre 1,84
+1318,CIVIL-530,Master semestre 2,27
+1319,CIVIL-531,Master semestre 1,23
+1320,CIVIL-532,Master semestre 1,285
+1321,CIVIL-532,Master semestre 3,104
+1322,CIVIL-557,Master semestre 2,88
+1323,CIVIL-557,Master semestre 4,14
+1324,CIVIL-597,Master semestre 1,234
+1325,CIVIL-597,Master semestre 2,42
+1326,CIVIL-597,Master semestre 3,85
+1327,CIVIL-597,Master semestre 4,16
+1328,CIVIL-597,Projet Master automne,1
+1329,CIVIL-598,Master semestre 1,304
+1330,CIVIL-598,Master semestre 3,121
+1331,CIVIL-598,Semestre printemps,22
+1332,CIVIL-599,Projet Master automne,43
+1333,CIVIL-599,Projet Master printemps,341
+1334,COM-101,Bachelor semestre 1,1062
+1335,COM-101,Bachelor semestre 2,615
+1336,COM-200,Bachelor semestre 3,129
+1337,COM-201,Bachelor semestre 4,115
+1338,COM-203,Bachelor semestre 4,434
+1339,COM-206,Bachelor semestre 5,110
+1340,COM-207,Bachelor semestre 6,25
+1341,COM-208,Bachelor semestre 3,1179
+1342,COM-208,Semestre automne,28
+1343,COM-217,Bachelor semestre 4,74
+1344,COM-300,Bachelor semestre 5,379
+1345,COM-300,Semestre automne,1
+1346,COM-301,Bachelor semestre 5,827
+1347,COM-301,Semestre automne,19
+1348,COM-302,Bachelor semestre 6,303
+1349,COM-303,Bachelor semestre 6,317
+1350,COM-303,Master semestre 2,33
+1351,COM-303,Master semestre 4,8
+1352,COM-307,Bachelor semestre 5,135
+1353,COM-307,Bachelor semestre 6,119
+1354,COM-308,Bachelor semestre 6,81
+1355,COM-309,Bachelor semestre 5,78
+1356,COM-401,Master semestre 1,330
+1357,COM-401,Master semestre 3,446
+1358,COM-401,Semestre automne,17
+1359,COM-404,Master semestre 1,237
+1360,COM-404,Master semestre 3,461
+1361,COM-405,Master semestre 2,361
+1362,COM-405,Master semestre 4,208
+1363,COM-405,Semestre printemps,23
+1364,COM-407,Master semestre 1,400
+1365,COM-407,Master semestre 3,473
+1366,COM-407,Semestre automne,16
+1367,COM-408,Master semestre 3,53
+1368,COM-408,Semestre automne,1
+1369,COM-410,Master semestre 3,43
+1370,COM-413,Master semestre 2,80
+1371,COM-413,Master semestre 4,35
+1372,COM-414,Master semestre 1,33
+1373,COM-414,Master semestre 3,172
+1374,COM-414,Semestre automne,87
+1375,COM-415,Master semestre 1,86
+1376,COM-415,Master semestre 3,140
+1377,COM-416,Master semestre 1,17
+1378,COM-416,Master semestre 2,95
+1379,COM-416,Master semestre 3,136
+1380,COM-416,Master semestre 4,128
+1381,COM-417,Master semestre 1,73
+1382,COM-417,Master semestre 3,71
+1383,COM-418,Master semestre 1,186
+1384,COM-418,Master semestre 3,270
+1385,COM-418,Semestre automne,21
+1386,COM-418(a),Master semestre 3,48
+1387,COM-418(a),Semestre automne,2
+1388,COM-418(tp),Master semestre 1,66
+1389,COM-418(tp),Master semestre 3,92
+1390,COM-418(tp),Semestre automne,7
+1391,COM-419,Master semestre 1,87
+1392,COM-419,Master semestre 3,11
+1393,COM-419,Semestre automne,62
+1394,COM-421,Master semestre 1,19
+1395,COM-421,Master semestre 2,19
+1396,COM-421,Master semestre 3,8
+1397,COM-421,Master semestre 4,4
+1398,COM-421,Semestre automne,1
+1399,COM-421,Semestre printemps,3
+1400,COM-500,Master semestre 2,171
+1401,COM-500,Master semestre 4,131
+1402,COM-501,Master semestre 2,30
+1403,COM-501,Master semestre 4,40
+1404,COM-501,Semestre printemps,12
+1405,COM-502,Master semestre 1,268
+1406,COM-502,Master semestre 3,130
+1407,COM-502,Semestre automne,25
+1408,COM-503,Master semestre 2,45
+1409,COM-503,Master semestre 4,32
+1410,COM-504,Master semestre 1,18
+1411,COM-504,Master semestre 3,40
+1412,COM-505,Master semestre 2,17
+1413,COM-505,Master semestre 4,2
+1414,COM-506,Master semestre 2,24
+1415,COM-506,Master semestre 4,52
+1416,COM-506,Semestre printemps,16
+1417,COM-507,Master semestre 1,22
+1418,COM-507,Master semestre 2,27
+1419,COM-507,Master semestre 3,106
+1420,COM-507,Master semestre 4,33
+1421,COM-509,Projet Master automne,58
+1422,COM-509,Projet Master printemps,85
+1423,COM-510,Master semestre 1,70
+1424,COM-510,Master semestre 3,237
+1425,COM-511,Master semestre 1,50
+1426,COM-511,Master semestre 3,94
+1427,COM-512,Master semestre 2,66
+1428,COM-512,Master semestre 4,17
+1429,COM-513,Master semestre 2,20
+1430,COM-513,Master semestre 4,25
+1431,COM-514,Master semestre 1,51
+1432,COM-514,Master semestre 3,51
+1433,COM-516,Master semestre 2,23
+1434,COM-516,Master semestre 4,6
+1435,COM-595,Master semestre 2,3
+1436,COM-595,Master semestre 3,1
+1437,COM-597,Master semestre 1,9
+1438,COM-597,Master semestre 2,24
+1439,COM-597,Master semestre 3,51
+1440,COM-597,Master semestre 4,9
+1441,COM-597,Projet Master automne,7
+1442,COM-599,Projet Master automne,85
+1443,COM-599,Projet Master printemps,115
+1444,CS-100,Bachelor semestre 1,1005
+1445,CS-105,Bachelor semestre 1,1014
+1446,CS-105,Bachelor semestre 2,142
+1447,CS-106,Bachelor semestre 1,580
+1448,CS-106,Bachelor semestre 2,969
+1449,CS-107,Bachelor semestre 1,284
+1450,CS-107,Bachelor semestre 2,187
+1451,CS-108,Bachelor semestre 2,542
+1452,CS-110(a),Bachelor semestre 1,582
+1453,CS-110(a),Bachelor semestre 2,1040
+1454,CS-110(b),Bachelor semestre 1,836
+1455,CS-110(b),Bachelor semestre 2,676
+1456,CS-110(c),Bachelor semestre 1,811
+1457,CS-110(c),Bachelor semestre 2,457
+1458,CS-110(d),Bachelor semestre 1,797
+1459,CS-110(d),Bachelor semestre 2,643
+1460,CS-110(e),Bachelor semestre 1,1146
+1461,CS-110(e),Bachelor semestre 2,113
+1462,CS-110(f),Bachelor semestre 6,42
+1463,CS-110(g),Bachelor semestre 2,539
+1464,CS-111,Bachelor semestre 2,231
+1465,CS-111(a),Bachelor semestre 1,381
+1466,CS-111(b),Bachelor semestre 1,139
+1467,CS-111(b),Bachelor semestre 2,58
+1468,CS-111(c),Bachelor semestre 1,809
+1469,CS-111(d),Bachelor semestre 2,402
+1470,CS-111(e),Bachelor semestre 2,90
+1471,CS-111(f),Bachelor semestre 2,166
+1472,CS-111(g),Bachelor semestre 1,794
+1473,CS-111(i),Bachelor semestre 1,632
+1474,CS-112(a),Bachelor semestre 2,1040
+1475,CS-112(b),Bachelor semestre 2,973
+1476,CS-112(c),Bachelor semestre 2,1293
+1477,CS-112(d),Bachelor semestre 6,42
+1478,CS-112(e),Bachelor semestre 2,90
+1479,CS-112(g),Bachelor semestre 2,491
+1480,CS-112(i),Bachelor semestre 2,383
+1481,CS-113,Bachelor semestre 2,231
+1482,CS-114,Bachelor semestre 3,148
+1483,CS-115,Bachelor semestre 2,274
+1484,CS-116,Bachelor semestre 3,536
+1485,CS-117,Bachelor semestre 1,435
+1486,CS-118,Bachelor semestre 1,449
+1487,CS-119,Bachelor semestre 2,201
+1488,CS-120,Bachelor semestre 2,110
+1489,CS-150,Bachelor semestre 1,993
+1490,CS-150,Bachelor semestre 2,1019
+1491,CS-150,Semestre automne,4
+1492,CS-150,Semestre printemps,3
+1493,CS-170,Bachelor semestre 1,697
+1494,CS-170,Bachelor semestre 2,294
+1495,CS-171,Bachelor semestre 2,324
+1496,CS-171,Bachelor semestre 3,713
+1497,CS-172,Bachelor semestre 2,964
+1498,CS-173,Bachelor semestre 2,535
+1499,CS-198,Bachelor semestre 2,957
+1500,CS-205,Bachelor semestre 3,706
+1501,CS-206,Bachelor semestre 4,818
+1502,CS-207,Bachelor semestre 4,886
+1503,CS-208,Bachelor semestre 3,343
+1504,CS-208,Semestre automne,7
+1505,CS-209,Bachelor semestre 4,95
+1506,CS-210,Bachelor semestre 3,361
+1507,CS-211,Bachelor semestre 4,149
+1508,CS-212,Bachelor semestre 4,69
+1509,CS-250,Bachelor semestre 3,1259
+1510,CS-250,Bachelor semestre 5,163
+1511,CS-250,Master semestre 1,66
+1512,CS-250,Master semestre 3,33
+1513,CS-250,Semestre automne,11
+1514,CS-251,Bachelor semestre 4,836
+1515,CS-252,Bachelor semestre 4,208
+1516,CS-270,Bachelor semestre 3,617
+1517,CS-271,Bachelor semestre 4,179
+1518,CS-278,Bachelor semestre 4,50
+1519,CS-279,Bachelor semestre 6,214
+1520,CS-305,Bachelor semestre 5,576
+1521,CS-305,Master semestre 1,55
+1522,CS-305,Master semestre 3,9
+1523,CS-305,Semestre automne,7
+1524,CS-306,Bachelor semestre 5,75
+1525,CS-307,Bachelor semestre 5,76
+1526,CS-310,Bachelor semestre 5,120
+1527,CS-320,Bachelor semestre 5,286
+1528,CS-321,Bachelor semestre 5,247
+1529,CS-321,Master semestre 1,22
+1530,CS-321,Master semestre 3,6
+1531,CS-322,Bachelor semestre 6,479
+1532,CS-322,Master semestre 2,32
+1533,CS-322,Master semestre 4,7
+1534,CS-323,Bachelor semestre 6,428
+1535,CS-324,Bachelor semestre 6,34
+1536,CS-325,Bachelor semestre 6,69
+1537,CS-326,Bachelor semestre 6,17
+1538,CS-327,Bachelor semestre 6,3
+1539,CS-330,Bachelor semestre 6,338
+1540,CS-340,Bachelor semestre 5,105
+1541,CS-340,Master semestre 3,13
+1542,CS-341,Bachelor semestre 5,124
+1543,CS-341,Bachelor semestre 6,118
+1544,CS-341,Master semestre 1,15
+1545,CS-341,Master semestre 2,24
+1546,CS-350,Bachelor semestre 6,99
+1547,CS-351,Bachelor semestre 6,19
+1548,CS-351,Master semestre 2,3
+1549,CS-352,Bachelor semestre 5,47
+1550,CS-370,Bachelor semestre 6,11
+1551,CS-370,Master semestre 2,2
+1552,CS-398,Bachelor semestre 5,143
+1553,CS-398,Bachelor semestre 6,208
+1554,CS-410,Master semestre 2,22
+1555,CS-410,Master semestre 4,5
+1556,CS-411,Master semestre 1,65
+1557,CS-411,Master semestre 3,11
+1558,CS-412,Master semestre 2,5
+1559,CS-412,Master semestre 4,1
+1560,CS-420,Master semestre 2,105
+1561,CS-422,Master semestre 2,381
+1562,CS-422,Master semestre 3,42
+1563,CS-422,Master semestre 4,22
+1564,CS-423,Master semestre 1,125
+1565,CS-423,Master semestre 2,239
+1566,CS-423,Master semestre 3,378
+1567,CS-423,Master semestre 4,46
+1568,CS-423,Semestre automne,7
+1569,CS-423,Semestre printemps,2
+1570,CS-424,Master semestre 2,127
+1571,CS-424,Master semestre 4,25
+1572,CS-425,Master semestre 1,167
+1573,CS-425,Master semestre 3,83
+1574,CS-430,Master semestre 1,283
+1575,CS-430,Master semestre 3,142
+1576,CS-431,Master semestre 2,225
+1577,CS-431,Master semestre 4,17
+1578,CS-432,Master semestre 1,56
+1579,CS-432,Master semestre 2,30
+1580,CS-432,Master semestre 3,51
+1581,CS-432,Master semestre 4,44
+1582,CS-432,Semestre automne,12
+1583,CS-432,Semestre printemps,20
+1584,CS-433,Master semestre 1,298
+1585,CS-433,Master semestre 2,243
+1586,CS-433,Master semestre 3,192
+1587,CS-433,Master semestre 4,112
+1588,CS-433,Semestre automne,32
+1589,CS-433,Semestre printemps,14
+1590,CS-434,Master semestre 1,172
+1591,CS-434,Master semestre 3,72
+1592,CS-434,Semestre automne,39
+1593,CS-435,Master semestre 1,62
+1594,CS-436,Master semestre 1,30
+1595,CS-440,Master semestre 1,143
+1596,CS-440,Master semestre 2,70
+1597,CS-440,Master semestre 3,49
+1598,CS-440,Master semestre 4,14
+1599,CS-441,Master semestre 2,57
+1600,CS-441,Master semestre 4,20
+1601,CS-442,Master semestre 2,278
+1602,CS-442,Master semestre 4,68
+1603,CS-443,Master semestre 3,50
+1604,CS-444,Master semestre 2,158
+1605,CS-444,Master semestre 4,21
+1606,CS-445,Master semestre 1,36
+1607,CS-445,Master semestre 3,45
+1608,CS-446,Master semestre 2,118
+1609,CS-446,Master semestre 4,9
+1610,CS-450,Master semestre 1,156
+1611,CS-450,Master semestre 2,32
+1612,CS-450,Master semestre 3,176
+1613,CS-450,Master semestre 4,3
+1614,CS-450,Semestre automne,5
+1615,CS-451,Master semestre 1,494
+1616,CS-451,Master semestre 3,518
+1617,CS-452,Master semestre 1,245
+1618,CS-452,Master semestre 3,111
+1619,CS-453,Master semestre 1,243
+1620,CS-453,Master semestre 3,164
+1621,CS-454,Master semestre 2,40
+1622,CS-454,Master semestre 3,19
+1623,CS-454,Master semestre 4,18
+1624,CS-455,Master semestre 2,20
+1625,CS-455,Master semestre 4,2
+1626,CS-470,Master semestre 2,151
+1627,CS-470,Master semestre 4,7
+1628,CS-470,Semestre printemps,2
+1629,CS-471,Master semestre 1,78
+1630,CS-471,Master semestre 3,14
+1631,CS-472,Master semestre 1,187
+1632,CS-472,Master semestre 3,86
+1633,CS-473,Master semestre 1,195
+1634,CS-473,Master semestre 3,89
+1635,CS-474,Master semestre 1,97
+1636,CS-474,Master semestre 3,61
+1637,CS-475,Master semestre 2,3
+1638,CS-476,Master semestre 2,79
+1639,CS-476,Master semestre 4,7
+1640,CS-478,Master semestre 2,33
+1641,CS-478,Master semestre 4,1
+1642,CS-485,Master semestre 1,66
+1643,CS-485,Master semestre 3,66
+1644,CS-485,Semestre automne,5
+1645,CS-486,Master semestre 2,139
+1646,CS-486,Master semestre 4,3
+1647,CS-487,Master semestre 2,181
+1648,CS-487,Master semestre 4,24
+1649,CS-488,Master semestre 2,25
+1650,CS-488,Master semestre 4,14
+1651,CS-489,Master semestre 2,66
+1652,CS-489,Master semestre 4,2
+1653,CS-490,Master semestre 2,129
+1654,CS-490,Master semestre 4,25
+1655,CS-490,Semestre printemps,5
+1656,CS-491,Master semestre 2,165
+1657,CS-491,Master semestre 4,22
+1658,CS-491,Semestre printemps,1
+1659,CS-498,Master semestre 1,159
+1660,CS-498,Master semestre 2,372
+1661,CS-498,Master semestre 3,134
+1662,CS-520,Master semestre 1,41
+1663,CS-520,Master semestre 3,57
+1664,CS-522,Master semestre 1,57
+1665,CS-522,Master semestre 3,7
+1666,CS-550,Master semestre 2,54
+1667,CS-550,Master semestre 4,3
+1668,CS-551,Master semestre 2,44
+1669,CS-551,Semestre printemps,11
+1670,CS-595,Master semestre 1,80
+1671,CS-595,Master semestre 2,74
+1672,CS-595,Master semestre 3,77
+1673,CS-595,Projet Master automne,14
+1674,CS-596,Master semestre 1,34
+1675,CS-596,Master semestre 2,38
+1676,CS-596,Master semestre 3,16
+1677,CS-597,Master semestre 1,37
+1678,CS-597,Master semestre 2,55
+1679,CS-597,Master semestre 3,23
+1680,CS-598,Master semestre 2,3
+1681,CS-598,Master semestre 3,16
+1682,CS-599,Projet Master automne,283
+1683,CS-599,Projet Master printemps,266
+1684,EE-100,Bachelor semestre 1,169
+1685,EE-100(a),Bachelor semestre 1,228
+1686,EE-100(b),Bachelor semestre 2,1121
+1687,EE-101,Bachelor semestre 1,249
+1688,EE-101,Bachelor semestre 2,91
+1689,EE-102(A),Bachelor semestre 2,279
+1690,EE-102(B),Bachelor semestre 2,1252
+1691,EE-103,Bachelor semestre 2,238
+1692,EE-105,Bachelor semestre 2,118
+1693,EE-106,Bachelor semestre 1,757
+1694,EE-200,Bachelor semestre 3,295
+1695,EE-200,Bachelor semestre 5,80
+1696,EE-200,Semestre automne,10
+1697,EE-201,Bachelor semestre 4,257
+1698,EE-201,Bachelor semestre 6,20
+1699,EE-202,Bachelor semestre 3,432
+1700,EE-202,Semestre automne,7
+1701,EE-202(A),Bachelor semestre 3,463
+1702,EE-202(B),Bachelor semestre 3,903
+1703,EE-203,Bachelor semestre 4,269
+1704,EE-203(A),Bachelor semestre 4,514
+1705,EE-203(B),Bachelor semestre 4,76
+1706,EE-203(b),Bachelor semestre 5,313
+1707,EE-204,Bachelor semestre 3,909
+1708,EE-204,Semestre automne,6
+1709,EE-205,Bachelor semestre 4,590
+1710,EE-206,Bachelor semestre 3,299
+1711,EE-206,Semestre automne,6
+1712,EE-207,Bachelor semestre 4,233
+1713,EE-208,Bachelor semestre 4,194
+1714,EE-280,Bachelor semestre 4,176
+1715,EE-280,Bachelor semestre 5,351
+1716,EE-281,Bachelor semestre 3,536
+1717,EE-282,Bachelor semestre 3,577
+1718,EE-283,Bachelor semestre 5,68
+1719,EE-284,Bachelor semestre 6,68
+1720,EE-290,Bachelor semestre 3,146
+1721,EE-291,Bachelor semestre 4,52
+1722,EE-292,Bachelor semestre 4,57
+1723,EE-293,Bachelor semestre 3,61
+1724,EE-294,Bachelor semestre 3,43
+1725,EE-295,Bachelor semestre 5,529
+1726,EE-295,Bachelor semestre 6,58
+1727,EE-296,Bachelor semestre 6,453
+1728,EE-300,Bachelor semestre 5,36
+1729,EE-301,Bachelor semestre 6,61
+1730,EE-303,Bachelor semestre 6,35
+1731,EE-310,Bachelor semestre 5,122
+1732,EE-310,Bachelor semestre 6,55
+1733,EE-310,Semestre automne,40
+1734,EE-320,Bachelor semestre 5,153
+1735,EE-320,Master semestre 1,29
+1736,EE-320,Master semestre 3,3
+1737,EE-320,Semestre automne,6
+1738,EE-330,Bachelor semestre 6,167
+1739,EE-330,Master semestre 2,21
+1740,EE-331,Bachelor semestre 5,743
+1741,EE-331,Bachelor semestre 6,29
+1742,EE-331,Semestre automne,7
+1743,EE-332,Bachelor semestre 6,189
+1744,EE-333,Bachelor semestre 5,83
+1745,EE-333,Bachelor semestre 6,15
+1746,EE-334,Bachelor semestre 5,67
+1747,EE-334,Bachelor semestre 6,46
+1748,EE-334,Semestre automne,7
+1749,EE-335,Bachelor semestre 5,45
+1750,EE-339,Bachelor semestre 5,74
+1751,EE-340,Bachelor semestre 6,198
+1752,EE-341,Bachelor semestre 5,36
+1753,EE-342,Bachelor semestre 5,72
+1754,EE-342,Bachelor semestre 6,100
+1755,EE-345,Bachelor semestre 5,244
+1756,EE-345,Master semestre 3,41
+1757,EE-345,Semestre automne,37
+1758,EE-348,Bachelor semestre 5,103
+1759,EE-348,Semestre automne,6
+1760,EE-350,Bachelor semestre 5,193
+1761,EE-350,Bachelor semestre 6,27
+1762,EE-350,Semestre automne,4
+1763,EE-351,Bachelor semestre 6,64
+1764,EE-360,Bachelor semestre 5,240
+1765,EE-360,Semestre automne,5
+1766,EE-361,Bachelor semestre 6,150
+1767,EE-362,Bachelor semestre 6,9
+1768,EE-365,Bachelor semestre 5,134
+1769,EE-365,Bachelor semestre 6,76
+1770,EE-366,Bachelor semestre 6,60
+1771,EE-370,Bachelor semestre 5,104
+1772,EE-370,Bachelor semestre 6,101
+1773,EE-370,Semestre automne,4
+1774,EE-371,Bachelor semestre 5,106
+1775,EE-371,Semestre automne,4
+1776,EE-372,Bachelor semestre 5,79
+1777,EE-375,Bachelor semestre 6,80
+1778,EE-380,Bachelor semestre 6,367
+1779,EE-381,Bachelor semestre 6,150
+1780,EE-382,Bachelor semestre 5,531
+1781,EE-383,Bachelor semestre 6,22
+1782,EE-390,Master semestre 2,7
+1783,EE-391,Master semestre 3,14
+1784,EE-392,Bachelor semestre 6,56
+1785,EE-393,Bachelor semestre 5,45
+1786,EE-394,Bachelor semestre 6,4
+1787,EE-395,Bachelor semestre 5,14
+1788,EE-395,Bachelor semestre 6,85
+1789,EE-396,Bachelor semestre 6,87
+1790,EE-397,Bachelor semestre 5,92
+1791,EE-397,Bachelor semestre 6,65
+1792,EE-398,Bachelor semestre 6,33
+1793,EE-399,Bachelor semestre 6,212
+1794,EE-399,Semestre automne,3
+1795,EE-420,Master semestre 1,157
+1796,EE-420,Master semestre 3,393
+1797,EE-421,Master semestre 2,132
+1798,EE-425,Master semestre 1,128
+1799,EE-425,Master semestre 3,414
+1800,EE-428,Master semestre 3,38
+1801,EE-429,Master semestre 1,51
+1802,EE-429,Master semestre 3,83
+1803,EE-429,Semestre automne,4
+1804,EE-430,Master semestre 1,83
+1805,EE-430,Master semestre 3,294
+1806,EE-430(tp),Master semestre 1,1
+1807,EE-431,Master semestre 2,124
+1808,EE-431,Master semestre 4,1
+1809,EE-432,Master semestre 1,133
+1810,EE-432,Master semestre 3,295
+1811,EE-433,Master semestre 2,138
+1812,EE-433,Master semestre 4,1
+1813,EE-434,Master semestre 3,119
+1814,EE-440,Master semestre 2,163
+1815,EE-442,Master semestre 1,115
+1816,EE-445,Master semestre 1,150
+1817,EE-445,Master semestre 3,110
+1818,EE-450,Master semestre 1,134
+1819,EE-450,Master semestre 3,49
+1820,EE-451,Master semestre 2,187
+1821,EE-456,Master semestre 1,123
+1822,EE-456,Master semestre 3,3
+1823,EE-456,Semestre automne,26
+1824,EE-460,Master semestre 1,120
+1825,EE-460,Master semestre 3,34
+1826,EE-460,Semestre automne,3
+1827,EE-461,Master semestre 1,252
+1828,EE-461,Master semestre 3,63
+1829,EE-465,Master semestre 1,173
+1830,EE-465,Master semestre 3,37
+1831,EE-465,Semestre automne,19
+1832,EE-466,Master semestre 1,97
+1833,EE-466,Master semestre 2,25
+1834,EE-466,Master semestre 3,12
+1835,EE-466,Semestre automne,36
+1836,EE-470,Master semestre 1,41
+1837,EE-470,Master semestre 2,86
+1838,EE-470,Master semestre 3,37
+1839,EE-470,Semestre printemps,3
+1840,EE-471,Master semestre 2,23
+1841,EE-471,Semestre printemps,7
+1842,EE-472,Master semestre 2,68
+1843,EE-472,Semestre printemps,10
+1844,EE-477,Master semestre 1,137
+1845,EE-477,Master semestre 3,4
+1846,EE-480,Master semestre 2,43
+1847,EE-490(a),Master semestre 1,5
+1848,EE-490(b),Master semestre 1,57
+1849,EE-490(b),Master semestre 3,119
+1850,EE-490(b),Semestre automne,1
+1851,EE-490(d),Master semestre 1,7
+1852,EE-490(e),Master semestre 1,14
+1853,EE-490(f),Master semestre 1,27
+1854,EE-490(g),Master semestre 1,87
+1855,EE-491,Master semestre 1,4
+1856,EE-491,Master semestre 3,4
+1857,EE-491(a),Master semestre 2,52
+1858,EE-491(a),Semestre automne,8
+1859,EE-491(b),Master semestre 2,51
+1860,EE-491(b),Semestre automne,10
+1861,EE-491(c),Master semestre 2,32
+1862,EE-491(c),Semestre automne,3
+1863,EE-492(c),Master semestre 1,74
+1864,EE-498,Master semestre 1,162
+1865,EE-498,Master semestre 3,200
+1866,EE-499,Master semestre 1,26
+1867,EE-499,Master semestre 2,228
+1868,EE-510,Master semestre 1,1
+1869,EE-511,Master semestre 2,148
+1870,EE-511,Master semestre 4,32
+1871,EE-511,Semestre printemps,59
+1872,EE-512,Master semestre 1,156
+1873,EE-512,Master semestre 3,122
+1874,EE-512,Semestre automne,58
+1875,EE-513,Master semestre 1,71
+1876,EE-513,Master semestre 3,311
+1877,EE-513,Semestre automne,173
+1878,EE-514,Master semestre 1,20
+1879,EE-514,Master semestre 2,60
+1880,EE-514,Semestre printemps,48
+1881,EE-515,Master semestre 1,124
+1882,EE-515,Master semestre 3,24
+1883,EE-515,Semestre automne,53
+1884,EE-516,Master semestre 1,341
+1885,EE-516,Master semestre 3,68
+1886,EE-516,Semestre automne,47
+1887,EE-517,Master semestre 1,24
+1888,EE-518,Master semestre 2,13
+1889,EE-520,Master semestre 1,105
+1890,EE-520,Master semestre 3,66
+1891,EE-521,Master semestre 2,65
+1892,EE-525,Master semestre 2,111
+1893,EE-530,Master semestre 1,78
+1894,EE-530,Master semestre 3,369
+1895,EE-531,Master semestre 2,1
+1896,EE-531,Master semestre 3,26
+1897,EE-532,Master semestre 1,107
+1898,EE-532,Master semestre 2,24
+1899,EE-532,Master semestre 3,20
+1900,EE-532,Master semestre 4,4
+1901,EE-532,Semestre printemps,1
+1902,EE-535,Master semestre 1,71
+1903,EE-535,Master semestre 3,380
+1904,EE-536,Master semestre 1,35
+1905,EE-536,Master semestre 3,336
+1906,EE-537,Master semestre 1,53
+1907,EE-537,Master semestre 3,33
+1908,EE-538,Master semestre 3,199
+1909,EE-539,Master semestre 1,49
+1910,EE-540,Master semestre 1,17
+1911,EE-540,Master semestre 2,31
+1912,EE-541,Master semestre 3,4
+1913,EE-542,Master semestre 1,16
+1914,EE-542,Master semestre 2,5
+1915,EE-542,Master semestre 3,11
+1916,EE-543,Master semestre 1,9
+1917,EE-543,Master semestre 2,4
+1918,EE-544,Master semestre 2,7
+1919,EE-545,Master semestre 2,55
+1920,EE-546,Master semestre 1,20
+1921,EE-546,Master semestre 3,61
+1922,EE-546,Semestre automne,33
+1923,EE-547,Master semestre 1,72
+1924,EE-547,Master semestre 3,49
+1925,EE-548,Master semestre 1,45
+1926,EE-548,Master semestre 2,45
+1927,EE-549,Master semestre 1,61
+1928,EE-549,Master semestre 3,21
+1929,EE-550,Master semestre 1,153
+1930,EE-550,Master semestre 3,113
+1931,EE-551,Master semestre 2,69
+1932,EE-551,Master semestre 4,35
+1933,EE-552,Master semestre 2,86
+1934,EE-552,Master semestre 4,70
+1935,EE-552,Semestre printemps,16
+1936,EE-553,Master semestre 2,103
+1937,EE-554,Master semestre 1,121
+1938,EE-554,Master semestre 3,131
+1939,EE-554,Semestre automne,1
+1940,EE-555,Master semestre 1,57
+1941,EE-555,Master semestre 3,15
+1942,EE-556,Master semestre 1,73
+1943,EE-560,Master semestre 2,22
+1944,EE-560,Semestre printemps,3
+1945,EE-561,Master semestre 2,40
+1946,EE-562,Master semestre 1,107
+1947,EE-562,Master semestre 3,30
+1948,EE-562,Semestre automne,28
+1949,EE-563,Master semestre 2,73
+1950,EE-564,Master semestre 2,56
+1951,EE-565,Master semestre 2,85
+1952,EE-565,Semestre printemps,12
+1953,EE-570,Master semestre 2,174
+1954,EE-571,Master semestre 1,13
+1955,EE-571,Master semestre 2,1
+1956,EE-572,Master semestre 3,16
+1957,EE-575,Master semestre 1,101
+1958,EE-575,Master semestre 3,19
+1959,EE-576,Master semestre 2,41
+1960,EE-579,Master semestre 1,14
+1961,EE-580,Semestre automne,112
+1962,EE-580,Semestre printemps,23
+1963,EE-581,Semestre automne,101
+1964,EE-582,Semestre printemps,123
+1965,EE-583,Semestre printemps,66
+1966,EE-584,Semestre automne,155
+1967,EE-585,Master semestre 2,464
+1968,EE-585,Semestre printemps,155
+1969,EE-586,Semestre automne,191
+1970,EE-588,Master semestre 1,1
+1971,EE-588,Master semestre 2,21
+1972,EE-589,Semestre automne,112
+1973,EE-589,Semestre printemps,24
+1974,EE-590,Master semestre 3,54
+1975,EE-591,Master semestre 3,157
+1976,EE-591,Semestre automne,2
+1977,EE-592,Master semestre 3,19
+1978,EE-593,Master semestre 2,143
+1979,EE-593,Master semestre 4,16
+1980,EE-596,Master semestre 2,1
+1981,EE-596(a),Master semestre 1,61
+1982,EE-596(a),Master semestre 2,32
+1983,EE-597,Master semestre 1,27
+1984,EE-597,Master semestre 2,39
+1985,EE-597,Projet Master automne,2
+1986,EE-598,Master semestre 1,13
+1987,EE-598,Master semestre 2,150
+1988,EE-599,Master semestre 4,24
+1989,EE-599,Projet Master automne,213
+1990,EE-599,Projet Master printemps,133
+1991,EE-599(a),Projet Master printemps,9
+1992,EE-599(b),Master semestre 4,7
+1993,EE-599(c),Master semestre 4,11
+1994,ENG-201,Bachelor semestre 3,44
+1995,ENG-208,Bachelor semestre 3,24
+1996,ENG-209,Bachelor semestre 3,236
+1997,ENG-209,Semestre automne,4
+1998,ENG-216,Bachelor semestre 4,42
+1999,ENG-217,Bachelor semestre 4,129
+2000,ENG-226,Bachelor semestre 4,18
+2001,ENG-250,Bachelor semestre 4,24
+2002,ENG-262,Bachelor semestre 4,160
+2003,ENG-266,Bachelor semestre 3,44
+2004,ENG-267,Bachelor semestre 3,484
+2005,ENG-267,Bachelor semestre 5,53
+2006,ENG-268,Bachelor semestre 4,296
+2007,ENG-269,Bachelor semestre 4,20
+2008,ENG-270,Bachelor semestre 3,132
+2009,ENG-271,Bachelor semestre 4,68
+2010,ENG-272,Bachelor semestre 4,302
+2011,ENG-301,Bachelor semestre 6,22
+2012,ENG-302,Bachelor semestre 5,33
+2013,ENG-304,Bachelor semestre 5,35
+2014,ENG-307,Bachelor semestre 6,6
+2015,ENG-308,Bachelor semestre 5,76
+2016,ENG-309,Bachelor semestre 5,73
+2017,ENG-311,Bachelor semestre 5,65
+2018,ENG-350,Bachelor semestre 6,18
+2019,ENG-366,Bachelor semestre 6,249
+2020,ENG-382,Bachelor semestre 6,485
+2021,ENG-383,Bachelor semestre 5,464
+2022,ENG-383,Bachelor semestre 5b,144
+2023,ENG-400,Master semestre 1,6
+2024,ENG-400,Master semestre 2,29
+2025,ENG-400,Master semestre 3,75
+2026,ENG-400,Master semestre 4,12
+2027,ENG-420,Master semestre 1,301
+2028,ENG-420,Master semestre 3,209
+2029,ENG-421,Semestre automne,15
+2030,ENG-430,Master semestre 2,331
+2031,ENG-430,Master semestre 3,35
+2032,ENG-430,Master semestre 4,32
+2033,ENG-430,Semestre automne,10
+2034,ENG-430,Semestre printemps,8
+2035,ENG-431,Master semestre 2,186
+2036,ENG-431,Master semestre 4,32
+2037,ENG-432,Bachelor semestre 6,367
+2038,ENG-433,Master semestre 1,266
+2039,ENG-433,Master semestre 3,179
+2040,ENG-433,Semestre automne,84
+2041,ENG-434,Master semestre 1,114
+2042,ENG-434,Master semestre 3,109
+2043,ENG-434,Semestre automne,13
+2044,ENG-435,Master semestre 2,107
+2045,ENG-435,Master semestre 4,23
+2046,ENG-435,Semestre printemps,7
+2047,ENG-436,Master semestre 2,82
+2048,ENG-436,Master semestre 4,26
+2049,ENG-436,Semestre printemps,10
+2050,ENG-440,Master semestre 1,224
+2051,ENG-440,Master semestre 3,169
+2052,ENG-445,Master semestre 1,411
+2053,ENG-445,Master semestre 3,137
+2054,ENG-445,Semestre automne,109
+2055,ENG-466,Master semestre 1,272
+2056,ENG-466,Master semestre 3,40
+2057,ENG-466,Semestre automne,17
+2058,ENG-466(a),Master semestre 1,81
+2059,ENG-466(a),Master semestre 3,29
+2060,ENG-466(a),Semestre automne,5
+2061,ENG-466(b),Master semestre 1,41
+2062,ENG-466(b),Master semestre 3,29
+2063,ENG-466(b),Semestre automne,4
+2064,ENG-466(tp),Master semestre 1,35
+2065,ENG-466(tp),Master semestre 3,2
+2066,ENG-466(tp),Semestre automne,3
+2067,ENG-470,Master semestre 1,361
+2068,ENG-470,Master semestre 3,198
+2069,ENG-471,Master semestre 2,151
+2070,ENG-471,Master semestre 4,16
+2071,ENG-472(a),Master semestre 1,79
+2072,ENG-472(a),Master semestre 3,13
+2073,ENG-472(b),Master semestre 2,68
+2074,ENG-474,Master semestre 1,328
+2075,ENG-474,Master semestre 3,192
+2076,ENG-474,Semestre automne,47
+2077,ENG-482,Master semestre 2,144
+2078,ENG-483,Master semestre 1,342
+2079,ENG-483,Master semestre 3,184
+2080,ENG-484,Master semestre 2,143
+2081,ENG-485,Master semestre 1,15
+2082,ENG-485,Master semestre 3,4
+2083,ENG-485,Semestre automne,6
+2084,ENV-100,Bachelor semestre 2,717
+2085,ENV-101,Bachelor semestre 1,331
+2086,ENV-101,Bachelor semestre 2,415
+2087,ENV-140,Bachelor semestre 2,1463
+2088,ENV-166,Bachelor semestre 1,297
+2089,ENV-167,Bachelor semestre 1,715
+2090,ENV-168,Bachelor semestre 2,225
+2091,ENV-200,Bachelor semestre 4,417
+2092,ENV-201,Bachelor semestre 4,330
+2093,ENV-202,Bachelor semestre 3,444
+2094,ENV-202,Semestre automne,4
+2095,ENV-220,Bachelor semestre 4,418
+2096,ENV-221,Bachelor semestre 5,600
+2097,ENV-221(a),Bachelor semestre 4,100
+2098,ENV-221(b),Bachelor semestre 4,46
+2099,ENV-222,Bachelor semestre 3,463
+2100,ENV-240,Bachelor semestre 3,102
+2101,ENV-241,Bachelor semestre 4,106
+2102,ENV-241,Bachelor semestre 6,33
+2103,ENV-242,Bachelor semestre 4,11
+2104,ENV-242,Bachelor semestre 6,48
+2105,ENV-256,Bachelor semestre 4,19
+2106,ENV-258,Bachelor semestre 4,17
+2107,ENV-260,Bachelor semestre 4,40
+2108,ENV-266,Bachelor semestre 4,213
+2109,ENV-267,Bachelor semestre 4,213
+2110,ENV-268,Bachelor semestre 4,42
+2111,ENV-269,Bachelor semestre 4,105
+2112,ENV-270,Bachelor semestre 3,283
+2113,ENV-270,Bachelor semestre 4,20
+2114,ENV-274,Bachelor semestre 4,20
+2115,ENV-275,Bachelor semestre 4,101
+2116,ENV-300,Bachelor semestre 5,225
+2117,ENV-301,Bachelor semestre 5,199
+2118,ENV-302,Bachelor semestre 6,25
+2119,ENV-303,Bachelor semestre 5,20
+2120,ENV-304,Bachelor semestre 5,284
+2121,ENV-305,Bachelor semestre 6,25
+2122,ENV-306,Bachelor semestre 6,131
+2123,ENV-320,Bachelor semestre 6,278
+2124,ENV-340,Bachelor semestre 5,77
+2125,ENV-340,Semestre automne,78
+2126,ENV-341,Bachelor semestre 4,138
+2127,ENV-341,Bachelor semestre 6,31
+2128,ENV-342,Bachelor semestre 5,445
+2129,ENV-352,Bachelor semestre 6,44
+2130,ENV-360,Bachelor semestre 6,87
+2131,ENV-361,Bachelor semestre 6,165
+2132,ENV-362,Bachelor semestre 6,140
+2133,ENV-363,Bachelor semestre 6,15
+2134,ENV-364,Bachelor semestre 6,20
+2135,ENV-365,Bachelor semestre 6,63
+2136,ENV-366,Bachelor semestre 6,267
+2137,ENV-367,Bachelor semestre 5,283
+2138,ENV-367,Bachelor semestre 6,23
+2139,ENV-368,Bachelor semestre 5,16
+2140,ENV-369,Bachelor semestre 6,13
+2141,ENV-370,Bachelor semestre 5,276
+2142,ENV-370,Master semestre 1,25
+2143,ENV-370,Master semestre 3,35
+2144,ENV-370,Semestre automne,67
+2145,ENV-371,Bachelor semestre 6,15
+2146,ENV-372,Bachelor semestre 4,100
+2147,ENV-400,Master semestre 2,312
+2148,ENV-400,Master semestre 3,50
+2149,ENV-400,Master semestre 4,62
+2150,ENV-400,Semestre printemps,20
+2151,ENV-401,Master semestre 1,48
+2152,ENV-401,Master semestre 3,92
+2153,ENV-401,Semestre automne,25
+2154,ENV-402,Master semestre 1,271
+2155,ENV-402,Master semestre 3,149
+2156,ENV-403,Master semestre 1,44
+2157,ENV-403,Master semestre 2,110
+2158,ENV-403,Master semestre 3,31
+2159,ENV-404,Master semestre 2,33
+2160,ENV-405,Master semestre 1,239
+2161,ENV-405,Master semestre 3,187
+2162,ENV-406,Master semestre 1,113
+2163,ENV-406,Semestre automne,1
+2164,ENV-417,Master semestre 2,223
+2165,ENV-417,Master semestre 4,43
+2166,ENV-418,Master semestre 1,162
+2167,ENV-418,Master semestre 3,99
+2168,ENV-420,Master semestre 2,163
+2169,ENV-420,Master semestre 4,27
+2170,ENV-421,Master semestre 3,27
+2171,ENV-422,Master semestre 1,110
+2172,ENV-422,Master semestre 2,71
+2173,ENV-422,Master semestre 3,21
+2174,ENV-422,Semestre automne,8
+2175,ENV-422,Semestre printemps,7
+2176,ENV-423,Master semestre 1,44
+2177,ENV-423,Master semestre 3,85
+2178,ENV-424,Master semestre 1,301
+2179,ENV-424,Master semestre 3,206
+2180,ENV-425,Master semestre 2,7
+2181,ENV-425,Master semestre 4,10
+2182,ENV-426,Master semestre 1,50
+2183,ENV-440,Master semestre 3,7
+2184,ENV-441,Master semestre 3,10
+2185,ENV-441,Semestre automne,9
+2186,ENV-442,Master semestre 2,5
+2187,ENV-443,Master semestre 2,70
+2188,ENV-443,Master semestre 4,9
+2189,ENV-443,Semestre printemps,38
+2190,ENV-444,Master semestre 1,91
+2191,ENV-444,Master semestre 3,52
+2192,ENV-445,Master semestre 1,89
+2193,ENV-445,Master semestre 3,50
+2194,ENV-460,Master semestre 1,33
+2195,ENV-460,Master semestre 3,53
+2196,ENV-460,Semestre automne,31
+2197,ENV-466,Master semestre 2,301
+2198,ENV-466,Master semestre 4,57
+2199,ENV-467(a),Master semestre 3,65
+2200,ENV-467(b),Master semestre 2,31
+2201,ENV-468,Master semestre 1,62
+2202,ENV-468,Master semestre 2,17
+2203,ENV-468,Master semestre 3,14
+2204,ENV-469,Master semestre 1,109
+2205,ENV-469,Master semestre 3,101
+2206,ENV-469,Semestre automne,8
+2207,ENV-494,Master semestre 1,139
+2208,ENV-494,Master semestre 2,92
+2209,ENV-494,Master semestre 3,40
+2210,ENV-494,Master semestre 4,24
+2211,ENV-494,Semestre automne,17
+2212,ENV-494,Semestre printemps,1
+2213,ENV-496,Master semestre 1,52
+2214,ENV-496,Master semestre 3,24
+2215,ENV-496(a),Master semestre 3,19
+2216,ENV-496(b),Master semestre 3,10
+2217,ENV-497,Master semestre 1,8
+2218,ENV-497,Master semestre 3,15
+2219,ENV-498,Master semestre 2,39
+2220,ENV-500,Master semestre 1,114
+2221,ENV-500,Master semestre 3,68
+2222,ENV-500,Semestre automne,41
+2223,ENV-501,Master semestre 1,72
+2224,ENV-501,Master semestre 3,73
+2225,ENV-501,Semestre automne,7
+2226,ENV-502,Master semestre 3,49
+2227,ENV-503,Master semestre 1,9
+2228,ENV-503,Master semestre 2,11
+2229,ENV-503,Master semestre 3,62
+2230,ENV-503,Master semestre 4,16
+2231,ENV-503,Semestre printemps,6
+2232,ENV-504,Master semestre 1,77
+2233,ENV-504,Master semestre 2,43
+2234,ENV-504,Master semestre 3,25
+2235,ENV-505,Master semestre 3,10
+2236,ENV-506,Master semestre 1,24
+2237,ENV-506,Master semestre 2,23
+2238,ENV-506,Semestre automne,1
+2239,ENV-506,Semestre printemps,1
+2240,ENV-507,Master semestre 1,95
+2241,ENV-507,Master semestre 3,14
+2242,ENV-508,Master semestre 2,152
+2243,ENV-508,Master semestre 4,38
+2244,ENV-520,Master semestre 2,83
+2245,ENV-520,Semestre printemps,32
+2246,ENV-521,Master semestre 1,90
+2247,ENV-521,Master semestre 3,47
+2248,ENV-522,Master semestre 1,113
+2249,ENV-522,Master semestre 3,106
+2250,ENV-523,Master semestre 1,68
+2251,ENV-523,Master semestre 2,135
+2252,ENV-523,Master semestre 3,43
+2253,ENV-524,Master semestre 1,168
+2254,ENV-524,Master semestre 3,115
+2255,ENV-524,Semestre automne,3
+2256,ENV-525,Master semestre 1,134
+2257,ENV-525,Master semestre 2,56
+2258,ENV-525,Master semestre 3,50
+2259,ENV-540,Master semestre 1,35
+2260,ENV-540,Master semestre 2,7
+2261,ENV-540,Master semestre 3,20
+2262,ENV-540,Semestre automne,21
+2263,ENV-540,Semestre printemps,2
+2264,ENV-541,Master semestre 3,14
+2265,ENV-542,Master semestre 2,33
+2266,ENV-542,Master semestre 4,2
+2267,ENV-542,Semestre printemps,5
+2268,ENV-543,Master semestre 2,7
+2269,ENV-543,Master semestre 4,17
+2270,ENV-543,Semestre printemps,7
+2271,ENV-544,Master semestre 3,20
+2272,ENV-545,Master semestre 2,12
+2273,ENV-546,Master semestre 1,22
+2274,ENV-546,Master semestre 2,6
+2275,ENV-546,Master semestre 3,16
+2276,ENV-547,Master semestre 1,49
+2277,ENV-547,Master semestre 2,7
+2278,ENV-547,Master semestre 3,47
+2279,ENV-548,Master semestre 1,20
+2280,ENV-548,Semestre automne,16
+2281,ENV-560,Master semestre 2,19
+2282,ENV-560,Semestre printemps,12
+2283,ENV-593,Master semestre 1,12
+2284,ENV-593,Master semestre 2,12
+2285,ENV-593,Master semestre 3,23
+2286,ENV-595,Projet Master automne,6
+2287,ENV-595,Projet Master printemps,51
+2288,ENV-596,Master semestre 2,308
+2289,ENV-596,Master semestre 4,61
+2290,ENV-597,Master semestre 1,203
+2291,ENV-597,Master semestre 2,33
+2292,ENV-597,Master semestre 3,172
+2293,ENV-597,Master semestre 4,5
+2294,ENV-598,Master semestre 1,113
+2295,ENV-598,Master semestre 2,28
+2296,ENV-598,Master semestre 3,70
+2297,ENV-598,Master semestre 4,14
+2298,ENV-598,Projet Master automne,4
+2299,ENV-599,Projet Master automne,78
+2300,ENV-599,Projet Master printemps,258
+2301,EPFL-401,Semestre automne,14
+2302,ETH-441,Semestre printemps,9
+2303,ETH-442,Semestre printemps,4
+2304,ETH-443,Semestre printemps,1
+2305,ETH-530,Master semestre 3,25
+2306,ETH-531,Master semestre 3,24
+2307,ETH-532,Master semestre 3,30
+2308,ETH-533,Master semestre 3,9
+2309,ETH-590,Master semestre 3,31
+2310,FIN-401,Master semestre 1,231
+2311,FIN-401,Master semestre 3,43
+2312,FIN-401,Semestre automne,16
+2313,FIN-402,Master semestre 1,237
+2314,FIN-402,Master semestre 3,17
+2315,FIN-403,Master semestre 1,243
+2316,FIN-403,Master semestre 3,23
+2317,FIN-404,Master semestre 2,170
+2318,FIN-404,Master semestre 4,52
+2319,FIN-405,Master semestre 2,174
+2320,FIN-405,Master semestre 4,52
+2321,FIN-406,Master semestre 1,236
+2322,FIN-406,Master semestre 3,22
+2323,FIN-407,Master semestre 2,147
+2324,FIN-407,Master semestre 4,49
+2325,FIN-408,Master semestre 1,249
+2326,FIN-409,Master semestre 2,158
+2327,FIN-409,Master semestre 4,53
+2328,FIN-410,Master semestre 1,152
+2329,FIN-410,Master semestre 2,25
+2330,FIN-411,Master semestre 1,80
+2331,FIN-421,Master semestre 2,58
+2332,FIN-421,Semestre printemps,1
+2333,FIN-422,Master semestre 2,33
+2334,FIN-422,Master semestre 4,45
+2335,FIN-501,Master semestre 1,22
+2336,FIN-501,Master semestre 3,15
+2337,FIN-502,Master semestre 3,12
+2338,FIN-503,Master semestre 1,173
+2339,FIN-503,Master semestre 3,16
+2340,FIN-504,Master semestre 1,152
+2341,FIN-505,Master semestre 1,161
+2342,FIN-521,Master semestre 1,85
+2343,FIN-521,Master semestre 3,8
+2344,FIN-522,Master semestre 1,149
+2345,FIN-522,Master semestre 3,15
+2346,FIN-523,Master semestre 1,195
+2347,FIN-523,Master semestre 3,45
+2348,FIN-523,Semestre automne,153
+2349,FIN-524,Master semestre 1,67
+2350,FIN-525,Master semestre 1,38
+2351,FIN-599,Projet Master automne,24
+2352,FIN-599,Projet Master printemps,120
+2353,FIN-614,Master semestre 1,22
+2354,HEP-407,Master semestre 3,1
+2355,HEP-408,Master semestre 3,1
+2356,HUM-101,Bachelor semestre 1,693
+2357,HUM-101,Bachelor semestre 2,125
+2358,HUM-102,Bachelor semestre 1,439
+2359,HUM-102,Bachelor semestre 2,432
+2360,HUM-103,Bachelor semestre 1,1223
+2361,HUM-104,Bachelor semestre 1,715
+2362,HUM-105,Bachelor semestre 1,1043
+2363,HUM-106,Bachelor semestre 1,190
+2364,HUM-106,Bachelor semestre 2,658
+2365,HUM-107,Bachelor semestre 2,534
+2366,HUM-108,Bachelor semestre 1,462
+2367,HUM-108,Bachelor semestre 2,544
+2368,HUM-109,Bachelor semestre 2,1130
+2369,HUM-110,Bachelor semestre 2,1194
+2370,HUM-111,Bachelor semestre 2,24
+2371,HUM-112,Bachelor semestre 1,625
+2372,HUM-113,Bachelor semestre 2,653
+2373,HUM-114,Bachelor semestre 1,569
+2374,HUM-114,Bachelor semestre 3,77
+2375,HUM-115,Bachelor semestre 2,600
+2376,HUM-116,Bachelor semestre 1,181
+2377,HUM-117,Bachelor semestre 2,96
+2378,HUM-120(a),Bachelor semestre 2,289
+2379,HUM-120(b),Bachelor semestre 2,198
+2380,HUM-121(a),Bachelor semestre 2,292
+2381,HUM-121(b),Bachelor semestre 2,242
+2382,HUM-122(a),Bachelor semestre 2,301
+2383,HUM-122(b),Bachelor semestre 2,296
+2384,HUM-123(a),Bachelor semestre 2,302
+2385,HUM-123(b),Bachelor semestre 2,299
+2386,HUM-124(a),Bachelor semestre 2,289
+2387,HUM-124(b),Bachelor semestre 2,264
+2388,HUM-125(a),Bachelor semestre 2,300
+2389,HUM-125(b),Bachelor semestre 2,289
+2390,HUM-201,Bachelor semestre 3,402
+2391,HUM-202,Bachelor semestre 3,172
+2392,HUM-203,Bachelor semestre 3,410
+2393,HUM-203(a),Bachelor semestre 3,49
+2394,HUM-204,Bachelor semestre 3,458
+2395,HUM-205,Bachelor semestre 3,196
+2396,HUM-206,Bachelor semestre 3,240
+2397,HUM-207,Bachelor semestre 3,90
+2398,HUM-207(a),Bachelor semestre 3,20
+2399,HUM-208,Bachelor semestre 3,340
+2400,HUM-209,Bachelor semestre 3,15
+2401,HUM-210,Bachelor semestre 3,203
+2402,HUM-210(a),Bachelor semestre 3,74
+2403,HUM-210(b),Bachelor semestre 4,81
+2404,HUM-211,Bachelor semestre 3,101
+2405,HUM-211(a),Bachelor semestre 3,8
+2406,HUM-212,Bachelor semestre 3,37
+2407,HUM-212,Bachelor semestre 4,38
+2408,HUM-213,Bachelor semestre 3,499
+2409,HUM-214,Bachelor semestre 3,11
+2410,HUM-215,Bachelor semestre 3,539
+2411,HUM-216,Bachelor semestre 3,395
+2412,HUM-217,Bachelor semestre 3,72
+2413,HUM-217,Bachelor semestre 4,140
+2414,HUM-218,Bachelor semestre 3,525
+2415,HUM-219,Bachelor semestre 3,6
+2416,HUM-219,Bachelor semestre 4,39
+2417,HUM-219,Bachelor semestre 5,189
+2418,HUM-220,Bachelor semestre 3,199
+2419,HUM-221,Bachelor semestre 3,220
+2420,HUM-221(a),Bachelor semestre 3,58
+2421,HUM-222,Bachelor semestre 4,97
+2422,HUM-222,Bachelor semestre 5,115
+2423,HUM-223,Bachelor semestre 4,60
+2424,HUM-224,Bachelor semestre 4,137
+2425,HUM-225,Bachelor semestre 4,183
+2426,HUM-226,Bachelor semestre 4,416
+2427,HUM-227,Bachelor semestre 4,8
+2428,HUM-228,Bachelor semestre 4,41
+2429,HUM-229,Bachelor semestre 4,89
+2430,HUM-230,Bachelor semestre 4,113
+2431,HUM-231,Bachelor semestre 3,121
+2432,HUM-231,Bachelor semestre 4,54
+2433,HUM-232,Bachelor semestre 4,55
+2434,HUM-233,Bachelor semestre 3,169
+2435,HUM-233,Bachelor semestre 4,317
+2436,HUM-234,Bachelor semestre 4,460
+2437,HUM-235,Bachelor semestre 4,101
+2438,HUM-235(a),Bachelor semestre 4,60
+2439,HUM-236,Bachelor semestre 4,42
+2440,HUM-237,Bachelor semestre 4,452
+2441,HUM-238,Bachelor semestre 4,98
+2442,HUM-239,Bachelor semestre 4,220
+2443,HUM-239,Bachelor semestre 6,43
+2444,HUM-240,Bachelor semestre 4,475
+2445,HUM-241,Bachelor semestre 3,258
+2446,HUM-241,Bachelor semestre 4,17
+2447,HUM-242,Bachelor semestre 3,217
+2448,HUM-242,Bachelor semestre 4,58
+2449,HUM-243,Bachelor semestre 4,259
+2450,HUM-244,Bachelor semestre 4,96
+2451,HUM-245,Bachelor semestre 3,94
+2452,HUM-245(a),Bachelor semestre 3,42
+2453,HUM-246,Bachelor semestre 4,173
+2454,HUM-248,Bachelor semestre 4,54
+2455,HUM-248(a),Bachelor semestre 3,329
+2456,HUM-249,Bachelor semestre 4,100
+2457,HUM-250,Bachelor semestre 4,198
+2458,HUM-251,Bachelor semestre 4,176
+2459,HUM-252,Bachelor semestre 3,113
+2460,HUM-252,Bachelor semestre 4,53
+2461,HUM-253,Bachelor semestre 4,207
+2462,HUM-254,Bachelor semestre 3,51
+2463,HUM-255,Bachelor semestre 3,77
+2464,HUM-256,Bachelor semestre 3,248
+2465,HUM-257,Bachelor semestre 4,159
+2466,HUM-259,Bachelor semestre 4,166
+2467,HUM-260,Bachelor semestre 4,20
+2468,HUM-261,Bachelor semestre 4,11
+2469,HUM-262,Bachelor semestre 4,29
+2470,HUM-263,Bachelor semestre 4,16
+2471,HUM-264,Bachelor semestre 4,19
+2472,HUM-265,Bachelor semestre 3,4
+2473,HUM-265(a),Bachelor semestre 3,24
+2474,HUM-266,Bachelor semestre 4,80
+2475,HUM-267,Bachelor semestre 3,36
+2476,HUM-301,Bachelor semestre 4,88
+2477,HUM-301,Bachelor semestre 5,46
+2478,HUM-302,Bachelor semestre 5,37
+2479,HUM-303,Bachelor semestre 5,82
+2480,HUM-304,Bachelor semestre 5,444
+2481,HUM-305,Bachelor semestre 5,175
+2482,HUM-306,Bachelor semestre 5,204
+2483,HUM-307,Bachelor semestre 5,96
+2484,HUM-307,Bachelor semestre 6,243
+2485,HUM-308,Bachelor semestre 5,449
+2486,HUM-309,Bachelor semestre 5,6
+2487,HUM-310,Bachelor semestre 5,60
+2488,HUM-311,Bachelor semestre 4,44
+2489,HUM-311,Bachelor semestre 5,213
+2490,HUM-312,Bachelor semestre 5,26
+2491,HUM-312(a),Bachelor semestre 5,24
+2492,HUM-312(a),Bachelor semestre 6,25
+2493,HUM-313,Bachelor semestre 5,204
+2494,HUM-313,Bachelor semestre 6,60
+2495,HUM-314,Bachelor semestre 5,520
+2496,HUM-315,Bachelor semestre 5,220
+2497,HUM-316,Bachelor semestre 5,181
+2498,HUM-317,Bachelor semestre 5,154
+2499,HUM-318,Bachelor semestre 3,90
+2500,HUM-318,Bachelor semestre 4,50
+2501,HUM-318,Bachelor semestre 5,61
+2502,HUM-318,Bachelor semestre 6,60
+2503,HUM-320,Bachelor semestre 5,177
+2504,HUM-321,Bachelor semestre 6,150
+2505,HUM-322,Bachelor semestre 6,171
+2506,HUM-323,Bachelor semestre 6,112
+2507,HUM-324,Bachelor semestre 6,137
+2508,HUM-325,Bachelor semestre 6,34
+2509,HUM-326,Bachelor semestre 6,103
+2510,HUM-327,Bachelor semestre 6,133
+2511,HUM-328,Bachelor semestre 6,155
+2512,HUM-329,Bachelor semestre 5,41
+2513,HUM-329,Bachelor semestre 6,82
+2514,HUM-330,Bachelor semestre 5,170
+2515,HUM-330,Bachelor semestre 6,18
+2516,HUM-330(a),Bachelor semestre 5,18
+2517,HUM-331,Bachelor semestre 6,22
+2518,HUM-332,Bachelor semestre 6,94
+2519,HUM-333,Bachelor semestre 6,8
+2520,HUM-334,Bachelor semestre 6,323
+2521,HUM-335,Bachelor semestre 6,59
+2522,HUM-336,Bachelor semestre 5,11
+2523,HUM-336,Bachelor semestre 6,34
+2524,HUM-337,Bachelor semestre 6,201
+2525,HUM-338,Bachelor semestre 5,194
+2526,HUM-338,Bachelor semestre 6,48
+2527,HUM-339,Bachelor semestre 6,314
+2528,HUM-340,Bachelor semestre 6,356
+2529,HUM-341,Bachelor semestre 6,57
+2530,HUM-342,Bachelor semestre 5,14
+2531,HUM-342,Bachelor semestre 6,44
+2532,HUM-343,Bachelor semestre 6,79
+2533,HUM-344,Bachelor semestre 5,1
+2534,HUM-344,Bachelor semestre 6,80
+2535,HUM-345,Bachelor semestre 6,246
+2536,HUM-346,Bachelor semestre 5,242
+2537,HUM-347,Bachelor semestre 6,230
+2538,HUM-348,Bachelor semestre 5,186
+2539,HUM-348,Bachelor semestre 6,64
+2540,HUM-349,Bachelor semestre 5,11
+2541,HUM-350,Bachelor semestre 6,91
+2542,HUM-352,Bachelor semestre 5,296
+2543,HUM-353,Bachelor semestre 5,27
+2544,HUM-354,Bachelor semestre 5,92
+2545,HUM-354,Bachelor semestre 6,61
+2546,HUM-355,Bachelor semestre 5,67
+2547,HUM-356,Bachelor semestre 5,4
+2548,HUM-357,Bachelor semestre 5,196
+2549,HUM-358,Bachelor semestre 5,103
+2550,HUM-359,Bachelor semestre 6,25
+2551,HUM-361,Bachelor semestre 6,64
+2552,HUM-362,Bachelor semestre 6,5
+2553,HUM-363,Bachelor semestre 6,8
+2554,HUM-364,Bachelor semestre 6,77
+2555,HUM-365,Bachelor semestre 6,86
+2556,HUM-366,Bachelor semestre 5,91
+2557,HUM-370,Bachelor semestre 5,14
+2558,HUM-386,Bachelor semestre 6,52
+2559,HUM-400,Semestre automne,9
+2560,HUM-401(a),Master semestre 1,171
+2561,HUM-401(a),Master semestre 2,11
+2562,HUM-401(b),Master semestre 2,128
+2563,HUM-402(a),Master semestre 1,353
+2564,HUM-402(a),Master semestre 2,111
+2565,HUM-402(b),Master semestre 2,265
+2566,HUM-403(a),Master semestre 1,194
+2567,HUM-403(a),Master semestre 2,72
+2568,HUM-403(b),Master semestre 2,199
+2569,HUM-404(a),Master semestre 1,119
+2570,HUM-404(a),Master semestre 2,33
+2571,HUM-404(b),Master semestre 2,104
+2572,HUM-405(a),Master semestre 1,226
+2573,HUM-405(a),Master semestre 2,18
+2574,HUM-405(b),Master semestre 2,124
+2575,HUM-406(a),Master semestre 1,185
+2576,HUM-406(a),Master semestre 2,47
+2577,HUM-406(b),Master semestre 2,173
+2578,HUM-407(a),Master semestre 1,151
+2579,HUM-407(a),Master semestre 2,31
+2580,HUM-407(b),Master semestre 2,113
+2581,HUM-408(a),Master semestre 1,164
+2582,HUM-408(a),Master semestre 2,45
+2583,HUM-408(b),Master semestre 2,132
+2584,HUM-409(a),Master semestre 1,118
+2585,HUM-409(a),Master semestre 2,37
+2586,HUM-409(b),Master semestre 2,88
+2587,HUM-410(a),Master semestre 1,324
+2588,HUM-410(a),Master semestre 2,116
+2589,HUM-410(b),Master semestre 2,343
+2590,HUM-411(a),Master semestre 1,224
+2591,HUM-411(a),Master semestre 2,105
+2592,HUM-411(b),Master semestre 2,310
+2593,HUM-411(c),Master semestre 1,72
+2594,HUM-412(a),Master semestre 1,59
+2595,HUM-412(a),Master semestre 2,11
+2596,HUM-412(b),Master semestre 2,60
+2597,HUM-412(c),Master semestre 1,45
+2598,HUM-413(a),Master semestre 2,1
+2599,HUM-413(b),Master semestre 2,1
+2600,HUM-414(a),Master semestre 1,7
+2601,HUM-414(a),Master semestre 2,14
+2602,HUM-414(b),Master semestre 2,29
+2603,HUM-415(a),Master semestre 1,275
+2604,HUM-415(a),Master semestre 2,66
+2605,HUM-415(b),Master semestre 2,209
+2606,HUM-416(a),Master semestre 1,319
+2607,HUM-416(a),Master semestre 2,57
+2608,HUM-416(b),Master semestre 2,273
+2609,HUM-417(a),Master semestre 1,243
+2610,HUM-417(a),Master semestre 2,111
+2611,HUM-417(b),Master semestre 2,235
+2612,HUM-418(a),Master semestre 1,231
+2613,HUM-418(a),Master semestre 2,80
+2614,HUM-418(b),Master semestre 2,221
+2615,HUM-419(a),Master semestre 1,318
+2616,HUM-419(a),Master semestre 2,52
+2617,HUM-419(b),Master semestre 2,276
+2618,HUM-420(a),Master semestre 1,210
+2619,HUM-420(A),Master semestre 2,26
+2620,HUM-420(B),Master semestre 2,172
+2621,HUM-421(a),Master semestre 1,118
+2622,HUM-421(A),Master semestre 2,177
+2623,HUM-421(B),Master semestre 2,287
+2624,HUM-422(a),Master semestre 1,325
+2625,HUM-422(A),Master semestre 2,106
+2626,HUM-422(B),Master semestre 2,324
+2627,HUM-423,Master semestre 1,4
+2628,HUM-423,Master semestre 2,17
+2629,HUM-424,Master semestre 1,6
+2630,HUM-424,Master semestre 2,55
+2631,HUM-425,Master semestre 1,9
+2632,HUM-426(a),Master semestre 1,149
+2633,HUM-426(a),Master semestre 2,23
+2634,HUM-426(b),Master semestre 2,162
+2635,HUM-427(a),Master semestre 1,180
+2636,HUM-427(a),Master semestre 2,31
+2637,HUM-427(b),Master semestre 2,113
+2638,HUM-428(a),Master semestre 1,96
+2639,HUM-428(b),Master semestre 2,33
+2640,HUM-429(a),Master semestre 1,175
+2641,HUM-429(b),Master semestre 2,129
+2642,HUM-430(a),Master semestre 1,13
+2643,HUM-430(b),Master semestre 2,11
+2644,HUM-431,Master semestre 2,4
+2645,HUM-432(a),Master semestre 1,279
+2646,HUM-432(b),Master semestre 2,136
+2647,HUM-433(a),Master semestre 1,228
+2648,HUM-433(b),Master semestre 2,122
+2649,HUM-434(a),Master semestre 1,186
+2650,HUM-434(b),Master semestre 2,102
+2651,HUM-435(a),Master semestre 1,222
+2652,HUM-435(b),Master semestre 2,130
+2653,HUM-436(a),Master semestre 1,115
+2654,HUM-436(b),Master semestre 2,16
+2655,HUM-437(a),Master semestre 1,24
+2656,HUM-437(b),Master semestre 2,2
+2657,HUM-438(a),Master semestre 1,14
+2658,HUM-439(a),Master semestre 1,8
+2659,HUM-480,Semestre printemps,150
+2660,HUM-481,Semestre printemps,141
+2661,HUM-482,Semestre printemps,128
+2662,HUM-483,Semestre automne,74
+2663,HUM-484,Semestre automne,43
+2664,MATH-100,Bachelor semestre 1,578
+2665,MATH-100,Bachelor semestre 2,438
+2666,MATH-100(a),Bachelor semestre 1,660
+2667,MATH-100(b),Bachelor semestre 1,653
+2668,MATH-101(a),Bachelor semestre 1,1356
+2669,MATH-101(a),Bachelor semestre 2,330
+2670,MATH-101(b),Bachelor semestre 1,1186
+2671,MATH-101(b),Bachelor semestre 2,139
+2672,MATH-101(c),Bachelor semestre 1,1654
+2673,MATH-101(c),Bachelor semestre 2,204
+2674,MATH-101(d),Bachelor semestre 1,1054
+2675,MATH-101(d),Semestre automne,123
+2676,MATH-101(de),Bachelor semestre 1,220
+2677,MATH-101(e),Bachelor semestre 1,895
+2678,MATH-101(en),Bachelor semestre 1,568
+2679,MATH-101(f),Bachelor semestre 1,702
+2680,MATH-101(g),Bachelor semestre 1,241
+2681,MATH-101(g),Semestre automne,246
+2682,MATH-102,Bachelor semestre 1,1126
+2683,MATH-102,Bachelor semestre 2,189
+2684,MATH-103,Bachelor semestre 1,905
+2685,MATH-103,Bachelor semestre 2,126
+2686,MATH-104,Bachelor semestre 1,259
+2687,MATH-104,Bachelor semestre 2,53
+2688,MATH-105,Bachelor semestre 2,989
+2689,MATH-105(a),Bachelor semestre 2,480
+2690,MATH-105(b),Bachelor semestre 2,470
+2691,MATH-106(a),Bachelor semestre 2,983
+2692,MATH-106(b),Bachelor semestre 2,1189
+2693,MATH-106(c),Bachelor semestre 2,1336
+2694,MATH-106(d),Bachelor semestre 2,1848
+2695,MATH-106(de),Bachelor semestre 2,101
+2696,MATH-106(e),Bachelor semestre 2,677
+2697,MATH-106(e),Semestre printemps,81
+2698,MATH-106(en),Bachelor semestre 2,268
+2699,MATH-106(f),Bachelor semestre 2,393
+2700,MATH-106(g),Bachelor semestre 2,217
+2701,MATH-106(g),Semestre printemps,168
+2702,MATH-107,Bachelor semestre 2,989
+2703,MATH-109,Bachelor semestre 2,283
+2704,MATH-110,Bachelor semestre 1,819
+2705,MATH-110,Bachelor semestre 2,210
+2706,MATH-110(a),Bachelor semestre 1,466
+2707,MATH-110(b),Bachelor semestre 1,847
+2708,MATH-111,Bachelor semestre 1,547
+2709,MATH-111(a),Bachelor semestre 1,689
+2710,MATH-111(a),Bachelor semestre 2,201
+2711,MATH-111(a),Bachelor semestre 3,2
+2712,MATH-111(b),Bachelor semestre 1,1509
+2713,MATH-111(c),Bachelor semestre 1,2486
+2714,MATH-111(d),Bachelor semestre 1,1856
+2715,MATH-111(de),Bachelor semestre 1,85
+2716,MATH-111(e),Bachelor semestre 1,889
+2717,MATH-111(en),Bachelor semestre 1,612
+2718,MATH-111(f),Bachelor semestre 1,710
+2719,MATH-111(g),Bachelor semestre 1,293
+2720,MATH-111(g),Semestre automne,244
+2721,MATH-112,Bachelor semestre 2,632
+2722,MATH-112(a),Bachelor semestre 1,216
+2723,MATH-112(b),Bachelor semestre 1,130
+2724,MATH-112(b),Semestre automne,102
+2725,MATH-115,Bachelor semestre 2,1315
+2726,MATH-115(a),Bachelor semestre 2,294
+2727,MATH-115(b),Bachelor semestre 2,337
+2728,MATH-117,Bachelor semestre 2,632
+2729,MATH-117(a),Bachelor semestre 2,209
+2730,MATH-117(b),Bachelor semestre 2,123
+2731,MATH-117(b),Semestre printemps,68
+2732,MATH-120,Bachelor semestre 1,626
+2733,MATH-120,Bachelor semestre 2,473
+2734,MATH-121,Bachelor semestre 2,1297
+2735,MATH-122,Bachelor semestre 2,748
+2736,MATH-123(a),Bachelor semestre 2,574
+2737,MATH-123(b),Bachelor semestre 2,1102
+2738,MATH-124,Bachelor semestre 1,2150
+2739,MATH-124,Semestre automne,3
+2740,MATH-125,Bachelor semestre 2,920
+2741,MATH-126,Bachelor semestre 2,1754
+2742,MATH-126,Semestre printemps,1
+2743,MATH-131,Bachelor semestre 2,724
+2744,MATH-150,Bachelor semestre 2,1058
+2745,MATH-180,Bachelor semestre 2,361
+2746,MATH-180,Semestre printemps,294
+2747,MATH-181,Semestre automne,123
+2748,MATH-182,Bachelor semestre 2,361
+2749,MATH-182,Semestre printemps,294
+2750,MATH-183,Semestre printemps,34
+2751,MATH-184,Bachelor semestre 1,2349
+2752,MATH-184,Bachelor semestre 3,2
+2753,MATH-184,Semestre automne,3
+2754,MATH-185,Bachelor semestre 2,186
+2755,MATH-185,Bachelor semestre 4,2
+2756,MATH-186,Bachelor semestre 2,1756
+2757,MATH-186,Semestre automne,14
+2758,MATH-186,Semestre printemps,1
+2759,MATH-187,Semestre automne,105
+2760,MATH-188,Semestre printemps,74
+2761,MATH-190,Bachelor semestre 1,172
+2762,MATH-190,Bachelor semestre 5,10
+2763,MATH-191,Bachelor semestre 2,162
+2764,MATH-191,Bachelor semestre 6,3
+2765,MATH-192,Bachelor semestre 1,335
+2766,MATH-192,Bachelor semestre 5,15
+2767,MATH-200,Bachelor semestre 3,103
+2768,MATH-200,Bachelor semestre 4,501
+2769,MATH-201,Bachelor semestre 3,625
+2770,MATH-201,Bachelor semestre 4,50
+2771,MATH-202,Bachelor semestre 3,897
+2772,MATH-202(c),Bachelor semestre 3,674
+2773,MATH-202(c),Semestre automne,20
+2774,MATH-203(a),Bachelor semestre 3,1544
+2775,MATH-203(a),Semestre automne,5
+2776,MATH-203(b),Bachelor semestre 3,1299
+2777,MATH-203(b),Semestre automne,11
+2778,MATH-203(c),Bachelor semestre 3,1285
+2779,MATH-203(c),Semestre automne,6
+2780,MATH-205,Bachelor semestre 4,501
+2781,MATH-206,Bachelor semestre 4,554
+2782,MATH-207(a),Bachelor semestre 4,1319
+2783,MATH-207(b),Bachelor semestre 4,534
+2784,MATH-207(c),Bachelor semestre 4,1287
+2785,MATH-207(d),Bachelor semestre 4,241
+2786,MATH-207(d),Bachelor semestre 6,32
+2787,MATH-210,Bachelor semestre 4,477
+2788,MATH-211,Bachelor semestre 3,101
+2789,MATH-215,Bachelor semestre 4,477
+2790,MATH-220,Bachelor semestre 3,369
+2791,MATH-220,Bachelor semestre 4,202
+2792,MATH-225,Bachelor semestre 4,496
+2793,MATH-230,Bachelor semestre 3,603
+2794,MATH-230,Bachelor semestre 5,12
+2795,MATH-231,Bachelor semestre 3,677
+2796,MATH-231,Bachelor semestre 4,78
+2797,MATH-232,Bachelor semestre 4,1034
+2798,MATH-233,Bachelor semestre 3,683
+2799,MATH-234(a),Bachelor semestre 3,1329
+2800,MATH-234(a),Semestre automne,267
+2801,MATH-234(b),Bachelor semestre 3,920
+2802,MATH-234(b),Semestre automne,164
+2803,MATH-234(c),Bachelor semestre 4,1033
+2804,MATH-234(d),Bachelor semestre 4,164
+2805,MATH-236,Bachelor semestre 4,639
+2806,MATH-240,Bachelor semestre 4,500
+2807,MATH-240,Bachelor semestre 6,3
+2808,MATH-250,Bachelor semestre 4,481
+2809,MATH-251(a),Bachelor semestre 5,877
+2810,MATH-251(a),Semestre automne,10
+2811,MATH-251(b),Bachelor semestre 3,1458
+2812,MATH-251(b),Semestre automne,10
+2813,MATH-251(c),Bachelor semestre 4,657
+2814,MATH-251(d),Bachelor semestre 4,736
+2815,MATH-251(d),Bachelor semestre 6,337
+2816,MATH-260,Bachelor semestre 3,568
+2817,MATH-260,Bachelor semestre 5,7
+2818,MATH-261,Bachelor semestre 4,412
+2819,MATH-261,Bachelor semestre 6,237
+2820,MATH-261,Master semestre 2,11
+2821,MATH-262,Bachelor semestre 4,59
+2822,MATH-262,Bachelor semestre 6,50
+2823,MATH-265,Bachelor semestre 3,384
+2824,MATH-265,Bachelor semestre 4,414
+2825,MATH-265,Bachelor semestre 5,310
+2826,MATH-265,Bachelor semestre 6,36
+2827,MATH-265,Semestre automne,27
+2828,MATH-280,Bachelor semestre 4,328
+2829,MATH-281,Bachelor semestre 3,321
+2830,MATH-300,Bachelor semestre 5,105
+2831,MATH-301,Bachelor semestre 5,221
+2832,MATH-301,Bachelor semestre 6,18
+2833,MATH-302,Bachelor semestre 5,130
+2834,MATH-302,Bachelor semestre 6,108
+2835,MATH-303,Bachelor semestre 5,278
+2836,MATH-310,Bachelor semestre 5,560
+2837,MATH-310,Semestre automne,5
+2838,MATH-311,Bachelor semestre 5,124
+2839,MATH-311,Bachelor semestre 6,16
+2840,MATH-312,Bachelor semestre 6,130
+2841,MATH-313,Bachelor semestre 5,8
+2842,MATH-313,Bachelor semestre 6,69
+2843,MATH-314,Bachelor semestre 6,58
+2844,MATH-315,Bachelor semestre 5,162
+2845,MATH-315,Bachelor semestre 6,22
+2846,MATH-316,Bachelor semestre 6,150
+2847,MATH-316,Master semestre 2,22
+2848,MATH-317,Bachelor semestre 5,81
+2849,MATH-317,Bachelor semestre 6,70
+2850,MATH-318,Master semestre 1,60
+2851,MATH-318,Master semestre 2,21
+2852,MATH-319,Bachelor semestre 5,58
+2853,MATH-319,Bachelor semestre 6,39
+2854,MATH-320,Bachelor semestre 5,15
+2855,MATH-321,Bachelor semestre 6,6
+2856,MATH-322,Bachelor semestre 5,148
+2857,MATH-322,Bachelor semestre 6,98
+2858,MATH-323,Bachelor semestre 5,123
+2859,MATH-324,Bachelor semestre 5,115
+2860,MATH-330,Bachelor semestre 6,86
+2861,MATH-331,Bachelor semestre 5,48
+2862,MATH-332,Bachelor semestre 5,29
+2863,MATH-332,Bachelor semestre 6,144
+2864,MATH-340,Bachelor semestre 6,37
+2865,MATH-341,Bachelor semestre 5,334
+2866,MATH-342,Bachelor semestre 6,177
+2867,MATH-342,Master semestre 2,86
+2868,MATH-342,Master semestre 4,32
+2869,MATH-350,Bachelor semestre 5,328
+2870,MATH-350,Master semestre 1,81
+2871,MATH-350,Master semestre 3,31
+2872,MATH-351,Bachelor semestre 6,77
+2873,MATH-351,Master semestre 2,38
+2874,MATH-360,Bachelor semestre 6,426
+2875,MATH-361,Bachelor semestre 6,55
+2876,MATH-363,Bachelor semestre 6,19
+2877,MATH-363,Master semestre 2,3
+2878,MATH-365,Bachelor semestre 5,677
+2879,MATH-365,Master semestre 1,8
+2880,MATH-365,Master semestre 3,4
+2881,MATH-370,Bachelor semestre 5,24
+2882,MATH-370,Master semestre 1,6
+2883,MATH-370,Master semestre 3,9
+2884,MATH-380,Bachelor semestre 5,116
+2885,MATH-381,Bachelor semestre 5,306
+2886,MATH-382,Bachelor semestre 5,39
+2887,MATH-391,Bachelor semestre 6,29
+2888,MATH-397,Bachelor semestre 5,31
+2889,MATH-397,Bachelor semestre 6,30
+2890,MATH-398,Bachelor semestre 5,206
+2891,MATH-398,Bachelor semestre 6,10
+2892,MATH-399,Bachelor semestre 5,17
+2893,MATH-399,Bachelor semestre 6,187
+2894,MATH-400,Master semestre 1,78
+2895,MATH-400,Master semestre 3,41
+2896,MATH-401,Master semestre 2,17
+2897,MATH-401,Master semestre 4,28
+2898,MATH-402,Master semestre 3,12
+2899,MATH-403,Master semestre 2,9
+2900,MATH-404,Master semestre 2,112
+2901,MATH-404,Master semestre 4,10
+2902,MATH-405,Master semestre 2,8
+2903,MATH-406,Master semestre 2,38
+2904,MATH-406,Master semestre 4,6
+2905,MATH-407,Master semestre 1,27
+2906,MATH-410,Bachelor semestre 5,18
+2907,MATH-411,Master semestre 2,53
+2908,MATH-412,Master semestre 2,6
+2909,MATH-413,Master semestre 2,2
+2910,MATH-414,Master semestre 3,14
+2911,MATH-415,Master semestre 3,13
+2912,MATH-416,Master semestre 2,100
+2913,MATH-416,Master semestre 4,1
+2914,MATH-417,Master semestre 1,28
+2915,MATH-417,Master semestre 3,29
+2916,MATH-418,Bachelor semestre 5,29
+2917,MATH-419,Master semestre 2,63
+2918,MATH-419(b),Master semestre 1,9
+2919,MATH-420,Master semestre 2,16
+2920,MATH-421,Master semestre 3,8
+2921,MATH-422,Master semestre 1,54
+2922,MATH-422,Master semestre 2,23
+2923,MATH-422,Master semestre 3,29
+2924,MATH-423,Master semestre 1,30
+2925,MATH-423,Master semestre 2,9
+2926,MATH-423,Master semestre 3,2
+2927,MATH-424,Master semestre 3,14
+2928,MATH-425,Master semestre 3,16
+2929,MATH-426,Master semestre 2,13
+2930,MATH-427,Master semestre 2,12
+2931,MATH-428,Master semestre 2,58
+2932,MATH-428,Master semestre 4,1
+2933,MATH-429,Master semestre 2,8
+2934,MATH-429,Master semestre 4,1
+2935,MATH-430,Master semestre 2,54
+2936,MATH-431,Master semestre 1,84
+2937,MATH-431,Master semestre 3,94
+2938,MATH-432,Master semestre 1,98
+2939,MATH-432,Master semestre 3,39
+2940,MATH-433,Master semestre 2,4
+2941,MATH-433,Master semestre 4,5
+2942,MATH-434,Master semestre 1,50
+2943,MATH-434,Master semestre 3,1
+2944,MATH-440,Master semestre 1,42
+2945,MATH-440,Master semestre 2,24
+2946,MATH-440,Master semestre 3,20
+2947,MATH-441,Master semestre 1,58
+2948,MATH-441,Master semestre 3,19
+2949,MATH-442,Master semestre 1,140
+2950,MATH-442,Master semestre 3,115
+2951,MATH-443,Master semestre 1,23
+2952,MATH-443,Master semestre 3,35
+2953,MATH-443,Semestre automne,2
+2954,MATH-444,Master semestre 2,107
+2955,MATH-444,Master semestre 3,9
+2956,MATH-444,Master semestre 4,31
+2957,MATH-445,Master semestre 1,15
+2958,MATH-445,Master semestre 2,56
+2959,MATH-445,Master semestre 3,32
+2960,MATH-446,Bachelor semestre 6,22
+2961,MATH-446,Master semestre 2,14
+2962,MATH-446,Semestre printemps,1
+2963,MATH-447,Master semestre 1,88
+2964,MATH-447,Master semestre 3,31
+2965,MATH-448,Master semestre 2,16
+2966,MATH-449,Master semestre 1,19
+2967,MATH-449,Master semestre 3,44
+2968,MATH-450,Master semestre 1,18
+2969,MATH-450,Master semestre 2,19
+2970,MATH-450,Master semestre 3,40
+2971,MATH-451,Master semestre 1,91
+2972,MATH-451,Master semestre 2,62
+2973,MATH-451,Master semestre 3,44
+2974,MATH-452,Master semestre 1,115
+2975,MATH-452,Master semestre 3,54
+2976,MATH-453,Master semestre 2,105
+2977,MATH-453,Master semestre 4,22
+2978,MATH-454,Master semestre 1,14
+2979,MATH-454,Master semestre 2,57
+2980,MATH-454,Master semestre 3,7
+2981,MATH-456,Master semestre 1,76
+2982,MATH-456,Master semestre 3,20
+2983,MATH-457,Master semestre 2,23
+2984,MATH-457,Master semestre 4,14
+2985,MATH-458,Master semestre 1,93
+2986,MATH-458,Master semestre 3,30
+2987,MATH-459,Master semestre 1,38
+2988,MATH-459,Master semestre 3,27
+2989,MATH-460,Master semestre 1,70
+2990,MATH-460,Master semestre 3,40
+2991,MATH-461,Master semestre 1,19
+2992,MATH-461,Master semestre 2,20
+2993,MATH-461,Master semestre 3,1
+2994,MATH-462,Master semestre 2,17
+2995,MATH-462,Master semestre 3,12
+2996,MATH-463,Master semestre 1,196
+2997,MATH-463,Master semestre 3,158
+2998,MATH-464,Master semestre 3,14
+2999,MATH-465,Master semestre 2,40
+3000,MATH-465,Master semestre 4,3
+3001,MATH-466,Master semestre 2,29
+3002,MATH-466,Master semestre 4,13
+3003,MATH-470,Master semestre 2,117
+3004,MATH-470,Master semestre 4,23
+3005,MATH-471,Master semestre 2,242
+3006,MATH-471,Master semestre 4,59
+3007,MATH-472,Master semestre 1,65
+3008,MATH-472,Master semestre 2,19
+3009,MATH-472,Master semestre 3,1
+3010,MATH-473,Master semestre 2,12
+3011,MATH-480,Master semestre 2,30
+3012,MATH-481,Master semestre 2,25
+3013,MATH-481,Master semestre 3,10
+3014,MATH-482,Master semestre 3,13
+3015,MATH-483,Master semestre 1,1
+3016,MATH-483,Master semestre 2,30
+3017,MATH-483,Master semestre 3,32
+3018,MATH-484,Master semestre 2,13
+3019,MATH-485,Master semestre 1,10
+3020,MATH-486,Master semestre 1,15
+3021,MATH-487,Master semestre 1,1
+3022,MATH-487,Master semestre 3,28
+3023,MATH-488,Master semestre 2,20
+3024,MATH-488,Master semestre 4,1
+3025,MATH-489,Master semestre 1,1
+3026,MATH-489,Master semestre 3,26
+3027,MATH-490,Master semestre 2,11
+3028,MATH-490,Master semestre 4,22
+3029,MATH-491,Master semestre 2,19
+3030,MATH-498,Master semestre 1,14
+3031,MATH-498,Master semestre 2,10
+3032,MATH-498,Master semestre 3,30
+3033,MATH-498,Master semestre 4,17
+3034,MATH-498(a),Master semestre 1,80
+3035,MATH-498(a),Master semestre 2,40
+3036,MATH-498(a),Master semestre 3,78
+3037,MATH-498(a),Master semestre 4,2
+3038,MATH-498(b),Master semestre 1,22
+3039,MATH-498(b),Master semestre 3,31
+3040,MATH-498(c),Master semestre 1,1
+3041,MATH-499,Master semestre 1,27
+3042,MATH-499,Master semestre 2,158
+3043,MATH-499,Master semestre 3,17
+3044,MATH-499,Master semestre 4,8
+3045,MATH-501,Bachelor semestre 5,40
+3046,MATH-501,Master semestre 1,16
+3047,MATH-501,Master semestre 3,4
+3048,MATH-591,Master semestre 1,39
+3049,MATH-591,Master semestre 2,8
+3050,MATH-591,Master semestre 3,27
+3051,MATH-592,Master semestre 1,3
+3052,MATH-592,Master semestre 2,47
+3053,MATH-592,Master semestre 3,1
+3054,MATH-593,Master semestre 1,10
+3055,MATH-593,Master semestre 2,7
+3056,MATH-593,Master semestre 3,6
+3057,MATH-595,Master semestre 1,20
+3058,MATH-595,Master semestre 2,17
+3059,MATH-595,Master semestre 3,7
+3060,MATH-596,Master semestre 1,47
+3061,MATH-596,Master semestre 2,7
+3062,MATH-596,Master semestre 3,18
+3063,MATH-596,Master semestre 4,4
+3064,MATH-597,Master semestre 1,1
+3065,MATH-597,Master semestre 3,1
+3066,MATH-597,Projet Master automne,1
+3067,MATH-598,Projet Master automne,13
+3068,MATH-598,Projet Master printemps,17
+3069,MATH-599,Projet Master automne,135
+3070,MATH-599,Projet Master printemps,107
+3071,ME-101,Bachelor semestre 1,1786
+3072,ME-102,Bachelor semestre 2,1458
+3073,ME-103,Bachelor semestre 2,1292
+3074,ME-104,Bachelor semestre 2,329
+3075,ME-105,Bachelor semestre 1,217
+3076,ME-106,Bachelor semestre 1,251
+3077,ME-201,Bachelor semestre 4,704
+3078,ME-201,Bachelor semestre 6,12
+3079,ME-202,Bachelor semestre 3,551
+3080,ME-202,Bachelor semestre 4,126
+3081,ME-211,Bachelor semestre 4,569
+3082,ME-212,Bachelor semestre 4,727
+3083,ME-221,Bachelor semestre 4,743
+3084,ME-231,Bachelor semestre 3,614
+3085,ME-231,Bachelor semestre 5,21
+3086,ME-231(a),Bachelor semestre 3,531
+3087,ME-231(a),Bachelor semestre 5,53
+3088,ME-231(a),Semestre automne,4
+3089,ME-231(b),Bachelor semestre 5,145
+3090,ME-232,Bachelor semestre 3,555
+3091,ME-232,Master semestre 1,17
+3092,ME-232,Master semestre 3,1
+3093,ME-251,Bachelor semestre 3,912
+3094,ME-271,Bachelor semestre 4,478
+3095,ME-273,Bachelor semestre 4,250
+3096,ME-301,Bachelor semestre 6,464
+3097,ME-302,Bachelor semestre 5,91
+3098,ME-311,Bachelor semestre 5,232
+3099,ME-311,Bachelor semestre 6,231
+3100,ME-312,Bachelor semestre 6,144
+3101,ME-312,Master semestre 2,21
+3102,ME-313,Bachelor semestre 5,380
+3103,ME-313,Bachelor semestre 6,84
+3104,ME-314,Bachelor semestre 5,88
+3105,ME-314,Bachelor semestre 6,379
+3106,ME-321,Bachelor semestre 5,1077
+3107,ME-321,Semestre automne,7
+3108,ME-322,Bachelor semestre 6,471
+3109,ME-323,Bachelor semestre 6,217
+3110,ME-323,Master semestre 2,6
+3111,ME-324,Bachelor semestre 6,188
+3112,ME-325,Bachelor semestre 5,424
+3113,ME-325,Semestre automne,9
+3114,ME-331,Bachelor semestre 6,480
+3115,ME-331,Semestre printemps,1
+3116,ME-332,Bachelor semestre 5,610
+3117,ME-332,Master semestre 1,6
+3118,ME-332,Master semestre 3,5
+3119,ME-341,Bachelor semestre 6,530
+3120,ME-341,Semestre printemps,19
+3121,ME-342,Bachelor semestre 6,258
+3122,ME-342,Semestre printemps,17
+3123,ME-343,Bachelor semestre 6,319
+3124,ME-343,Semestre printemps,5
+3125,ME-344,Bachelor semestre 5,644
+3126,ME-344,Semestre automne,7
+3127,ME-351,Bachelor semestre 6,290
+3128,ME-371,Bachelor semestre 6,163
+3129,ME-372,Bachelor semestre 5,637
+3130,ME-372,Semestre automne,12
+3131,ME-373,Bachelor semestre 6,363
+3132,ME-373,Semestre printemps,10
+3133,ME-401,Master semestre 1,239
+3134,ME-401,Master semestre 2,51
+3135,ME-401,Master semestre 3,144
+3136,ME-401,Master semestre 4,82
+3137,ME-402,Master semestre 1,144
+3138,ME-402,Master semestre 2,121
+3139,ME-402,Master semestre 3,36
+3140,ME-402,Master semestre 4,55
+3141,ME-411,Master semestre 3,22
+3142,ME-412,Master semestre 2,9
+3143,ME-413,Master semestre 2,29
+3144,ME-414,Master semestre 2,8
+3145,ME-415,Master semestre 1,150
+3146,ME-415,Master semestre 3,87
+3147,ME-416,Master semestre 1,259
+3148,ME-416,Master semestre 3,96
+3149,ME-416,Semestre automne,3
+3150,ME-417,Master semestre 2,206
+3151,ME-417,Master semestre 4,77
+3152,ME-418,Master semestre 1,69
+3153,ME-418,Master semestre 2,16
+3154,ME-418,Master semestre 4,14
+3155,ME-418,Semestre automne,4
+3156,ME-419,Master semestre 1,209
+3157,ME-419,Master semestre 3,82
+3158,ME-421,Master semestre 1,322
+3159,ME-421,Master semestre 3,80
+3160,ME-422,Master semestre 2,6
+3161,ME-423,Master semestre 1,83
+3162,ME-423,Master semestre 3,73
+3163,ME-424,Master semestre 2,51
+3164,ME-424,Master semestre 4,32
+3165,ME-425,Master semestre 2,112
+3166,ME-425,Master semestre 4,30
+3167,ME-430,Master semestre 1,86
+3168,ME-430,Master semestre 3,26
+3169,ME-431,Master semestre 1,19
+3170,ME-431,Master semestre 3,19
+3171,ME-432,Master semestre 2,56
+3172,ME-432,Master semestre 4,58
+3173,ME-433,Master semestre 2,1
+3174,ME-434,Master semestre 1,2
+3175,ME-435,Master semestre 1,101
+3176,ME-435,Master semestre 3,37
+3177,ME-441,Master semestre 3,30
+3178,ME-441,Semestre automne,1
+3179,ME-442,Master semestre 1,255
+3180,ME-442,Master semestre 3,166
+3181,ME-443,Master semestre 2,71
+3182,ME-443,Master semestre 4,37
+3183,ME-444,Bachelor semestre 6,56
+3184,ME-444,Master semestre 2,157
+3185,ME-444,Master semestre 4,79
+3186,ME-445,Master semestre 1,233
+3187,ME-445,Master semestre 3,57
+3188,ME-445,Semestre automne,35
+3189,ME-446,Master semestre 1,236
+3190,ME-446,Master semestre 3,82
+3191,ME-446,Semestre automne,44
+3192,ME-447,Master semestre 3,20
+3193,ME-450,Semestre automne,94
+3194,ME-450,Semestre printemps,35
+3195,ME-451,Master semestre 1,259
+3196,ME-451,Master semestre 3,63
+3197,ME-451,Semestre automne,83
+3198,ME-451(a),Master semestre 3,21
+3199,ME-451(a),Semestre automne,5
+3200,ME-452,Master semestre 2,279
+3201,ME-452,Master semestre 4,19
+3202,ME-452,Semestre printemps,60
+3203,ME-453,Master semestre 1,214
+3204,ME-453,Master semestre 3,78
+3205,ME-454,Master semestre 2,103
+3206,ME-454,Master semestre 4,52
+3207,ME-454,Semestre printemps,61
+3208,ME-455,Master semestre 1,201
+3209,ME-455,Master semestre 3,80
+3210,ME-456,Master semestre 1,74
+3211,ME-456,Master semestre 3,38
+3212,ME-457,Master semestre 2,12
+3213,ME-458,Master semestre 2,3
+3214,ME-459,Master semestre 2,103
+3215,ME-459,Master semestre 4,59
+3216,ME-460,Master semestre 2,203
+3217,ME-460,Master semestre 4,126
+3218,ME-460,Semestre printemps,105
+3219,ME-461,Master semestre 1,67
+3220,ME-461,Master semestre 3,72
+3221,ME-461,Semestre automne,5
+3222,ME-462,Master semestre 1,168
+3223,ME-462,Master semestre 3,60
+3224,ME-463,Master semestre 1,74
+3225,ME-463,Master semestre 3,27
+3226,ME-464,Master semestre 4,18
+3227,ME-465,Master semestre 4,20
+3228,ME-466,Master semestre 1,71
+3229,ME-467,Master semestre 1,68
+3230,ME-471,Master semestre 1,28
+3231,ME-471,Master semestre 3,23
+3232,ME-472,Master semestre 2,7
+3233,ME-472,Master semestre 3,17
+3234,ME-472,Semestre printemps,2
+3235,ME-473,Master semestre 2,106
+3236,ME-473,Master semestre 4,56
+3237,ME-474,Master semestre 1,272
+3238,ME-474,Master semestre 3,113
+3239,ME-475,Master semestre 1,11
+3240,ME-475,Master semestre 2,70
+3241,ME-475,Master semestre 4,53
+3242,ME-476,Master semestre 2,38
+3243,ME-476,Master semestre 4,20
+3244,ME-481,Master semestre 1,132
+3245,ME-481,Master semestre 2,112
+3246,ME-481,Master semestre 3,41
+3247,ME-481,Master semestre 4,64
+3248,ME-481,Semestre automne,22
+3249,ME-481,Semestre printemps,64
+3250,ME-482,Master semestre 1,241
+3251,ME-482,Master semestre 3,118
+3252,ME-482,Semestre automne,71
+3253,ME-483,Master semestre 2,38
+3254,ME-484,Master semestre 2,35
+3255,ME-484,Master semestre 4,56
+3256,ME-499,Master semestre 1,104
+3257,ME-499,Master semestre 3,67
+3258,ME-501,Master semestre 2,36
+3259,ME-503,Master semestre 1,52
+3260,ME-503,Master semestre 2,15
+3261,ME-503,Semestre automne,21
+3262,ME-503,Semestre printemps,3
+3263,ME-503(a),Master semestre 3,11
+3264,ME-503(b),Master semestre 2,4
+3265,ME-512,Master semestre 2,9
+3266,ME-513,Master semestre 2,29
+3267,ME-513,Semestre printemps,5
+3268,ME-516,Master semestre 2,27
+3269,ME-516,Master semestre 4,73
+3270,ME-521,Master semestre 2,10
+3271,ME-522,Master semestre 2,6
+3272,ME-523,Master semestre 1,163
+3273,ME-523,Master semestre 2,109
+3274,ME-523,Master semestre 3,22
+3275,ME-524,Master semestre 2,195
+3276,ME-524,Master semestre 4,52
+3277,ME-541,Master semestre 2,14
+3278,ME-541,Semestre printemps,1
+3279,ME-551,Master semestre 1,239
+3280,ME-551,Master semestre 3,64
+3281,ME-571,Master semestre 2,131
+3282,ME-571,Master semestre 4,83
+3283,ME-581,Master semestre 2,6
+3284,ME-597,Master semestre 1,56
+3285,ME-597,Master semestre 2,37
+3286,ME-597,Master semestre 3,17
+3287,ME-597,Master semestre 4,53
+3288,ME-597,Projet Master automne,5
+3289,ME-599,Projet Master automne,144
+3290,ME-599,Projet Master printemps,270
+3291,MGT-365,Bachelor semestre 5,250
+3292,MGT-400,Master semestre 1,108
+3293,MGT-400,Master semestre 3,79
+3294,MGT-400,Semestre automne,195
+3295,MGT-401,Master semestre 1,111
+3296,MGT-401,Master semestre 2,41
+3297,MGT-401,Master semestre 3,120
+3298,MGT-401,Semestre automne,246
+3299,MGT-401,Semestre printemps,20
+3300,MGT-402,Master semestre 1,59
+3301,MGT-402,Master semestre 2,29
+3302,MGT-402,Master semestre 3,3
+3303,MGT-402,Semestre automne,141
+3304,MGT-402,Semestre printemps,14
+3305,MGT-403,Master semestre 2,228
+3306,MGT-403,Master semestre 4,104
+3307,MGT-403,Semestre printemps,3
+3308,MGT-404,Master semestre 2,14
+3309,MGT-404,Semestre printemps,4
+3310,MGT-405,Master semestre 1,50
+3311,MGT-405,Master semestre 3,49
+3312,MGT-405,Semestre automne,84
+3313,MGT-405(a),Master semestre 1,53
+3314,MGT-405(a),Semestre automne,50
+3315,MGT-405(b),Master semestre 1,45
+3316,MGT-405(b),Semestre automne,51
+3317,MGT-406,Master semestre 2,9
+3318,MGT-406,Semestre printemps,11
+3319,MGT-407,Master semestre 2,43
+3320,MGT-407,Master semestre 4,28
+3321,MGT-407,Semestre printemps,130
+3322,MGT-408,Master semestre 1,45
+3323,MGT-408,Master semestre 3,4
+3324,MGT-408,Semestre automne,94
+3325,MGT-409,Master semestre 1,20
+3326,MGT-409,Master semestre 3,20
+3327,MGT-409,Semestre automne,25
+3328,MGT-412,Master semestre 1,23
+3329,MGT-412,Semestre automne,53
+3330,MGT-413,Master semestre 1,34
+3331,MGT-413,Master semestre 3,25
+3332,MGT-413,Semestre automne,64
+3333,MGT-413(a),Master semestre 1,87
+3334,MGT-413(a),Master semestre 3,64
+3335,MGT-413(a),Semestre automne,151
+3336,MGT-413(b),Master semestre 2,85
+3337,MGT-413(b),Master semestre 4,16
+3338,MGT-413(b),Semestre printemps,64
+3339,MGT-414,Master semestre 1,36
+3340,MGT-414,Semestre automne,56
+3341,MGT-426,Master semestre 2,229
+3342,MGT-426,Master semestre 4,121
+3343,MGT-426,Semestre printemps,383
+3344,MGT-427,Master semestre 1,336
+3345,MGT-427,Master semestre 3,311
+3346,MGT-427,Semestre automne,616
+3347,MGT-428,Master semestre 2,34
+3348,MGT-428,Master semestre 4,13
+3349,MGT-428,Semestre printemps,77
+3350,MGT-429,Master semestre 1,44
+3351,MGT-429,Master semestre 3,21
+3352,MGT-429,Semestre automne,129
+3353,MGT-430,Master semestre 2,18
+3354,MGT-430,Master semestre 4,26
+3355,MGT-430,Semestre printemps,96
+3356,MGT-431,Master semestre 2,16
+3357,MGT-431,Master semestre 4,7
+3358,MGT-431,Semestre printemps,24
+3359,MGT-439,Master semestre 1,94
+3360,MGT-439,Master semestre 2,19
+3361,MGT-439,Master semestre 3,74
+3362,MGT-439,Semestre automne,199
+3363,MGT-439,Semestre printemps,23
+3364,MGT-452,Master semestre 1,11
+3365,MGT-452,Master semestre 3,12
+3366,MGT-452,Semestre automne,8
+3367,MGT-453,Master semestre 2,166
+3368,MGT-453,Master semestre 4,63
+3369,MGT-453,Semestre printemps,253
+3370,MGT-454,Bachelor semestre 5,220
+3371,MGT-454,Master semestre 1,148
+3372,MGT-454,Master semestre 3,65
+3373,MGT-454,Semestre automne,239
+3374,MGT-455,Master semestre 2,66
+3375,MGT-455,Master semestre 4,18
+3376,MGT-455,Semestre printemps,155
+3377,MGT-465,Master semestre 3,34
+3378,MGT-465,Semestre automne,53
+3379,MGT-466,Master semestre 1,78
+3380,MGT-466,Master semestre 3,108
+3381,MGT-466,Semestre automne,251
+3382,MGT-467,Master semestre 2,34
+3383,MGT-467,Semestre printemps,37
+3384,MGT-468,Master semestre 2,71
+3385,MGT-468,Master semestre 4,28
+3386,MGT-468,Semestre printemps,135
+3387,MGT-469,Master semestre 1,95
+3388,MGT-469,Master semestre 3,47
+3389,MGT-469,Semestre automne,196
+3390,MGT-478,Master semestre 1,18
+3391,MGT-479,Master semestre 3,40
+3392,MGT-479,Semestre automne,79
+3393,MGT-480,Master semestre 1,20
+3394,MGT-480,Master semestre 3,7
+3395,MGT-480,Semestre automne,10
+3396,MGT-481,Master semestre 1,187
+3397,MGT-481,Master semestre 3,73
+3398,MGT-481,Semestre automne,196
+3399,MGT-482,Master semestre 1,191
+3400,MGT-482,Master semestre 3,68
+3401,MGT-482,Semestre automne,318
+3402,MGT-483,Master semestre 2,149
+3403,MGT-483,Master semestre 4,18
+3404,MGT-483,Semestre printemps,105
+3405,MGT-484,Master semestre 1,29
+3406,MGT-484,Master semestre 3,34
+3407,MGT-484,Semestre automne,71
+3408,MGT-491,Semestre automne,1
+3409,MGT-500,Master semestre 1,53
+3410,MGT-500,Master semestre 2,63
+3411,MGT-500,Master semestre 3,20
+3412,MGT-500,Semestre automne,96
+3413,MGT-500,Semestre printemps,20
+3414,MGT-501,Master semestre 2,61
+3415,MGT-501,Master semestre 4,28
+3416,MGT-501,Semestre printemps,106
+3417,MGT-503,Master semestre 1,47
+3418,MGT-503,Master semestre 3,47
+3419,MGT-503,Semestre automne,55
+3420,MGT-513,Master semestre 2,27
+3421,MGT-513,Semestre printemps,3
+3422,MGT-514,Master semestre 2,19
+3423,MGT-514,Semestre printemps,14
+3424,MGT-515,Master semestre 2,11
+3425,MGT-515,Semestre printemps,2
+3426,MGT-516,Master semestre 2,42
+3427,MGT-516,Semestre printemps,54
+3428,MGT-517,Master semestre 1,70
+3429,MGT-517,Master semestre 3,16
+3430,MGT-526,Master semestre 2,74
+3431,MGT-526,Master semestre 4,27
+3432,MGT-526,Semestre printemps,127
+3433,MGT-527,Master semestre 2,206
+3434,MGT-527,Master semestre 4,66
+3435,MGT-527,Semestre printemps,73
+3436,MGT-528,Master semestre 1,45
+3437,MGT-528,Master semestre 3,14
+3438,MGT-528,Semestre automne,120
+3439,MGT-552,Master semestre 2,54
+3440,MGT-552,Master semestre 4,36
+3441,MGT-552,Semestre printemps,151
+3442,MGT-578,Master semestre 2,18
+3443,MGT-580,Master semestre 2,18
+3444,MGT-581,Master semestre 1,20
+3445,MGT-581,Master semestre 4,57
+3446,MGT-597,Master semestre 4,2
+3447,MGT-599,Projet Master automne,46
+3448,MGT-599,Projet Master printemps,71
+3449,MICRO-100,Bachelor semestre 2,643
+3450,MICRO-101,Bachelor semestre 2,643
+3451,MICRO-102,Bachelor semestre 1,160
+3452,MICRO-102,Bachelor semestre 2,1101
+3453,MICRO-103,Bachelor semestre 2,234
+3454,MICRO-104,Bachelor semestre 2,234
+3455,MICRO-200,Bachelor semestre 4,587
+3456,MICRO-201,Bachelor semestre 4,587
+3457,MICRO-210,Bachelor semestre 4,585
+3458,MICRO-213,Bachelor semestre 4,609
+3459,MICRO-270,Bachelor semestre 4,596
+3460,MICRO-300,Bachelor semestre 5,555
+3461,MICRO-310(a),Bachelor semestre 6,451
+3462,MICRO-310(b),Bachelor semestre 6,448
+3463,MICRO-311(a),Bachelor semestre 6,451
+3464,MICRO-311(b),Bachelor semestre 6,539
+3465,MICRO-312,Bachelor semestre 5,521
+3466,MICRO-312,Master semestre 1,14
+3467,MICRO-312,Master semestre 3,8
+3468,MICRO-312,Semestre automne,3
+3469,MICRO-313,Bachelor semestre 5,549
+3470,MICRO-313,Semestre automne,5
+3471,MICRO-314,Bachelor semestre 6,430
+3472,MICRO-315,Bachelor semestre 6,435
+3473,MICRO-315,Semestre printemps,3
+3474,MICRO-320,Bachelor semestre 6,122
+3475,MICRO-320,Semestre printemps,1
+3476,MICRO-321,Bachelor semestre 5,358
+3477,MICRO-321,Bachelor semestre 6,50
+3478,MICRO-321,Semestre automne,14
+3479,MICRO-322,Bachelor semestre 6,298
+3480,MICRO-322,Semestre printemps,2
+3481,MICRO-330,Bachelor semestre 6,488
+3482,MICRO-330,Master semestre 2,36
+3483,MICRO-330,Semestre printemps,14
+3484,MICRO-331,Bachelor semestre 5,537
+3485,MICRO-331,Master semestre 1,8
+3486,MICRO-331,Master semestre 3,3
+3487,MICRO-331,Semestre automne,28
+3488,MICRO-332,Bachelor semestre 5,187
+3489,MICRO-332,Bachelor semestre 6,348
+3490,MICRO-332,Semestre automne,14
+3491,MICRO-332,Semestre printemps,26
+3492,MICRO-340,Bachelor semestre 5,532
+3493,MICRO-340,Master semestre 1,21
+3494,MICRO-340,Master semestre 3,11
+3495,MICRO-340,Semestre automne,3
+3496,MICRO-341,Bachelor semestre 6,437
+3497,MICRO-342,Bachelor semestre 6,437
+3498,MICRO-343,Bachelor semestre 6,440
+3499,MICRO-343,Master semestre 2,19
+3500,MICRO-391,Bachelor semestre 5,133
+3501,MICRO-420,Master semestre 1,158
+3502,MICRO-420,Master semestre 2,2
+3503,MICRO-420,Master semestre 3,26
+3504,MICRO-421,Master semestre 2,66
+3505,MICRO-422,Master semestre 1,105
+3506,MICRO-422,Master semestre 3,67
+3507,MICRO-423,Master semestre 2,61
+3508,MICRO-430,Master semestre 1,28
+3509,MICRO-430,Master semestre 2,122
+3510,MICRO-430,Master semestre 3,1
+3511,MICRO-431,Master semestre 1,83
+3512,MICRO-431,Master semestre 3,47
+3513,MICRO-432,Master semestre 1,82
+3514,MICRO-432,Master semestre 3,46
+3515,MICRO-433,Master semestre 2,107
+3516,MICRO-434,Master semestre 2,107
+3517,MICRO-440,Master semestre 2,137
+3518,MICRO-441,Master semestre 2,137
+3519,MICRO-442,Master semestre 1,135
+3520,MICRO-442,Master semestre 3,36
+3521,MICRO-443,Master semestre 2,43
+3522,MICRO-450,Master semestre 1,446
+3523,MICRO-450,Master semestre 2,136
+3524,MICRO-450,Master semestre 3,38
+3525,MICRO-451,Master semestre 2,240
+3526,MICRO-451,Master semestre 4,25
+3527,MICRO-452,Master semestre 2,102
+3528,MICRO-453,Master semestre 1,29
+3529,MICRO-453,Master semestre 2,150
+3530,MICRO-453,Master semestre 3,51
+3531,MICRO-454,Master semestre 1,61
+3532,MICRO-455,Master semestre 1,104
+3533,MICRO-455,Semestre automne,4
+3534,MICRO-460,Master semestre 3,9
+3535,MICRO-460,Semestre automne,4
+3536,MICRO-486,Semestre automne,29
+3537,MICRO-486,Semestre printemps,8
+3538,MICRO-498,Master semestre 1,456
+3539,MICRO-498,Master semestre 3,132
+3540,MICRO-499,Master semestre 1,20
+3541,MICRO-499,Master semestre 2,470
+3542,MICRO-499,Semestre automne,13
+3543,MICRO-510,Master semestre 2,201
+3544,MICRO-511,Master semestre 1,775
+3545,MICRO-511,Master semestre 3,387
+3546,MICRO-511,Semestre automne,53
+3547,MICRO-512,Master semestre 2,269
+3548,MICRO-512,Master semestre 4,40
+3549,MICRO-512,Semestre printemps,24
+3550,MICRO-513,Master semestre 2,90
+3551,MICRO-513,Master semestre 4,42
+3552,MICRO-513,Semestre printemps,10
+3553,MICRO-514,Master semestre 1,176
+3554,MICRO-514,Master semestre 2,20
+3555,MICRO-514,Master semestre 3,30
+3556,MICRO-514,Semestre automne,61
+3557,MICRO-520,Master semestre 2,83
+3558,MICRO-521,Master semestre 1,17
+3559,MICRO-521,Master semestre 3,24
+3560,MICRO-522,Master semestre 2,39
+3561,MICRO-522,Semestre printemps,3
+3562,MICRO-523,Master semestre 1,186
+3563,MICRO-523,Master semestre 3,81
+3564,MICRO-530,Master semestre 1,53
+3565,MICRO-530,Master semestre 2,82
+3566,MICRO-530,Semestre printemps,2
+3567,MICRO-531,Master semestre 2,82
+3568,MICRO-531,Semestre printemps,3
+3569,MICRO-532,Master semestre 3,64
+3570,MICRO-532,Semestre automne,16
+3571,MICRO-533,Master semestre 1,67
+3572,MICRO-533,Master semestre 2,3
+3573,MICRO-533,Master semestre 3,38
+3574,MICRO-533,Semestre automne,19
+3575,MICRO-534,Master semestre 1,70
+3576,MICRO-534,Master semestre 2,13
+3577,MICRO-540,Master semestre 2,221
+3578,MICRO-541,Master semestre 2,42
+3579,MICRO-550,Master semestre 1,244
+3580,MICRO-550,Master semestre 3,40
+3581,MICRO-551,Master semestre 1,43
+3582,MICRO-551,Master semestre 2,148
+3583,MICRO-551,Master semestre 3,37
+3584,MICRO-551,Semestre automne,27
+3585,MICRO-551,Semestre printemps,40
+3586,MICRO-552,Master semestre 1,188
+3587,MICRO-552,Master semestre 2,36
+3588,MICRO-552,Master semestre 3,67
+3589,MICRO-553,Master semestre 2,48
+3590,MICRO-560,Master semestre 1,399
+3591,MICRO-560,Master semestre 3,173
+3592,MICRO-560,Semestre automne,110
+3593,MICRO-561,Master semestre 1,297
+3594,MICRO-561,Master semestre 3,158
+3595,MICRO-561,Semestre automne,34
+3596,MICRO-562,Master semestre 2,139
+3597,MICRO-562,Master semestre 4,33
+3598,MICRO-562,Semestre printemps,10
+3599,MICRO-563,Semestre automne,42
+3600,MICRO-563,Semestre printemps,9
+3601,MICRO-563(a),Semestre automne,62
+3602,MICRO-563(b),Semestre printemps,97
+3603,MICRO-564,Master semestre 1,11
+3604,MICRO-564,Master semestre 3,1
+3605,MICRO-565,Master semestre 2,154
+3606,MICRO-565,Master semestre 3,43
+3607,MICRO-565,Semestre printemps,25
+3608,MICRO-566,Master semestre 2,61
+3609,MICRO-567,Master semestre 1,17
+3610,MICRO-568,Master semestre 1,45
+3611,MICRO-568,Semestre automne,99
+3612,MICRO-569,Master semestre 1,48
+3613,MICRO-570,Master semestre 2,1
+3614,MICRO-597,Master semestre 1,94
+3615,MICRO-597,Master semestre 2,107
+3616,MICRO-597,Projet Master automne,4
+3617,MICRO-599,Projet Master automne,318
+3618,MICRO-599,Projet Master printemps,176
+3619,MSE-100,Bachelor semestre 1,797
+3620,MSE-100,Bachelor semestre 2,785
+3621,MSE-100(a),Bachelor semestre 1,448
+3622,MSE-100(b),Bachelor semestre 1,888
+3623,MSE-100(b),Bachelor semestre 2,231
+3624,MSE-100(c),Bachelor semestre 2,624
+3625,MSE-101,Bachelor semestre 2,113
+3626,MSE-102,Bachelor semestre 2,113
+3627,MSE-103,Bachelor semestre 2,210
+3628,MSE-110(a),Bachelor semestre 2,296
+3629,MSE-110(b),Bachelor semestre 2,772
+3630,MSE-170,Bachelor semestre 1,1143
+3631,MSE-172,Bachelor semestre 2,332
+3632,MSE-173,Bachelor semestre 1,366
+3633,MSE-173,Bachelor semestre 2,285
+3634,MSE-174,Bachelor semestre 2,285
+3635,MSE-200,Bachelor semestre 1,66
+3636,MSE-200,Bachelor semestre 3,91
+3637,MSE-200,Bachelor semestre 4,22
+3638,MSE-201,Bachelor semestre 4,68
+3639,MSE-202,Bachelor semestre 3,114
+3640,MSE-202,Bachelor semestre 4,134
+3641,MSE-202,Semestre automne,1
+3642,MSE-203,Bachelor semestre 3,288
+3643,MSE-204,Bachelor semestre 3,280
+3644,MSE-204,Bachelor semestre 5,4
+3645,MSE-205,Bachelor semestre 4,251
+3646,MSE-206,Bachelor semestre 4,241
+3647,MSE-207,Bachelor semestre 3,102
+3648,MSE-207,Bachelor semestre 4,502
+3649,MSE-208,Bachelor semestre 3,122
+3650,MSE-208,Bachelor semestre 4,599
+3651,MSE-208,Semestre automne,4
+3652,MSE-209,Bachelor semestre 4,243
+3653,MSE-210,Bachelor semestre 4,163
+3654,MSE-210,Bachelor semestre 5,23
+3655,MSE-211,Bachelor semestre 3,156
+3656,MSE-211,Bachelor semestre 4,39
+3657,MSE-220,Bachelor semestre 4,26
+3658,MSE-230,Bachelor semestre 4,248
+3659,MSE-231,Bachelor semestre 6,128
+3660,MSE-236,Bachelor semestre 3,324
+3661,MSE-260,Bachelor semestre 4,225
+3662,MSE-270,Bachelor semestre 3,173
+3663,MSE-270,Semestre automne,10
+3664,MSE-271,Bachelor semestre 4,91
+3665,MSE-300,Bachelor semestre 5,22
+3666,MSE-300(a),Bachelor semestre 5,152
+3667,MSE-300(b),Bachelor semestre 6,119
+3668,MSE-301,Bachelor semestre 6,57
+3669,MSE-302,Bachelor semestre 5,59
+3670,MSE-302,Bachelor semestre 6,105
+3671,MSE-302,Semestre automne,2
+3672,MSE-303,Bachelor semestre 6,58
+3673,MSE-304,Bachelor semestre 5,147
+3674,MSE-310,Bachelor semestre 5,206
+3675,MSE-310,Semestre automne,2
+3676,MSE-311,Bachelor semestre 4,41
+3677,MSE-311,Bachelor semestre 5,60
+3678,MSE-311,Bachelor semestre 6,73
+3679,MSE-311,Semestre automne,1
+3680,MSE-312,Bachelor semestre 6,54
+3681,MSE-320,Bachelor semestre 6,41
+3682,MSE-320,Semestre printemps,2
+3683,MSE-321,Bachelor semestre 5,60
+3684,MSE-322,Bachelor semestre 6,161
+3685,MSE-323,Bachelor semestre 5,58
+3686,MSE-324,Bachelor semestre 6,55
+3687,MSE-325,Bachelor semestre 6,56
+3688,MSE-326,Bachelor semestre 5,128
+3689,MSE-340,Bachelor semestre 5,204
+3690,MSE-340,Master semestre 1,83
+3691,MSE-340,Master semestre 3,19
+3692,MSE-340,Semestre automne,2
+3693,MSE-341,Bachelor semestre 6,60
+3694,MSE-350,Bachelor semestre 6,57
+3695,MSE-351,Bachelor semestre 6,168
+3696,MSE-351,Semestre printemps,1
+3697,MSE-352,Bachelor semestre 5,224
+3698,MSE-352,Semestre automne,15
+3699,MSE-353,Bachelor semestre 5,59
+3700,MSE-353,Semestre automne,1
+3701,MSE-360,Bachelor semestre 5,213
+3702,MSE-360,Semestre automne,1
+3703,MSE-361,Bachelor semestre 6,60
+3704,MSE-370,Bachelor semestre 6,166
+3705,MSE-371,Bachelor semestre 5,84
+3706,MSE-390,Bachelor semestre 5,61
+3707,MSE-390,Bachelor semestre 6,106
+3708,MSE-390,Semestre automne,4
+3709,MSE-391,Bachelor semestre 6,39
+3710,MSE-400,Master semestre 1,27
+3711,MSE-400,Master semestre 2,91
+3712,MSE-401,Master semestre 2,59
+3713,MSE-402,Master semestre 1,11
+3714,MSE-402,Master semestre 3,25
+3715,MSE-403,Master semestre 1,168
+3716,MSE-403,Master semestre 3,26
+3717,MSE-410,Master semestre 3,21
+3718,MSE-411,Master semestre 1,82
+3719,MSE-411,Master semestre 3,52
+3720,MSE-411,Semestre automne,11
+3721,MSE-412,Master semestre 1,9
+3722,MSE-420,Master semestre 1,63
+3723,MSE-420,Master semestre 3,26
+3724,MSE-423,Master semestre 1,61
+3725,MSE-424,Master semestre 1,52
+3726,MSE-425,Master semestre 1,72
+3727,MSE-430,Master semestre 1,123
+3728,MSE-430,Master semestre 3,76
+3729,MSE-431,Master semestre 2,198
+3730,MSE-431,Master semestre 4,18
+3731,MSE-437,Master semestre 1,236
+3732,MSE-437,Master semestre 3,65
+3733,MSE-440,Master semestre 1,202
+3734,MSE-440,Master semestre 3,112
+3735,MSE-441,Master semestre 1,35
+3736,MSE-441,Master semestre 3,23
+3737,MSE-442,Master semestre 2,16
+3738,MSE-443(a),Master semestre 1,43
+3739,MSE-450,Master semestre 1,41
+3740,MSE-450,Master semestre 2,99
+3741,MSE-451,Master semestre 2,113
+3742,MSE-461,Master semestre 2,76
+3743,MSE-462,Master semestre 1,100
+3744,MSE-462,Master semestre 3,39
+3745,MSE-463,Master semestre 2,365
+3746,MSE-463,Master semestre 4,27
+3747,MSE-463,Semestre printemps,9
+3748,MSE-464,Master semestre 2,155
+3749,MSE-465,Master semestre 1,146
+3750,MSE-465,Master semestre 3,57
+3751,MSE-465,Semestre automne,1
+3752,MSE-466,Master semestre 2,138
+3753,MSE-467,Master semestre 2,16
+3754,MSE-468,Master semestre 1,7
+3755,MSE-468,Master semestre 2,8
+3756,MSE-468,Master semestre 3,13
+3757,MSE-470,Master semestre 1,214
+3758,MSE-470,Master semestre 2,22
+3759,MSE-470,Master semestre 3,105
+3760,MSE-471,Master semestre 1,177
+3761,MSE-471,Master semestre 3,91
+3762,MSE-471,Semestre automne,123
+3763,MSE-472,Master semestre 1,62
+3764,MSE-472,Master semestre 3,33
+3765,MSE-473,Master semestre 2,155
+3766,MSE-474,Master semestre 2,266
+3767,MSE-474,Semestre printemps,11
+3768,MSE-475,Master semestre 2,127
+3769,MSE-475,Semestre printemps,108
+3770,MSE-476,Master semestre 3,5
+3771,MSE-477,Master semestre 1,167
+3772,MSE-477,Master semestre 3,101
+3773,MSE-477,Semestre automne,44
+3774,MSE-478,Master semestre 2,84
+3775,MSE-479,Master semestre 1,80
+3776,MSE-479,Master semestre 3,44
+3777,MSE-479,Semestre automne,11
+3778,MSE-480,Master semestre 2,78
+3779,MSE-480,Semestre printemps,1
+3780,MSE-481,Master semestre 2,18
+3781,MSE-481,Semestre printemps,7
+3782,MSE-484,Master semestre 1,68
+3783,MSE-484,Master semestre 2,10
+3784,MSE-484,Master semestre 3,39
+3785,MSE-485,Master semestre 1,202
+3786,MSE-485,Master semestre 3,99
+3787,MSE-485,Semestre automne,36
+3788,MSE-486,Master semestre 2,91
+3789,MSE-487,Master semestre 2,101
+3790,MSE-488,Master semestre 1,98
+3791,MSE-488,Master semestre 3,40
+3792,MSE-490,Master semestre 2,48
+3793,MSE-490,Master semestre 3,2
+3794,MSE-490(a),Master semestre 1,227
+3795,MSE-490(a),Master semestre 3,62
+3796,MSE-490(a),Semestre printemps,2
+3797,MSE-490(b),Master semestre 1,8
+3798,MSE-490(b),Master semestre 2,195
+3799,MSE-490(b),Semestre automne,7
+3800,MSE-490(c),Master semestre 1,2
+3801,MSE-491,Master semestre 3,54
+3802,MSE-597,Master semestre 1,51
+3803,MSE-597,Master semestre 2,37
+3804,MSE-597,Master semestre 3,15
+3805,MSE-597,Projet Master automne,3
+3806,MSE-599,Projet Master automne,82
+3807,MSE-599,Projet Master printemps,75
+3808,MSE-599(a),Projet Master automne,42
+3809,MSE-599(b),Projet Master printemps,32
+3810,PHYS-100,Bachelor semestre 1,1262
+3811,PHYS-101(a),Bachelor semestre 1,1332
+3812,PHYS-101(b),Bachelor semestre 1,1349
+3813,PHYS-101(c),Bachelor semestre 1,1165
+3814,PHYS-101(d),Bachelor semestre 1,1606
+3815,PHYS-101(de),Bachelor semestre 1,128
+3816,PHYS-101(e),Bachelor semestre 1,1325
+3817,PHYS-101(en),Bachelor semestre 1,557
+3818,PHYS-101(f),Bachelor semestre 1,1042
+3819,PHYS-101(g),Bachelor semestre 1,1459
+3820,PHYS-101(h),Bachelor semestre 1,660
+3821,PHYS-101(h),Semestre printemps,73
+3822,PHYS-101(i),Bachelor semestre 1,378
+3823,PHYS-101(i),Semestre automne,72
+3824,PHYS-102,Semestre automne,288
+3825,PHYS-103,Bachelor semestre 1,226
+3826,PHYS-104,Bachelor semestre 1,267
+3827,PHYS-104,Bachelor semestre 2,130
+3828,PHYS-104(a),Bachelor semestre 1,604
+3829,PHYS-104(b),Bachelor semestre 1,120
+3830,PHYS-105,Bachelor semestre 2,1060
+3831,PHYS-106,Bachelor semestre 2,252
+3832,PHYS-106(a),Bachelor semestre 2,1106
+3833,PHYS-106(b),Bachelor semestre 2,991
+3834,PHYS-106(c),Bachelor semestre 2,918
+3835,PHYS-106(c),Bachelor semestre 4,3
+3836,PHYS-106(d),Bachelor semestre 2,1238
+3837,PHYS-106(de),Bachelor semestre 2,1
+3838,PHYS-106(e),Bachelor semestre 2,969
+3839,PHYS-106(en),Bachelor semestre 2,134
+3840,PHYS-106(f),Bachelor semestre 2,844
+3841,PHYS-106(g),Bachelor semestre 2,716
+3842,PHYS-106(h),Bachelor semestre 2,446
+3843,PHYS-106(i),Bachelor semestre 2,218
+3844,PHYS-106(i),Semestre printemps,34
+3845,PHYS-106(j),Bachelor semestre 2,193
+3846,PHYS-107,Bachelor semestre 2,158
+3847,PHYS-108(a),Semestre automne,222
+3848,PHYS-108(b),Semestre automne,72
+3849,PHYS-110,Bachelor semestre 2,231
+3850,PHYS-111,Bachelor semestre 1,180
+3851,PHYS-112,Bachelor semestre 2,107
+3852,PHYS-113,Bachelor semestre 3,206
+3853,PHYS-114,Bachelor semestre 3,374
+3854,PHYS-114,Bachelor semestre 4,196
+3855,PHYS-114,Semestre automne,7
+3856,PHYS-115,Bachelor semestre 1,879
+3857,PHYS-116,Bachelor semestre 2,579
+3858,PHYS-200,Bachelor semestre 3,668
+3859,PHYS-201(a),Bachelor semestre 3,1299
+3860,PHYS-201(a),Semestre automne,6
+3861,PHYS-201(b),Bachelor semestre 3,831
+3862,PHYS-201(b),Semestre automne,16
+3863,PHYS-201(c),Bachelor semestre 3,1603
+3864,PHYS-201(c),Semestre automne,10
+3865,PHYS-201(d),Bachelor semestre 3,452
+3866,PHYS-201(e),Bachelor semestre 3,1192
+3867,PHYS-201(e),Bachelor semestre 5,92
+3868,PHYS-201(e),Semestre automne,11
+3869,PHYS-202,Bachelor semestre 3,53
+3870,PHYS-202,Bachelor semestre 4,513
+3871,PHYS-203,Bachelor semestre 4,508
+3872,PHYS-204,Bachelor semestre 4,503
+3873,PHYS-205,Bachelor semestre 3,635
+3874,PHYS-206,Bachelor semestre 4,547
+3875,PHYS-206(h),Semestre automne,86
+3876,PHYS-207(a),Bachelor semestre 4,623
+3877,PHYS-207(b),Bachelor semestre 4,650
+3878,PHYS-207(b),Bachelor semestre 6,37
+3879,PHYS-207(c),Bachelor semestre 4,1299
+3880,PHYS-208,Bachelor semestre 4,681
+3881,PHYS-209,Bachelor semestre 4,543
+3882,PHYS-209,Semestre printemps,69
+3883,PHYS-210,Bachelor semestre 4,508
+3884,PHYS-211,Bachelor semestre 4,503
+3885,PHYS-212,Bachelor semestre 4,317
+3886,PHYS-216,Bachelor semestre 4,89
+3887,PHYS-217,Bachelor semestre 3,513
+3888,PHYS-218,Bachelor semestre 4,329
+3889,PHYS-300,Bachelor semestre 5,42
+3890,PHYS-300,Semestre automne,1
+3891,PHYS-301,Bachelor semestre 5,224
+3892,PHYS-301,Bachelor semestre 6,22
+3893,PHYS-301,Master semestre 1,68
+3894,PHYS-301,Master semestre 2,4
+3895,PHYS-301,Master semestre 3,24
+3896,PHYS-301,Master semestre 4,8
+3897,PHYS-301,Semestre automne,69
+3898,PHYS-301,Semestre printemps,12
+3899,PHYS-302,Bachelor semestre 6,74
+3900,PHYS-302,Master semestre 1,33
+3901,PHYS-302,Master semestre 2,11
+3902,PHYS-302,Semestre printemps,12
+3903,PHYS-305,Bachelor semestre 5,23
+3904,PHYS-306,Bachelor semestre 6,12
+3905,PHYS-307,Bachelor semestre 5,131
+3906,PHYS-307,Master semestre 1,29
+3907,PHYS-307,Master semestre 3,5
+3908,PHYS-309,Bachelor semestre 5,491
+3909,PHYS-310,Bachelor semestre 6,370
+3910,PHYS-311,Bachelor semestre 5,497
+3911,PHYS-312,Bachelor semestre 6,220
+3912,PHYS-313,Bachelor semestre 5,479
+3913,PHYS-314,Bachelor semestre 6,373
+3914,PHYS-315,Bachelor semestre 5,469
+3915,PHYS-316,Bachelor semestre 6,260
+3916,PHYS-317,Bachelor semestre 5,180
+3917,PHYS-317,Bachelor semestre 6,23
+3918,PHYS-317,Master semestre 1,7
+3919,PHYS-317,Master semestre 2,1
+3920,PHYS-317,Master semestre 3,3
+3921,PHYS-318,Bachelor semestre 6,61
+3922,PHYS-318,Master semestre 1,12
+3923,PHYS-319,Bachelor semestre 5,388
+3924,PHYS-320,Bachelor semestre 6,328
+3925,PHYS-323,Bachelor semestre 5,126
+3926,PHYS-323,Bachelor semestre 6,47
+3927,PHYS-324,Bachelor semestre 5,143
+3928,PHYS-324,Bachelor semestre 6,308
+3929,PHYS-325,Bachelor semestre 6,232
+3930,PHYS-326,Bachelor semestre 6,132
+3931,PHYS-327,Bachelor semestre 6,44
+3932,PHYS-328,Bachelor semestre 6,74
+3933,PHYS-328,Master semestre 2,16
+3934,PHYS-329,Bachelor semestre 5,70
+3935,PHYS-329(b),Bachelor semestre 5,42
+3936,PHYS-330,Bachelor semestre 6,56
+3937,PHYS-332,Bachelor semestre 6,164
+3938,PHYS-332,Master semestre 2,24
+3939,PHYS-333,Bachelor semestre 6,26
+3940,PHYS-335,Bachelor semestre 5,252
+3941,PHYS-335,Bachelor semestre 5b,105
+3942,PHYS-335,Semestre automne,4
+3943,PHYS-336,Bachelor semestre 6,249
+3944,PHYS-336,Semestre printemps,1
+3945,PHYS-400,Master semestre 2,128
+3946,PHYS-401,Master semestre 1,69
+3947,PHYS-401,Master semestre 3,41
+3948,PHYS-401,Semestre automne,18
+3949,PHYS-402,Master semestre 2,106
+3950,PHYS-403,Master semestre 1,129
+3951,PHYS-403,Master semestre 2,9
+3952,PHYS-403,Master semestre 3,55
+3953,PHYS-404,Master semestre 2,10
+3954,PHYS-404(a),Master semestre 2,31
+3955,PHYS-405,Master semestre 1,140
+3956,PHYS-405,Master semestre 3,142
+3957,PHYS-406,Master semestre 2,143
+3958,PHYS-407,Master semestre 1,83
+3959,PHYS-407,Master semestre 3,107
+3960,PHYS-408,Master semestre 2,10
+3961,PHYS-409,Master semestre 2,22
+3962,PHYS-409,Master semestre 3,19
+3963,PHYS-411,Master semestre 1,98
+3964,PHYS-411,Master semestre 3,72
+3965,PHYS-412,Master semestre 3,12
+3966,PHYS-413,Master semestre 2,31
+3967,PHYS-414,Master semestre 2,30
+3968,PHYS-415,Master semestre 1,136
+3969,PHYS-415,Master semestre 3,92
+3970,PHYS-416,Master semestre 2,137
+3971,PHYS-417,Master semestre 3,26
+3972,PHYS-418,Master semestre 2,16
+3973,PHYS-419,Master semestre 1,116
+3974,PHYS-419,Master semestre 3,113
+3975,PHYS-420,Master semestre 2,108
+3976,PHYS-421,Master semestre 1,240
+3977,PHYS-421,Master semestre 3,262
+3978,PHYS-421,Semestre printemps,1
+3979,PHYS-422,Master semestre 2,421
+3980,PHYS-422,Semestre automne,4
+3981,PHYS-423,Master semestre 1,81
+3982,PHYS-423,Master semestre 3,68
+3983,PHYS-423,Semestre automne,7
+3984,PHYS-424,Master semestre 2,75
+3985,PHYS-424,Semestre printemps,3
+3986,PHYS-425,Master semestre 1,171
+3987,PHYS-425,Master semestre 3,143
+3988,PHYS-426,Master semestre 2,166
+3989,PHYS-427,Master semestre 1,208
+3990,PHYS-427,Master semestre 3,146
+3991,PHYS-428,Master semestre 2,191
+3992,PHYS-431,Master semestre 1,169
+3993,PHYS-431,Master semestre 3,100
+3994,PHYS-432,Master semestre 2,141
+3995,PHYS-433,Master semestre 1,70
+3996,PHYS-433,Master semestre 3,95
+3997,PHYS-434,Master semestre 2,110
+3998,PHYS-435,Master semestre 1,177
+3999,PHYS-435,Master semestre 3,126
+4000,PHYS-436,Master semestre 2,171
+4001,PHYS-437,Master semestre 2,69
+4002,PHYS-437,Master semestre 4,2
+4003,PHYS-438,Master semestre 2,376
+4004,PHYS-438,Master semestre 4,75
+4005,PHYS-438,Semestre printemps,72
+4006,PHYS-439,Master semestre 2,159
+4007,PHYS-440,Master semestre 2,116
+4008,PHYS-441,Master semestre 1,71
+4009,PHYS-441,Master semestre 2,116
+4010,PHYS-441,Master semestre 3,30
+4011,PHYS-443,Master semestre 1,142
+4012,PHYS-443,Master semestre 3,52
+4013,PHYS-444,Master semestre 1,12
+4014,PHYS-444,Master semestre 3,17
+4015,PHYS-445,Master semestre 1,113
+4016,PHYS-445,Master semestre 3,12
+4017,PHYS-446,Master semestre 1,109
+4018,PHYS-446,Master semestre 3,17
+4019,PHYS-447,Master semestre 1,140
+4020,PHYS-447,Master semestre 3,43
+4021,PHYS-448,Master semestre 1,149
+4022,PHYS-448,Master semestre 3,59
+4023,PHYS-449,Master semestre 1,19
+4024,PHYS-449,Master semestre 2,13
+4025,PHYS-449,Master semestre 3,40
+4026,PHYS-450,Master semestre 1,113
+4027,PHYS-450,Master semestre 3,2
+4028,PHYS-453,Master semestre 1,89
+4029,PHYS-453,Master semestre 3,50
+4030,PHYS-454,Master semestre 2,68
+4031,PHYS-455,Master semestre 1,22
+4032,PHYS-456,Master semestre 3,7
+4033,PHYS-457,Master semestre 3,7
+4034,PHYS-458,Master semestre 1,60
+4035,PHYS-458,Master semestre 3,55
+4036,PHYS-459,Master semestre 2,55
+4037,PHYS-482,Master semestre 3,29
+4038,PHYS-483,Master semestre 2,10
+4039,PHYS-500(a),Projet Master automne,214
+4040,PHYS-500(b),Projet Master printemps,85
+4041,PHYS-501(a),Projet Master automne,12
+4042,PHYS-501(b),Projet Master printemps,28
+4043,PHYS-502(a),Projet Master automne,16
+4044,PHYS-502(b),Projet Master printemps,78
+4045,PHYS-595,Master semestre 3,36
+4046,PHYS-596,Master semestre 1,19
+4047,PHYS-596,Master semestre 2,2
+4048,PHYS-596,Master semestre 3,79
+4049,PHYS-596,Master semestre 4,4
+4050,PREPA-001,Semestre automne,399
+4051,PREPA-002,Semestre printemps,178
+4052,PREPA-003,Semestre automne,399
+4053,PREPA-004,Semestre printemps,178
+4054,PREPA-005,Semestre automne,399
+4055,PREPA-006,Semestre printemps,178
+4056,PREPA-007,Semestre automne,76
+4057,PREPA-008,Semestre printemps,35
+4058,PREPA-009,Semestre automne,400
+4059,PREPA-010,Semestre printemps,178
+4060,PREPA-011,Semestre automne,399
+4061,PREPA-012,Semestre printemps,178
+4062,PREPA-013,Semestre automne,399
+4063,PREPA-014,Semestre printemps,178
+4064,PREPA-015,Semestre automne,72
+4065,PREPA-016,Semestre printemps,24
+4066,PREPA-017,Semestre automne,271
+4067,PREPA-018,Semestre printemps,120
+4068,PREPA-021,Semestre automne,399
+4069,PREPA-022,Semestre printemps,178
+4070,UNIL-101(j),Semestre automne,15
+4071,UNIL-101(k),Semestre automne,70
+4072,UNIL-106(j),Semestre printemps,9
+4073,UNIL-106(k),Semestre printemps,49
+4074,UNIL-109(a),Semestre printemps,9
+4075,UNIL-109(b),Semestre printemps,49
+4076,UNIL-127,Semestre printemps,107
+4077,UNIL-213,Semestre printemps,35
