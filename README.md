@@ -15,6 +15,6 @@ The notebooks contain descriptions, explanations and comments along with the cod
 
 ### Visualization
 
-Visualization of the graph is available [here](https://rinjac.github.io/EPFL-Courses-Similarity/).
+Visualization of the graph is available [here](https://rinjac.github.io/EPFL-courses-similarity/).
 
 The code I used to make the visualization, which can be found in the _docs_ folder, __is not mine.__ It is a work of another EPFL student, Raphaël Steinmann, who had a project in graph visualization. His original code is available [here](https://github.com/rbsteinm/EPFL-Courses-Graph-Representation). I only tweaked a few things to fit in my graph.
